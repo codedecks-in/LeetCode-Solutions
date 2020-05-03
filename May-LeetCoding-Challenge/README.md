@@ -1,2 +1,5 @@
-<img src="/May-Leetcoding-31-Day-Challenge/images/Snip20200503_3.png width="800">
+<img src="/May-LeetCoding-Challenge/images/mayCodingChallenge.png width="800">
 
+<img src="/May-LeetCoding-Challenge/images/day1.png width="800">
+
+<img src="/May-LeetCoding-Challenge/images/day2.png width="800">

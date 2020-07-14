@@ -67,7 +67,7 @@ This repository consists of the solutions of the problems from LeetCode platform
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
+
 
 <br/>
 <div align="right">
@@ -79,13 +79,18 @@ This repository consists of the solutions of the problems from LeetCode platform
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## LinkedList
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-0136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
+
 
 
 <br/>

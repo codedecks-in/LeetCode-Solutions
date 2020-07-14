@@ -19,3 +19,41 @@ This repository consists of the solutions of the problems from LeetCode platform
 * For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.
 * Hope you enjoy the journey of learning data structures and algorithms.
 * Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
+
+
+## Algorithms
+
+* [Bit Manipulation](#bit-manipulation)
+* [Array](#array)
+* [String](#string)
+* [Linked List](#linked-list)
+* [Stack](#stack)
+* [Queue](#queue)
+* [Heap](#heap)
+* [Tree](#tree)
+* [Hash Table](#hash-table)
+* [Math](#math)
+* [Two Pointers](#two-pointers)
+* [Sort](#sort)
+* [Recursion](#recursion)
+* [Binary Search](#binary-search)
+* [Binary Search Tree](#binary-search-tree)
+* [Breadth-First Search](#breadth-first-search)
+* [Depth-First Search](#depth-first-search)
+* [Backtracking](#backtracking)
+* [Dynamic Programming](#dynamic-programming)
+* [Greedy](#greedy)
+* [Graph](#graph)
+* [Geometry](#geometry)
+* [Simulation](#simulation)
+* [Design](#design)
+* [Concurrency](#concurrency)
+
+
+## Bit Manipulation
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+0136 | [Single Number](https://leetcode.com/problems/single-number/) | [Java](./Java/single-number.java) [Python](./Python/single-number.py) | _O(n)_       | _O(1)_          | Easy         |||
+0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Java](./Java/single-number-ii.java) [Python](./Python/single-number-ii.py) | _O(n)_ | _O(1)_          | Medium         |||
+
+

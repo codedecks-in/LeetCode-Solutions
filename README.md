@@ -14,3 +14,8 @@
 Got stuck in a LeetCode question? 
 <br>
 This repository consists of the solutions of the problems from LeetCode platform. If you want to contribute, please create a pull request.
+
+* There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
+* For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.
+* Hope you enjoy the journey of learning data structures and algorithms.
+* Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.

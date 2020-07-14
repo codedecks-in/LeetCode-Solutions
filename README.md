@@ -1,7 +1,7 @@
 # [LeetCode-Solutions](https://leetcode.com/problemset/all/)
 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java-orange.svg)&nbsp;
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 ![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
 
 <!-- !![Progress](https://img.shields.io/badge/progress-1515%20%2F%201515-ff69b4.svg)&nbsp;

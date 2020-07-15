@@ -11,8 +11,12 @@
 <!-- ![Today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=kamyu104.leetcode.solutions) -->
 <br>
 
-Got stuck in a LeetCode question? 
+### Don't forget to give us a 🌟
 <br>
+Got stuck in a LeetCode question?
+
+<br>
+
 This repository consists of the solutions of the problems from LeetCode platform. If you want to contribute, please create a [Pull Request](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/PULL_REQUEST_TEMPLATE).
 
 * There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.

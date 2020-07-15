@@ -13,7 +13,7 @@
 
 Got stuck in a LeetCode question? 
 <br>
-This repository consists of the solutions of the problems from LeetCode platform. If you want to contribute, please create a pull request.
+This repository consists of the solutions of the problems from LeetCode platform. If you want to contribute, please create a [Pull Request](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/PULL_REQUEST_TEMPLATE).
 
 * There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
 * For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.

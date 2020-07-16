@@ -95,6 +95,16 @@ This repository consists of the solutions of the problems from LeetCode platform
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Graph
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|1042|[Flower Planting with No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/)|[Python](./Python/1042_FlowerPlantingwithNoAdjacent.py)|_O(V+E)_|_O(2V+E)_|Medium|Graph|Graph Coloring|
 
 
 <br/>

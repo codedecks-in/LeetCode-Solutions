@@ -12,11 +12,11 @@
 <br>
 
 ### Don't forget to give us a 🌟
-<br>
+
 
 ### Got stuck in a LeetCode question?
 
-<br>
+
 
 ### This repository consists of solutions of the problem from LeetCode platform. 
 

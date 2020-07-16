@@ -9,7 +9,7 @@
 ![Travis](https://travis-ci.org/kamyu104/LeetCode-Solutions.svg?branch=master)<br>
 <!-- ![Total](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=kamyu104.leetcode.solutions)&nbsp; -->
 <!-- ![Today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=kamyu104.leetcode.solutions) -->
-<br>
+
 
 
 

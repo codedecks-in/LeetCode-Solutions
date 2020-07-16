@@ -11,7 +11,7 @@
 <!-- ![Today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=kamyu104.leetcode.solutions) -->
 <br>
 
-### Don't forget to give us a 🌟
+
 
 
 ### Got stuck in a LeetCode question?
@@ -27,6 +27,7 @@
 - Hope you enjoy the journey of learning data structures and algorithms.
 - Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
+### Don't forget to give us a 🌟
 
 ## Algorithms
 

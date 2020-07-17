@@ -108,3 +108,15 @@
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+
+### Authors
+* [Gourav Rusiya](https://github.com/GouravRusiya30/)
+
+<br>
+
+## Contributors
+
+| Name                                                                                                                               | Country               | Programming Language           | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef, LeetCode...)</sup>|
+|------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
+| [Lokendra Bohra](https://github.com/lokendra1704/) <br> <img src="https://github.com/lokendra1704.png" width="100" height="100">               | India              | Python                           |                                                                                               | 

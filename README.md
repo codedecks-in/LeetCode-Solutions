@@ -8,20 +8,17 @@
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
 [![HitCount](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI.svg)](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI)
 
-### Got stuck in a LeetCode question?
+### Got stuck in a LeetCode question? This repository will help you by providing approach of solving the problems from LeetCode platform.
 
-### This repository consists of solutions of the problem from LeetCode platform. 
+### [Contributors](#contributors) helped us in providing these Awesome solutions. If you want to contribute, please create a Pull Request. Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
 
-### If you want to contribute, please create a Pull Request. Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
 
 - There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
 - For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.
 - Hope you enjoy the journey of learning data structures and algorithms.
 - Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
-### Don't forget to give us a 🌟
-
-### [Contributors](#contributors) helped us in providing these Awesome solutions.
+### Don't forget to give us a 🌟 to support us !!!
 
 ## Algorithms
 

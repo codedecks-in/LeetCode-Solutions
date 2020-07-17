@@ -10,7 +10,8 @@
 
 ### Got stuck in a LeetCode question? This repository will help you by providing approach of solving the problems from LeetCode platform.
 
-### [Contributors](#contributors) helped us in providing these Awesome solutions. If you want to contribute, please create a Pull Request. Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
+### [Contributors](#contributors) helped us in providing these Awesome solutions.
+### If you want to contribute, please create a Pull Request. Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
 
 
 - There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.

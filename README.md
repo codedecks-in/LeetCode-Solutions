@@ -2,21 +2,13 @@
 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
-![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
-
-<!-- !![Progress](https://img.shields.io/badge/progress-1515%20%2F%201515-ff69b4.svg)&nbsp;
-[![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/kamyu104)&nbsp;
-![Travis](https://travis-ci.org/kamyu104/LeetCode-Solutions.svg?branch=master)<br>
-<!-- ![Total](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=kamyu104.leetcode.solutions)&nbsp; -->
-<!-- ![Today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=kamyu104.leetcode.solutions) -->
-
-
-
-
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/GouravRusiya30/SpringBootRestAPI/blob/master/CONTRIBUTING.md)
+[![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
+[![HitCount](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI.svg)](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI)
 
 ### Got stuck in a LeetCode question?
-
-
 
 ### This repository consists of solutions of the problem from LeetCode platform. 
 

@@ -12,7 +12,7 @@
 
 ### This repository consists of solutions of the problem from LeetCode platform. 
 
-### If you want to contribute, please create a Pull Request. Check out ---> [Sample PR for Python](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
+### If you want to contribute, please create a Pull Request. Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
 
 - There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
 - For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.

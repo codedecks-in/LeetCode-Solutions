@@ -80,7 +80,7 @@
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-
+383| [Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./Java/ransom-note.java.py)|_O(1)_|_O(n)_|Easy|| Character Count |
 
 <br/>
 <div align="right">

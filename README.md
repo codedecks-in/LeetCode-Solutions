@@ -67,7 +67,7 @@
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-56| [Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Python](./Python/56_MergeIntervals.py)|33.94%|_O(nlogn)_|_O(n)_|Medium|Intervals||
+56| [Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Python](./Python/56_MergeIntervals.py)|_O(nlogn)_|_O(n)_|Medium|Intervals||
 
 
 <br/>

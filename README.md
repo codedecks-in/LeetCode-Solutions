@@ -124,3 +124,10 @@
 |------------------------------------------------------------------------------------------------------------------------------------|-----------------------|--------------------------------|-----------------------------------------------------------------------------------------------|
 | [Gourav R](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">               | India              | Java                           |                  [Hackerrank](https://www.hackerrank.com/gouravrusiya786)                                                                    | 
 | [Lokendra Bohra](https://github.com/lokendra1704/) <br> <img src="https://github.com/lokendra1704.png" width="100" height="100">               | India              | Python                           |                  [Leetcode](https://t.co/u0OByxhcHA)  <br> [Hackerrank](https://www.hackerrank.com/lokendra17)                                                                        | 
+
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>

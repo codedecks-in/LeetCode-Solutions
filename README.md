@@ -100,6 +100,18 @@
 </div>
 <br/>
 
+## Stack
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+|020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Python](./Python/20_ValidParentheses.py)|_O(n)_|_O(n)_|Easy|Stack||
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+
 ## Graph
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

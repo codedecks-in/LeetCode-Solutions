@@ -80,7 +80,8 @@
 ## String
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-383| [Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./Java/ransom-note.java.py)|_O(1)_|_O(n)_|Easy|| Character Count |
+383| [Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./Java/ransom-note.java.java)|_O(1)_|_O(n)_|Easy|| Character Count |
+151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./Java/reverse-words-in-a-string.java)|_O(1)_|_O(n)_|Medium|||
 
 <br/>
 <div align="right">

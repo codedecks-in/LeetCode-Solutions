@@ -5,6 +5,10 @@
  *     ListNode next;
  *     ListNode(int x) { val = x; }
  * }
+ *
+ * Runtime: 67 ms
+ * Memory Usage: 53.9 MB
+ *
  */
 import java.math.BigInteger;
 

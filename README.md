@@ -145,7 +145,7 @@
 
 | #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note           |
 | ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | -------------- |
-|5|Longest Palindromic Substring|[Python](./Python/5_LongestPalindromicSubstring.py)|_O(N^2)_|_O(N)_|Medium||Expand the Wings|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/5_LongestPalindromicSubstring.py)|_O(N^2)_|_O(N)_|Medium||Expand the Wings|
 
 <br/>
 <div align="right">

@@ -89,6 +89,17 @@
 </div>
 <br/>
 
+## Binary Search
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java)|_O(1)_|_O(logn)_|Easy|| Modified Binary Search |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## LinkedList
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|

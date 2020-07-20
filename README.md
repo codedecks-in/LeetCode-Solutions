@@ -8,6 +8,13 @@
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
 [![HitCount](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI.svg)](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI)
 
+-----------------------
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/stargazers"><img src="https://img.shields.io/github/stars/codedecks-in/LeetCode-Solutions" alt="Stars Badge"/></a>
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/network/members"><img src="https://img.shields.io/github/forks/codedecks-in/LeetCode-Solutions" alt="Forks Badge"/></a>
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/pulls"><img src="https://img.shields.io/github/issues-pr/codedecks-in/LeetCode-Solutions" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/issues"><img src="https://img.shields.io/github/issues/codedecks-in/LeetCode-Solutions" alt="Issues Badge"/></a>
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codedecks-in/LeetCode-Solutions?color=2b9348"></a>
+
 ### Got stuck in a LeetCode question? This repository will help you by providing approach of solving the problems from LeetCode platform.
 
 ### [Contributors](#contributors) helped us in providing these Awesome solutions.

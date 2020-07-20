@@ -75,6 +75,7 @@
 ## Array
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+001| [Two Sum](https://leetcode.com/problems/two-sum)|[Java](./Java/two-sum.java)|_O(n)_|_O(n)_|Easy|||
 56| [Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Python](./Python/56_MergeIntervals.py)|_O(nlogn)_|_O(n)_|Medium|Intervals||
 
 
@@ -90,17 +91,6 @@
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
 383| [Ransom Note](https://leetcode.com/problems/ransom-note/)|[Java](./Java/ransom-note.java.java)|_O(1)_|_O(n)_|Easy|| Character Count |
 151| [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)|[Java](./Java/reverse-words-in-a-string.java)|_O(1)_|_O(n)_|Medium|||
-
-<br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
-<br/>
-
-## Binary Search
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java)|_O(1)_|_O(logn)_|Easy|| Modified Binary Search |
 
 <br/>
 <div align="right">
@@ -130,6 +120,28 @@
 </div>
 <br/>
 
+## Hash Table
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java)|_O(1)_|_O(logn)_|Easy|| Modified Binary Search |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+
+## Binary Search
+|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
+|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
+278| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java)|_O(1)_|_O(logn)_|Easy|| Modified Binary Search |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
 
 ## Graph
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 

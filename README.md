@@ -123,7 +123,7 @@
 ## Hash Table
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-| [First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java)|_O(1)_|_O(logn)_|Easy|| Modified Binary Search |
+242| [Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./Java/valid-anagram.java)|_O(n)_|_O(1)_|Easy||Unicode chars|
 
 <br/>
 <div align="right">

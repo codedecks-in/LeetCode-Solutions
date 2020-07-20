@@ -1,6 +1,6 @@
 # [LeetCode-Solutions](https://leetcode.com/problemset/all/)
 
-![Language](https://img.shields.io/badge/language-Python%20%2F%20Java-orange.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/CONTRIBUTING.md)

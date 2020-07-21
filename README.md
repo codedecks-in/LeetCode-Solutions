@@ -73,12 +73,6 @@
 <br/>
 
 ## Array
-<<<<<<< HEAD
-|  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | Tag          | Note| 
-|-----|---------------- | --------------- | --------------- | --------------- | ------------- |--------------|-----|
-56| [Merge Intervals](https://leetcode.com/problems/merge-intervals)|[Python](./Python/56_MergeIntervals.py)|33.94%|_O(nlogn)_|_O(n)_|Medium|Intervals||
-=======
->>>>>>> 31df46e1fea9656da644cae6af0d0c2cb1ef54e6
 
 | #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
 | --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |

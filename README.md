@@ -22,7 +22,8 @@
 
 ### [Contributors](#contributors) helped us in providing these Awesome solutions.
 
-### If you want to contribute, please create a Pull Request. Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
+### If you want to contribute, please create a Pull Request. If you are new to Github please check pull request procedure ---> [PR process](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/PULL_REQUEST_PROCESS.md)
+Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
 
 - There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
 - For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.

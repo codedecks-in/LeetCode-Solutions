@@ -126,8 +126,7 @@
 | #   | Title                                                         | Solution                          | Time   | Space  | Difficulty | Tag | Note          |
 | --- | ------------------------------------------------------------- | --------------------------------- | ------ | ------ | ---------- | --- | ------------- |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java) | _O(n)_ | _O(1)_ | Easy       |     | Unicode chars |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum)                 | [Java](./Java/two-sum.java)             | _O(n)_     | _O(n)_ | Easy       |           |      |
-|001| [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
+|1| [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
 
 <br/>
 <div align="right">

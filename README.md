@@ -65,7 +65,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #    | Title                                                               | Solution                                                                         | Time   | Space  | Difficulty | Tag | Note      |
 | ---- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)       | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py)       | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
-| 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Java](./Java/single-number-ii.java) <br> [Python](./Python/single-number-ii.py) | _O(n)_ | _O(1)_ | Medium     |     |           |
+| 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | | _O(n)_ | _O(1)_ | Medium     |     |           |
 
 <br/>
 <div align="right">

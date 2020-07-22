@@ -152,6 +152,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                 | Solution                                                             | Time      | Space     | Difficulty | Tag | Note                   |
 | --- | --------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- | --------- | ---------- | --- | ---------------------- |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java) <br> [JavaScript](./JavaScript/First-Bad-Version.js)                      | _O(logn)_ | _O(1)_    | Easy       |     | Binary Search          |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./Python/search-in-rotated-sorted-array.py)                     					       | _O(logn)_ | _O(1)_    | Medium     |     | Binary Search          |
 
 <br/>
 <div align="right">
@@ -185,7 +186,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | [Lokendra Bohra](https://github.com/lokendra1704/) <br> <img src="https://github.com/lokendra1704.png" width="100" height="100">     | India   | Python               | [Leetcode](https://t.co/u0OByxhcHA) <br> [Hackerrank](https://www.hackerrank.com/lokendra17)                                                                 |
 | [Yuri Spiridonov](https://github.com/YuriSpiridonov) <br> <img src="https://github.com/YuriSpiridonov.png" width="100" height="100"> | Russia  | Python               | [Twitter](https://twitter.com/YuriSpiridonov)<br>[Leetcode](https://leetcode.com/yurispiridonov/)<br>[Hackerrank](https://www.hackerrank.com/YuriSpiridonov) |
 | [Naveen Kashyap](https://github.com/naveenkash) <br> <img src="https://github.com/naveenkash.png" width="100" height="100">          | India   | Javascript           | [Twitter](https://twitter.com/naveen_kashyapp)<br>[Leetcode](https://leetcode.com/naveenkash/)                                                               |
-
+| [Sachin Singh Negi](https://github.com/sachinnegi) <br> <img src="https://github.com/sachinnegi.png" width="100" height="100">       | India   | Python           	| [Twitter](https://twitter.com/SachinSinghNe17)<br>[Leetcode](https://leetcode.com/negisachin688/)<br>[Hackerrrak](https://www.hackerrank.com/negisachin688)  |                                                             |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

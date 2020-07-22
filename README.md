@@ -1,4 +1,4 @@
-# [LeetCode-Solutions](https://codedecks-in.github.io/LeetCode-Solutions/)
+# [LeetCode-Solutions](https://www.youtube.com/c/codedecks/)
 
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;

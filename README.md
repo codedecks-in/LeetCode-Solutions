@@ -152,6 +152,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                 | Solution                                                             | Time      | Space     | Difficulty | Tag | Note                   |
 | --- | --------------------------------------------------------------------- | -------------------------------------------------------------------- | --------- | --------- | ---------- | --- | ---------------------- |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java) <br> [JavaScript](./JavaScript/First-Bad-Version.js)                      | _O(logn)_ | _O(1)_    | Easy       |     | Binary Search          |
+| 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./Python/search-in-rotated-sorted-array.py)                     					       | _O(logn)_ | _O(1)_    | Medium     |     | Binary Search          |
 
 <br/>
 <div align="right">

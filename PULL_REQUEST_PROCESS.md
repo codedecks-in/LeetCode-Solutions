@@ -22,7 +22,7 @@ it will be redirected to the actual problem page)
 - Optional - You can add comments at the start of the file, if you want to share something, like steps to run the code etc
 - Add and commit the changes. (Please do not make changes in any other file, but if you want to work on bug/improvement then add an issue first)
 - Don't forget to add your name, image url, country and the language used in contributors table in the README.md file
-- Generate a Pull Request (Optional: add problem name in the title and url to the problem in description)
+- Generate a Pull Request (Optional: add problem name in the title and url to the problem in description). Confused how to create a pull request ? <br> [Check here](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github#create-pull-request)
 - That's it, you have successfully completed your first PR contribution. Well Done!!!
 
 

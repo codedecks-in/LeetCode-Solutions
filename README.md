@@ -170,7 +170,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                                 | Solution                                  | Time   | Space  | Difficulty | Tag   | Note |
  | --- | --------------------------------------------------------------------- | ----------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
-| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)          | [C++](./C++/Sudoku-Solver.cpp)         | _O(9^(n*n))_ | _O(n*n)_ | Hard  | Hash Table |      |
+| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)          | [C++](./C++/Sudoku-Solver.cpp)         | _O(n^2)_ | _O(1)_ | Hard  | Hash Table |      |
 
 <br/>
 <div align="right">

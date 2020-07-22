@@ -142,7 +142,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
 | --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes)       | [C++](./C++/Count-Primes.cpp)    | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math      |      |
-| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |[C++](./C++/Excel Sheet Column Title.cpp)| _O(n)_ | _O(n)_ | Easy | String| |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |[C++](./C++/Excel-Sheet-Column-Title.cpp)| _O(n)_ | _O(n)_ | Easy | String| |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer)   |[C++](./C++/Reverse-Integer.cpp)         | _O(n)_      | _O(n)_ | Easy       | Math      | |
 
 

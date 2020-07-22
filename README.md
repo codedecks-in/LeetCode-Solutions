@@ -85,6 +85,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+
 ## String
 
 | #   | Title                                                                                 | Solution                                      | Time   | Space  | Difficulty | Tag | Note            |
@@ -128,12 +129,29 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | --- | ------------------------------------------------------------- | --------------------------------- | ------ | ------ | ---------- | --- | ------------- |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java) | _O(n)_ | _O(1)_ | Easy       |     | Unicode chars|
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)     |        |        | Medium     |     |              |
 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+## Math
+
+| #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
+| --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes)       | [C++](./C++/Count-Primes.cpp)    | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math      |      |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |[C++](./C++/Excel Sheet Column Title.cpp)| _O(n)_ | _O(n)_ | Easy | String| |
+| 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer)   |[C++](./C++/Reverse-Integer.cpp)         | _O(n)_      | _O(n)_ | Easy       | Math      | |
+
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 
 ## Two Pointer
 
@@ -146,6 +164,20 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+
+## BackTracking
+
+| #   | Title                                                                 | Solution                                  | Time   | Space  | Difficulty | Tag   | Note |
+ | --- | --------------------------------------------------------------------- | ----------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
+| 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)          | [C++](./C++/Sudoku-Solver.cpp)         | _O(9^(n*n))_ | _O(n*n)_ | Hard  | Hash Table |      |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 
 ## Binary Search
 

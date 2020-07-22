@@ -1,3 +1,11 @@
+/**
+* LRU Cache
+*
+* Logic : maintain doubly linked List for insertion at head and deletion from tail and maintain       		  hashmap of key as key and value as node. Node consists of key, value, prev and next  	    		  pointers.
+* Runtime: 16 ms
+* Memory Usage: 47.9 MB
+*/
+
 class LRUCache {
 
     final Node head = new Node();

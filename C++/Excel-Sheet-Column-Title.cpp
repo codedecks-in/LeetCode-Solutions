@@ -1,3 +1,10 @@
+/*
+ * Runtime - 0ms
+ * Memory  - 5.8
+ * LOGIC - simple maths
+ * 
+ */
+
 class Solution {
 public:
     string convertToTitle(int n) {

@@ -122,6 +122,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+## Tree
+
+| #   | Title                                                                 | Solution                                  | Time   | Space  | Difficulty | Tag   | Note |
+| --- | --------------------------------------------------------------------- | ----------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
+| 103 | [ZigZag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [JavaScript](./JavaScript/Binary-Tree-ZigZag-Traversal.js) | _O(n)_ | _O(n)_ | Medium       | Binary Tree |      |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Hash Table
 
 | #   | Title                                                         | Solution                          | Time   | Space  | Difficulty | Tag | Note          |

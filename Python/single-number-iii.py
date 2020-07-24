@@ -3,8 +3,11 @@
 #Speed: 62.81%
 #Memory: 81.52%
 '''
-Xor Intuition: If different bits, result will be 1
-               If same bits, results will be 0
+Xor Intuition: If different bit, result will be 1
+               If same bit, results will be 0
+               Example: 1^0 = 1
+                        1^1 = 0
+                        0^0 = 0
 Let's analyse few properties of Xor bitwise operation:
 1) x^x = 0
     Example: 5^5 = 0

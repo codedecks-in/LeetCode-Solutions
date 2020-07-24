@@ -78,7 +78,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
 | --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./Python/56_MergeIntervals.py) | _O(nlogn)_ | _O(n)_ | Medium     | Intervals |      |
-| 697  | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Python](./C++/Degree-of-an-Array.cpp) | _O(n)_ | _O(n)_ | Easy     | Array |      |
+| 697  | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [C++](./C++/Degree-of-an-Array.cpp) | _O(n)_ | _O(n)_ | Easy     | Array |      |
 
 <br/>
 <div align="right">

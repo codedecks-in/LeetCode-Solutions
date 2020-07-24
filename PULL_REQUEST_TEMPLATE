@@ -18,11 +18,11 @@ Please describe the tests that you ran to verify your changes. Please also note 
 - [ ] Test A
 - [ ] Test B
 
-## Checklist:
+## Make sure all below guidelines are followed else PR will get Reject:
 
 - [ ] My code follows the style guidelines of this project
 - [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] I have commented my code so that it is easy to understand
 - [ ] I have made corresponding changes to the documentation
 - [ ] My changes generate no new warnings
 - [ ] Any dependent changes have been merged and published in downstream modules

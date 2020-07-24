@@ -78,6 +78,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
 | --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./Python/56_MergeIntervals.py) | _O(nlogn)_ | _O(n)_ | Medium     | Intervals |      |
+| 697  | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Python](./C++/Degree-of-an-Array.cpp) | _O(n)_ | _O(n)_ | Easy     | Array |      |
 
 <br/>
 <div align="right">
@@ -189,6 +190,20 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+
+## Dynamic Programming
+
+| #   | Title                                                                 | Solution                                  | Time   | Space  | Difficulty | Tag   | Note |
+ | --- | --------------------------------------------------------------------- | ----------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
+| 416 | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)| [C++](./C++/Partition-Equal-Subset-Sum.cpp)| _O(n^2)_ | _O(n^2)_ | Medium  | DP |      |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 
 
 ## Binary Search

@@ -68,7 +68,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)       | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py)       | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
 | 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | | _O(n)_ | _O(1)_ | Medium     |     |           |
-| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | | _O(n)_ | _O(1)_ | Medium     |     |           |
+| 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) |[Python](./Python/single-number-iii.py) | _O(n)_ | _O(1)_ | Medium     |     |           |
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -143,16 +144,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                         | Solution                          | Time   | Space  | Difficulty | Tag | Note          |
 | --- | ------------------------------------------------------------- | --------------------------------- | ------ | ------ | ---------- | --- | ------------- |
-<<<<<<< HEAD
-| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java) | _O(n)_ | _O(1)_ | Easy       |     | Unicode chars |
-<<<<<<< HEAD
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum)                 | [Java](./Java/two-sum.java)             | _O(n)_     | _O(n)_ | Easy       |           |      |
-|001| [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
-=======
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java) | _O(n)_ | _O(1)_ | Easy       |     | Unicode chars|
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)     |        |        | Medium     |     |              |
->>>>>>> ea89dd3e1d392ee86e3da67d67bcfb076314fb21
 
 <br/>
 <div align="right">
@@ -160,13 +154,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-<<<<<<< HEAD
 ## Two Pointer
 
 | #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note           |
 | ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | -------------- |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/5_LongestPalindromicSubstring.py)|_O(N^2)_|_O(N)_|Medium||Expand the Wings|
-=======
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Math
 
 | #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
@@ -175,10 +174,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) |[C++](./C++/Excel-Sheet-Column-Title.cpp)| _O(n)_ | _O(n)_ | Easy | String| |
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer)   |[C++](./C++/Reverse-Integer.cpp)         | _O(n)_      | _O(n)_ | Easy       | Math      | |
 
->>>>>>> ea89dd3e1d392ee86e3da67d67bcfb076314fb21
-=======
-|1| [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
->>>>>>> d7844869c83d9e3bd050f1aa4c73ad5999db6ae9
 
 <br/>
 <div align="right">

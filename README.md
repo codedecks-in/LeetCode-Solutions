@@ -1,6 +1,6 @@
 # [LeetCode-Solutions](https://www.youtube.com/c/codedecks/)
 
-![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS-orange.svg)&nbsp;
+![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS%20%2F%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/CONTRIBUTING.md)
@@ -17,6 +17,8 @@
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/stargazers"><img src="https://img.shields.io/github/stars/codedecks-in/LeetCode-Solutions" alt="Stars Badge"/></a>
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/network/members"><img src="https://img.shields.io/github/forks/codedecks-in/LeetCode-Solutions" alt="Forks Badge"/></a>
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codedecks-in/LeetCode-Solutions?color=2b9348"></a>
+[![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Apr+is%3Aclosed)
+[![GitHub issues by-label](https://img.shields.io/github/issues-pr/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Aopen+is%3Apr)
 
 ### Got stuck in a LeetCode question? This repository will help you by providing approach of solving the problems from LeetCode platform.
 
@@ -66,6 +68,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)       | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py)       | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
 | 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | | _O(n)_ | _O(1)_ | Medium     |     |           |
+| 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) |[Python](./Python/single-number-iii.py) | _O(n)_ | _O(1)_ | Medium     |     |           |
 
 <br/>
 <div align="right">
@@ -78,7 +81,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
 | --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./Python/56_MergeIntervals.py) | _O(nlogn)_ | _O(n)_ | Medium     | Intervals |      |
-| 697  | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [C++](./C++/Degree-of-an-Array.cpp) | _O(n)_ | _O(n)_ | Easy     | Array |      |
+| 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Java](./Java/Degree-of-an-Array)    | _O(n)_     | _O(n)_ | Easy       |  Array    |      |
 
 <br/>
 <div align="right">
@@ -143,6 +146,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java) | _O(n)_ | _O(1)_ | Easy       |     | Unicode chars|
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)     |        |        | Medium     |     |              |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Two Pointer
+
+| #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note           |
+| ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | -------------- |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/5_LongestPalindromicSubstring.py)|_O(N^2)_|_O(N)_|Medium||Expand the Wings|
 
 <br/>
 <div align="right">
@@ -241,7 +256,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | Name                                                                                                                                 | Country | Programming Language | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef, LeetCode...)</sup>                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------ | ------- | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [Gourav R](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">       | India   | Java                 | [Hackerrank](https://www.hackerrank.com/gouravrusiya786)                                                                                                     |
+| [Gourav R](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">       | India   | Java                 | [codedecks](https://www.youtube.com/c/codedecks/) <br> [Hackerrank](https://www.hackerrank.com/gouravrusiya786)                                                                                                     |
 | [Lokendra Bohra](https://github.com/lokendra1704/) <br> <img src="https://github.com/lokendra1704.png" width="100" height="100">     | India   | Python               | [Leetcode](https://t.co/u0OByxhcHA) <br> [Hackerrank](https://www.hackerrank.com/lokendra17)                                                                 |
 | [Yuri Spiridonov](https://github.com/YuriSpiridonov) <br> <img src="https://github.com/YuriSpiridonov.png" width="100" height="100"> | Russia  | Python               | [Twitter](https://twitter.com/YuriSpiridonov)<br>[Leetcode](https://leetcode.com/yurispiridonov/)<br>[Hackerrank](https://www.hackerrank.com/YuriSpiridonov) |
 | [Naveen Kashyap](https://github.com/naveenkash) <br> <img src="https://github.com/naveenkash.png" width="100" height="100">          | India   | Javascript           | [Twitter](https://twitter.com/naveen_kashyapp)<br>[Leetcode](https://leetcode.com/naveenkash/)                                                               |

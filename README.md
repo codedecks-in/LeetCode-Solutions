@@ -62,6 +62,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 - [Design](#design)
 - [Concurrency](#concurrency)
 
+## Dynamic Programming
+
+| #   | Title                                                            | Solution                                | Time       | Space  | Difficulty | Tag       | Note |
+| --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
+| 56  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](./Python/wildcard matching.py) | _O(n^2)_ | _O(n^2)_ | Hard     | 	 |      |
+
 ## Bit Manipulation
 
 | #    | Title                                                               | Solution                                                                         | Time   | Space  | Difficulty | Tag | Note      |

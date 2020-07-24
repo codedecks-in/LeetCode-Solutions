@@ -145,6 +145,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | --- | ------------------------------------------------------------- | --------------------------------- | ------ | ------ | ---------- | --- | ------------- |
 <<<<<<< HEAD
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java) | _O(n)_ | _O(1)_ | Easy       |     | Unicode chars |
+<<<<<<< HEAD
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum)                 | [Java](./Java/two-sum.java)             | _O(n)_     | _O(n)_ | Easy       |           |      |
 |001| [Two Sum](https://leetcode.com/problems/two-sum/)| [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
 =======
@@ -175,6 +176,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 7   | [Reverse Integer](https://leetcode.com/problems/reverse-integer)   |[C++](./C++/Reverse-Integer.cpp)         | _O(n)_      | _O(n)_ | Easy       | Math      | |
 
 >>>>>>> ea89dd3e1d392ee86e3da67d67bcfb076314fb21
+=======
+|1| [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
+>>>>>>> d7844869c83d9e3bd050f1aa4c73ad5999db6ae9
 
 <br/>
 <div align="right">

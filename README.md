@@ -68,6 +68,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | ------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)       | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py)       | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
 | 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | | _O(n)_ | _O(1)_ | Medium     |     |           |
+| 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) |[Python](./Python/single-number-iii.py) | _O(n)_ | _O(1)_ | Medium     |     |           |
 
 <br/>
 <div align="right">
@@ -146,6 +147,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)| [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py)|_O(N)_|_O(N)_|Easy|||
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java) | _O(n)_ | _O(1)_ | Easy       |     | Unicode chars|
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)     |        |        | Medium     |     |              |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+## Two Pointer
+
+| #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note           |
+| ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | -------------- |
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Python](./Python/5_LongestPalindromicSubstring.py)|_O(N^2)_|_O(N)_|Medium||Expand the Wings|
 
 <br/>
 <div align="right">

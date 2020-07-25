@@ -82,6 +82,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | --- | ---------------------------------------------------------------- | --------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | [Python](./Python/56_MergeIntervals.py) | _O(nlogn)_ | _O(n)_ | Medium     | Intervals |      |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Java](./Java/Degree-of-an-Array)    | _O(n)_     | _O(n)_ | Easy       |  Array    |      |
+| 697 | [Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros/) | [JavaScript](./JavaScript/Duplicate-Zeroes.js)    | _O(n)_     | _O(n)_ | Easy       |  Array    |      |
 
 <br/>
 <div align="right">

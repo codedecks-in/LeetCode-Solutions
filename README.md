@@ -133,6 +133,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                 | Solution                                  | Time   | Space  | Difficulty | Tag   | Note |
 | --- | --------------------------------------------------------------------- | ----------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
 | 103 | [ZigZag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [JavaScript](./JavaScript/Binary-Tree-ZigZag-Traversal.js) | _O(n)_ | _O(n)_ | Medium       | Binary Tree |      |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | [Java](./Java/Range-Sum-Query-Mutable.java) | _O(logn)_ | _O(n)_ | Medium       | Segment Tree |      |
+
 
 <br/>
 <div align="right">

@@ -130,11 +130,14 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 ## Tree
 
-| #   | Title                                                                                         | Solution                                                   | Time      | Space     | Difficulty | Tag                             | Note |
-| --- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------- | --------- | ---------- | ------------------------------- | ---- |
-| 103 | [ZigZag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [JavaScript](./JavaScript/Binary-Tree-ZigZag-Traversal.js) | _O(n)_    | _O(n)_    | Medium     | Binary Tree                     |      |
-| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)           | [Java](./Java/sum-root-to-leaf-numbers.java)               | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Depth First Search |      |
-| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)           | [Java](./Java/Range-Sum-Query-Mutable.java)                | _O(logn)_ | _O(n)_    | Medium     | Segment Tree                    |      |
+| #   | Title                                                                                             | Solution                                                   | Time      | Space     | Difficulty | Tag                             | Note |
+| --- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------- | --------- | ---------- | ------------------------------- | ---- |
+| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)     | [Java](./Java/binary-tree-inorder-traversal.java)          | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Stack, HashTable   |      |
+| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)   | [Java](./Java/binary-tree-preorder-traversal.java)         | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Stack              |      |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./Java/binary-tree-postorder-traversal.java)        | _O(n)_    | _O(logn)_ | Hard       | Binary Tree, Stack              |      |
+| 103 | [ZigZag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)     | [JavaScript](./JavaScript/Binary-Tree-ZigZag-Traversal.js) | _O(n)_    | _O(n)_    | Medium     | Binary Tree                     |      |
+| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)               | [Java](./Java/sum-root-to-leaf-numbers.java)               | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Depth First Search |      |
+| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)               | [Java](./Java/Range-Sum-Query-Mutable.java)                | _O(logn)_ | _O(n)_    | Medium     | Segment Tree                    |      |
 
 <br/>
 <div align="right">

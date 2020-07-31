@@ -216,7 +216,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                                    | Solution                                    | Time     | Space    | Difficulty | Tag | Note |
 | --- | ---------------------------------------------------------------------------------------- | ------------------------------------------- | -------- | -------- | ---------- | --- | ---- |
 | 416 | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [C++](./C++/Partition-Equal-Subset-Sum.cpp) | _O(n^2)_ | _O(n^2)_ | Medium     | DP  |      |
-| 56  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)                    | [Python](./Python/wildcard-matching.py)     | _O(n^2)_ | _O(n^2)_ | Hard       |     |
+| 56  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)                    | [Python](./Python/wildcard-matching.py)     | _O(n^2)_ | _O(n^2)_ | Hard       | DP  |      |
+| 139  | [Word Break](https://leetcode.com/problems/word-break/)                    		 | [Python](./Python/word-break-1.py)     	| _O(n^3)_ | _O(n)_  | Medium     | DP  |      |
+
 
 <br/>
 <div align="right">

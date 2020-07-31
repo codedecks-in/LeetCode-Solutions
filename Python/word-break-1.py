@@ -1,6 +1,6 @@
 '''
 Time Complexity: O(n^3)
-Space complexiyt: O(n)
+Space complexity: O(n)
 '''
 
 # Method 1 : memoization

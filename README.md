@@ -70,6 +70,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
 | 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/)   |                                                                            | _O(n)_ | _O(1)_ | Medium     |     |           |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                    | _O(n)_ | _O(1)_ | Medium     |     |           |
+| 0520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/) | [Python](./Python/detect-capital.py)                                    | _O(n)_ | _O(1)_ | Easy     |     |           |
 
 <br/>
 <div align="right">

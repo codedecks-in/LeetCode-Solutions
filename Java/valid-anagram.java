@@ -7,8 +7,8 @@
 * Follow up:
 * What if the inputs contain unicode characters? How would you adapt your solution to such case?
 * 
-* Works for any unicode characters - 128 unicode chars are there.
-*
+* Works for any ASCII characters - 128 ASCII chars are there.
+* for unicode chars - 256 chars are there.
 */
 class Solution {
     
@@ -72,7 +72,7 @@ class Solution {
     // Time: O(n) | Space: O(1) [because the table's size stays constant no matter how large n is]
     public boolean isAnagram(String s, String t) {
         
-        int [] charCount = new int[128];
+        int [] charCount = new int[128]; // take 256 in case of unicode characters.
         
         for (int i=0; i<s.length(); i++){
             charCount[s.charAt(i)]++;

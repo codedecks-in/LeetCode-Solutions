@@ -7,7 +7,7 @@ n will be number of elements
 a will be minimum element
 l will be maximum element
 
-if both LHS & RHS values are equal then true else false.
+if both LHS & RHS values are equal then return true, else false.
 */
 class Solution {
     public boolean canMakeArithmeticProgression(int[] arr) {

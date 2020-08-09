@@ -153,7 +153,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                         | Solution                                                        | Time   | Space  | Difficulty | Tag | Video Explanation                                       |
 | --- | ------------------------------------------------------------- | --------------------------------------------------------------- | ------ | ------ | ---------- | --- | ------------------------------------------------------- |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)             | [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py) | _O(N)_ | _O(N)_ | Easy       |     |                                                         |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)             | [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py) | _O(N)_ | _O(N)_ | Easy       |     | [Tutorial](https://youtu.be/47xMuvwP7zQ)                                                        |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java)                               | _O(n)_ | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)                                   |        |        | Medium     |     |                                                         |
 

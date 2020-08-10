@@ -68,7 +68,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Tag | Note      |
 | ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
-| 0137 | [Single Number II](https://leetcode.com/problems/single-number-ii/)   |                                                                            | _O(n)_ | _O(1)_ | Medium     |     |           |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                    | _O(n)_ | _O(1)_ | Medium     |     |           |
 | 0520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/) | [Python](./Python/detect-capital.py)                                    | _O(n)_ | _O(1)_ | Easy     |     |           |
 
@@ -84,7 +83,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | --- | ---------------------------------------------------------------------- | ---------------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)       | [Python](./Python/56_MergeIntervals.py)        | _O(nlogn)_ | _O(n)_ | Medium     | Intervals |      |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Java](./Java/Degree-of-an-Array)              | _O(n)_     | _O(n)_ | Easy       | Array     |      |
-| 697 | [Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros/)     | [JavaScript](./JavaScript/Duplicate-Zeroes.js) | _O(n)_     | _O(n)_ | Easy       | Array     |      |
+| 1089 | [Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros/)     | [JavaScript](./JavaScript/Duplicate-Zeroes.js) | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)     | [Java](./Java/can-make-arithmetic-progression-from-sequence.java) | _O(n)_     | _O(1)_ | Easy       | Array     |      |
 
 
@@ -169,7 +168,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                                                         | Solution                                            | Time     | Space  | Difficulty | Tag | Note             |
 | --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ------ | ---------- | --- | ---------------- |
-| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) | _O(N^2)_ | _O(N)_ | Medium     |     | Expand the Wings |
+| 005   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) | _O(N^2)_ | _O(N)_ | Medium     |     | Expand the Wings |
 
 <br/>
 <div align="right">
@@ -184,18 +183,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes)                         | [C++](./C++/Count-Primes.cpp)                                             | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math   |      |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [C++](./C++/Excel-Sheet-Column-Title.cpp)                                 | _O(n)_            | _O(n)_ | Easy       | String |      |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                   | [Java](./Java/reverse-integer.java) <br> [C++](./C++/Reverse-Integer.cpp) | _O(n)_            | _O(n)_ | Easy       | Math   |      |
-
-<br/>
-<div align="right">
-    <b><a href="#algorithms">⬆️ Back to Top</a></b>
-</div>
-<br/>
-
-## Two Pointer
-
-| #   | Title                                                                                         | Solution                                            | Time     | Space  | Difficulty | Tag | Note             |
-| --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ------ | ---------- | --- | ---------------- |
-| 5   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) | _O(N^2)_ | _O(N)_ | Medium     |     | Expand the Wings |
 
 <br/>
 <div align="right">

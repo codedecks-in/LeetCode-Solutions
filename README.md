@@ -99,7 +99,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | --- | ------------------------------------------------------------------------------------- | --------------------------------------------- | ------ | ------ | ---------- | --- | --------------- |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                             | [Java](./Java/ransom-note.java)               | _O(1)_ | _O(n)_ | Easy       |     | Character Count |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./Java/reverse-words-in-a-string.java) | _O(1)_ | _O(n)_ | Medium     |     |                 |
-| 0520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/) | [Java](./Java/detect-capital-use.java)                                    | _O(n)_ | _O(1)_ | Easy     |     |           |
+| 520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/) | [Java](./Java/detect-capital-use.java)                                    | _O(n)_ | _O(1)_ | Easy     |     |           |
 
 <br/>
 <div align="right">

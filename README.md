@@ -35,7 +35,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 ### Don't forget to give us a 🌟 to support us !!!
 
-## Algorithms
+## [TOP 10 LEARNING RESOURCES](#top-10-learning-resources)
+
+# Algorithms
 
 -   [Bit Manipulation](#bit-manipulation)
 -   [Array](#array)
@@ -63,7 +65,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 -   [Design](#design)
 -   [Concurrency](#concurrency)
 
-## Bit Manipulation
+# Bit Manipulation
 
 | #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Tag | Note      |
 | ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
@@ -77,7 +79,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Array
+# Array
 
 | #   | Title                                                                  | Solution                                       | Time       | Space  | Difficulty | Tag       | Note |
 | --- | ---------------------------------------------------------------------- | ---------------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
@@ -93,7 +95,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## String
+# String
 
 | #   | Title                                                                                 | Solution                                      | Time   | Space  | Difficulty | Tag | Note            |
 | --- | ------------------------------------------------------------------------------------- | --------------------------------------------- | ------ | ------ | ---------- | --- | --------------- |
@@ -107,7 +109,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## LinkedList
+# LinkedList
 
 | #   | Title                                                             | Solution                            | Time   | Space  | Difficulty | Tag  | Note |
 | --- | ----------------------------------------------------------------- | ----------------------------------- | ------ | ------ | ---------- | ---- | ---- |
@@ -119,7 +121,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Stack
+# Stack
 
 | #   | Title                                                                 | Solution                                  | Time   | Space  | Difficulty | Tag   | Note |
 | --- | --------------------------------------------------------------------- | ----------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
@@ -131,7 +133,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Tree
+# Tree
 
 | #   | Title                                                                                             | Solution                                                   | Time      | Space     | Difficulty | Tag                                            | Note |
 | --- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------- | --------- | ---------- | ---------------------------------------------- | ---- |
@@ -150,7 +152,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Hash Table
+# Hash Table
 
 | #   | Title                                                         | Solution                                                        | Time   | Space  | Difficulty | Tag | Video Explanation                                       |
 | --- | ------------------------------------------------------------- | --------------------------------------------------------------- | ------ | ------ | ---------- | --- | ------------------------------------------------------- |
@@ -164,7 +166,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Two Pointer
+# Two Pointer
 
 | #   | Title                                                                                         | Solution                                            | Time     | Space  | Difficulty | Tag | Note             |
 | --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ------ | ---------- | --- | ---------------- |
@@ -176,7 +178,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Math
+# Math
 
 | #   | Title                                                                              | Solution                                                                  | Time              | Space  | Difficulty | Tag    | Note |
 | --- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------- | ------ | ---------- | ------ | ---- |
@@ -190,7 +192,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## BackTracking
+# BackTracking
 
 | #   | Title                                                         | Solution                       | Time     | Space  | Difficulty | Tag        | Note |
 | --- | ------------------------------------------------------------- | ------------------------------ | -------- | ------ | ---------- | ---------- | ---- |
@@ -202,7 +204,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Dynamic Programming
+# Dynamic Programming
 
 | #   | Title                                                                 | Solution                                  | Time   | Space  | Difficulty | Tag   | Note |
 | --- | --------------------------------------------------------------------- | ----------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
@@ -218,7 +220,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Binary Search
+# Binary Search
 
 | #   | Title                                                                                           | Solution                                                                                                                  | Time      | Space  | Difficulty | Tag | Note          |
 | --- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | ------ | ---------- | --- | ------------- |
@@ -231,7 +233,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-## Graph
+# Graph
 
 | #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note           |
 | ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | -------------- |
@@ -243,7 +245,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-### Authors
+## Authors
 
 -   [Gourav Rusiya](https://github.com/GouravRusiya30/)
 
@@ -266,3 +268,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+
+# TOP 10 LEARNING RESOURCES
+
+DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!

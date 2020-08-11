@@ -245,6 +245,17 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+
+# TOP 10 LEARNING RESOURCES
+
+DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 ## Authors
 
 -   [Gourav Rusiya](https://github.com/GouravRusiya30/)
@@ -268,7 +279,3 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
-
-# TOP 10 LEARNING RESOURCES
-
-DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!

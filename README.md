@@ -33,7 +33,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 -   Hope you enjoy the journey of learning data structures and algorithms.
 -   Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
-### Don't forget to give us a 🌟 to support us -> [Learning Resources](#learning-resources)
+### Don't forget to give us a 🌟 to support us. Check out -> [Learning Resources](#learning-resources)
 
 # Algorithms
 
@@ -246,9 +246,13 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Learning Resources
 1.) [Cracking the Coding Interview](https://amzn.to/3fH727G)
+
 2.) [Data Structures and Algorithms Made Easy in Java](https://amzn.to/3fJXsRC)
+
 3.) [Data Structure and Algorithmic Thinking with Python](https://amzn.to/30Ldczp)
+
 4.) [Grooking Algorithms](https://amzn.to/3aeTcrV)
+
 5.) [Dynamic Programming for Coding Interviews](https://amzn.to/31K16po)
 
 DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!

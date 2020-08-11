@@ -35,7 +35,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 ### Don't forget to give us a 🌟 to support us !!!
 
-## [TOP LEARNING RESOURCES](#top-learning-resources)
+### [Learning Resources](#learning-resources)
 
 # Algorithms
 
@@ -246,7 +246,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 <br/>
 
 
-# Top Learning Resources
+# Learning Resources
 
 DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
 

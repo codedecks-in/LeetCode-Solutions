@@ -33,7 +33,10 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 -   Hope you enjoy the journey of learning data structures and algorithms.
 -   Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
-### Don't forget to give us a 🌟 to support us. Check out -> [Learning Resources](#learning-resources)
+### Don't forget to give us a 🌟 to support us.
+
+
+## Check out -> [Learning Resources](#learning-resources)
 
 # Algorithms
 

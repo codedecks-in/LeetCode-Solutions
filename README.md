@@ -110,11 +110,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# LinkedList
+# Linked List
 
 | #   | Title                                                             | Solution                            | Time   | Space  | Difficulty | Tag  | Note |
 | --- | ----------------------------------------------------------------- | ----------------------------------- | ------ | ------ | ---------- | ---- | ---- |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./Java/add-two-numbers.java) | _O(n)_ | _O(n)_ | Medium     | Math |      |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./Java/linked-list-cycle.java) | _O(n)_ | _O(1)_ | Easy     | Slow-Fast Pointers |      |
 
 <br/>
 <div align="right">

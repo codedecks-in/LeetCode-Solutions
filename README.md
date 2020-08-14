@@ -216,6 +216,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 56  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) | [Python](./Python/wildcard-matching.py)     | _O(n^2)_ | _O(n^2)_ | Hard     | 	 | 
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break/) 	      | [C++](./C++/Integer-Break.cpp) 	    | _O(n^2)_ | _O(n)_ | Medium     | 	 | 
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)              | [Python](./Python/word-break-1.py)     	| _O(n^3)_ | _O(n)_  | Medium     | DP  |      |
+| 1092  | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)              | [C++](./C++/Shortest-Common-Supersequence.cpp)     	| _O(n^2)_ | _O(n^2)_  | Hard     | DP  |      |
 
 
 <br/>

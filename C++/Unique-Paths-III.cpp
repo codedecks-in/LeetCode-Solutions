@@ -1,3 +1,4 @@
+// I am using here backtracking with memoization (look at 'used').
 class Solution {
 private:
     int n;

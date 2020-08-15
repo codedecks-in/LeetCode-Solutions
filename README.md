@@ -116,6 +116,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | --- | ----------------------------------------------------------------- | ----------------------------------- | ------ | ------ | ---------- | ---- | ---- |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./Java/add-two-numbers.java) | _O(n)_ | _O(n)_ | Medium     | Math |      |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./Java/linked-list-cycle.java) | _O(n)_ | _O(1)_ | Easy     | Slow-Fast Pointers |      |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./C++/LRU-Cache.cpp) | _O(1)_ | _O(k)_ | Easy     | Hash Map |      |
 
 <br/>
 <div align="right">
@@ -148,6 +149,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)               | [Java](./Java/Range-Sum-Query-Mutable.java)                | _O(logn)_ | _O(n)_    | Medium     | Segment Tree                                   |      |
 | 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)     | [Java](./Java/complete-binary-tree-inserter.java)          | _O(n)_    | _O(n)_    | Medium     | Tree                                           |      |
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)     | [C++](./C++/Binary-Tree-Maximum-Path-Sum.cpp)          | _O(n)_    | _O(n)_    | Hard     | Tree                                           |      |
+| 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)     | [C++](./C++/Recover-a-Tree-From-Preorder-Traversal.cpp)          | _O(n)_    | _O(n)_    | Hard     | Tree                                           |      |
 
 
 <br/>
@@ -196,11 +198,36 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Breadth-First Search
+
+| #   | Title                                                             | Solution                            | Time   | Space  | Difficulty | Tag  | Note |
+| --- | ----------------------------------------------------------------- | ----------------------------------- | ------ | ------ | ---------- | ---- | ---- |
+| 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [C++](./C++/Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix.cpp) | _O(m * n * 2 ^ (m * n))_ | _O(2 ^ (m * n))_ | Hard     | BFS |      |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+# Depth-First Search
+
+| #   | Title                                                             | Solution                            | Time   | Space  | Difficulty | Tag  | Note |
+| --- | ----------------------------------------------------------------- | ----------------------------------- | ------ | ------ | ---------- | ---- | ---- |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [C++](./C++/Cherry-Pickup-II.cpp) | _O(n * m)_ | _O(n * m)_ | Hard     | DFS |      |
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 # BackTracking
 
 | #   | Title                                                         | Solution                       | Time     | Space  | Difficulty | Tag        | Note |
 | --- | ------------------------------------------------------------- | ------------------------------ | -------- | ------ | ---------- | ---------- | ---- |
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) | [C++](./C++/Sudoku-Solver.cpp) | _O(n^2)_ | _O(1)_ | Hard       | Hash Table |      |
+| 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [C++](./C++/Unique-Paths-III.cpp) | _O(R * C * 2 ^ (R * C))_ | _O(R * C)_ | Hard       | DFS, Memoization |      |
 
 <br/>
 <div align="right">

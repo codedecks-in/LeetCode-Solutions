@@ -1,3 +1,4 @@
+// The main algorithm in this problem is Breadth First Search.
 class Solution {
 private:
     bool valid(int n, int m, int x, int y) {

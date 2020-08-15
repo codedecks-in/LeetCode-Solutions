@@ -1,3 +1,4 @@
+// Here I am using a hashmap to store a node pointer by a key. It will give us O(1) for all operations.
 class LRUCache {
 private:
     struct Node {

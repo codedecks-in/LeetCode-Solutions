@@ -82,10 +82,10 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Array
 
-| #   | Title                                                                  | Solution                                       | Time       | Space  | Difficulty | Tag       | Note |
+| #   | Title                                                                  | Solution                                       | Time       | Space  | Difficulty | Video Explaination       | Note |
 | --- | ---------------------------------------------------------------------- | ---------------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)       | [Python](./Python/56_MergeIntervals.py)        | _O(nlogn)_ | _O(n)_ | Medium     | Intervals |      |
-| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](./Java/missing-number.java)              | _O(n)_     | _O(1)_ | Easy       | Array     |      |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](./Java/missing-number.java)              | _O(n)_     | _O(1)_ | Easy       | Array     |   [Tutorial](https://youtu.be/VwvGEE_OGss)   |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Java](./Java/Degree-of-an-Array.java)              | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1089 | [Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros/)     | [JavaScript](./JavaScript/Duplicate-Zeroes.js) | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)     | [Java](./Java/can-make-arithmetic-progression-from-sequence.java) | _O(n)_     | _O(1)_ | Easy       | Array     |      |

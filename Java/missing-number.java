@@ -2,9 +2,11 @@
 * Time Complexity - O(n)
 * Space Complexity - O(1)
 *
-* Using sum of first n natural numbers formula.
+* Please comment one of the method if you are submitting solution directly
 */
 class Solution {
+    
+    //  Using sum of first n natural numbers formula.
     public int missingNumber(int[] nums) {
         int numsLen = nums.length;
         
@@ -20,5 +22,18 @@ class Solution {
         
         // subtract actualSum from expectedSum
         return expectedSum-actualSum;
+    }
+    
+    // Using XOR approach
+    public int missingNumber(int[] nums) {
+        int numsLen = nums.length;
+        
+        int xor = numsLen;
+        
+        for(int i=0; i<numsLen; i++){
+            xor ^= nums[i] ^ i;
+        }
+        
+        return xor;
     }
 }

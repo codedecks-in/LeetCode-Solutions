@@ -82,13 +82,15 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Array
 
-| #   | Title                                                                  | Solution                                       | Time       | Space  | Difficulty | Video Explaination       | Note |
+| #   | Title                                                                  | Solution                                       | Time       | Space  | Difficulty | Note       | Video Explaination |
 | --- | ---------------------------------------------------------------------- | ---------------------------------------------- | ---------- | ------ | ---------- | --------- | ---- |
 | 56  | [Merge Intervals](https://leetcode.com/problems/merge-intervals)       | [Python](./Python/56_MergeIntervals.py)        | _O(nlogn)_ | _O(n)_ | Medium     | Intervals |      |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Java](./Java/missing-number.java)              | _O(n)_     | _O(1)_ | Easy       | Array     |   [Tutorial](https://youtu.be/VwvGEE_OGss)   |
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Java](./Java/Degree-of-an-Array.java)              | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1089 | [Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros/)     | [JavaScript](./JavaScript/Duplicate-Zeroes.js) | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)     | [Java](./Java/can-make-arithmetic-progression-from-sequence.java) | _O(n)_     | _O(1)_ | Easy       | Array     |      |
+| 122  | [Best Time to buy and sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)       | [Python](./Python/best-time-to-buy-and-sell-stock-ii.py)        | _O(N)_ | _O(1)_ | Medium     | Stocks |      |
+| 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)       | [Python](./Python/pascals-triangle-ii.py)        | _O(N^2)_ | _O(K)_ | Easy     |  |      |
 
 
 <br/>
@@ -248,6 +250,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break/) 	      | [C++](./C++/Integer-Break.cpp) 	    | _O(n^2)_ | _O(n)_ | Medium     | 	 | 
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)              | [Python](./Python/word-break-1.py)     	| _O(n^3)_ | _O(n)_  | Medium     | DP  |      |
 | 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)              | [C++](./C++/Shortest-Common-Supersequence.cpp)     	| _O(n^2)_ | _O(n^2)_  | Hard     | DP  |      |
+| 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/)              | [Python](./Python/edit-distance.py)     	| _O(N*M)_ | _O(n^2)_  | Medium     | Levenshtein Distance  |      |
+| 91 | [Decode ways](https://leetcode.com/problems/decode-ways/)              | [Python](./Python/decode-ways.py)     	| _O(N)_ | _O(N)_  | Easy     | DP  |      |
+| 1025| [Divisor Game](https://leetcode.com/problems/divisor-game/)              | [Python](./Python/divisor-game.py)     	| _O(N^2)_ | _O(N)_  | Easy     | DP  |      |
 
 
 <br/>
@@ -263,6 +268,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)                 | [Python](./Python/35.SearchInsertPosition.py)                                                                             | _O(logn)_ | _O(1)_ | Easy       |     | Binary Search |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/)                           | [Java](./Java/May-LeetCoding-Challenge/Day-1-First-Bad-Version.java) <br> [JavaScript](./JavaScript/First-Bad-Version.js) | _O(logn)_ | _O(1)_ | Easy       |     | Binary Search |
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](./Python/search-in-rotated-sorted-array.py)                                                                      | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
+| 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Python/find-minimum-in-rotated-sorted-array.py)                                                                      | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 
 <br/>
 <div align="right">

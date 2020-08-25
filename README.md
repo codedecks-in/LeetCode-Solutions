@@ -90,6 +90,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1089 | [Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros/)     | [JavaScript](./JavaScript/Duplicate-Zeroes.js) | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)     | [Java](./Java/can-make-arithmetic-progression-from-sequence.java) | _O(n)_     | _O(1)_ | Easy       | Array     |      |
 | 122  | [Best Time to buy and sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)       | [Python](./Python/best-time-to-buy-and-sell-stock-ii.py)        | _O(N)_ | _O(1)_ | Medium     | Stocks |      |
+| 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)       | [Python](./Python/pascals-triangle-ii.py)        | _O(N^2)_ | _O(K)_ | Easy     |  |      |
 
 
 <br/>

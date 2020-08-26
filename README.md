@@ -296,7 +296,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 3.) [Data Structure and Algorithmic Thinking with Python](https://amzn.to/30Ldczp)
 
-4.) [Grooking Algorithms](https://amzn.to/3aeTcrV)
+4.) [Head First Design Patterns](https://amzn.to/3jfly90)
 
 5.) [Dynamic Programming for Coding Interviews](https://amzn.to/31K16po)
 

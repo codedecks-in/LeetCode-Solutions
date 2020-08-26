@@ -290,7 +290,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 
 # Learning Resources
-1.) [Cracking the Coding Interview](https://amzn.to/3fH727G)
+1.) [Cracking the Coding Interview (Indian Edition)](https://amzn.to/3lgLYc9)
 
 2.) [Data Structures and Algorithms Made Easy in Java](https://amzn.to/3fJXsRC)
 

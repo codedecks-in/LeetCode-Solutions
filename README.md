@@ -92,6 +92,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 122  | [Best Time to buy and sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)       | [Python](./Python/best-time-to-buy-and-sell-stock-ii.py)        | _O(N)_ | _O(1)_ | Medium     | Stocks |      |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)       | [Python](./Python/pascals-triangle-ii.py)        | _O(N^2)_ | _O(K)_ | Easy     |  |      |
 | 1480  | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [Java](./Java/running-sum-of-1d-array.java)        | _O(N)_ | _O(N)_ | Easy     | Simple sum |      |
+| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)       | [Python](./Python/trapping_rain.py)        | _O(N^2)_ | _O(N)_ | Hard     | Array |      |
 
 
 <br/>
@@ -326,7 +327,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Rudra Mishra](https://github.com/Rudra407) <br> <img src="https://github.com/Rudra407.png" width="100" height="100">                | India   | C++                  | [Twitter](https://twitter.com/ruDra_Mishra407)<br>[Leetcode](https://leetcode.com/rudramishra/)                                                              |
 | [Sachin Singh Negi](https://github.com/sachinnegi) <br> <img src="https://github.com/sachinnegi.png" width="100" height="100">       | India   | Python               | [Twitter](https://twitter.com/SachinSinghNe17)<br>[Leetcode](https://leetcode.com/negisachin688/)<br>[Hackerrrak](https://www.hackerrank.com/negisachin688)  |
 | [Girish Thatte](https://github.com/girishgr8/) <br> <img src="https://github.com/girishgr8.png" width="100" height="100">            | India   | Java                 | [Leetcode](https://leetcode.com/girish13/) <br> [Hackerrank](https://www.hackerrank.com/procoder_13) <br> [Codechef](https://www.codechef.com/procoder_13)   |
-
+| [Kevin Chittilapilly](https://github.com/KevinChittilapilly) <br> <img src="https://github.com/KevinChittilapilly.png" width="100" height="100">            | India   | Java                 | [Leetcode](https://leetcode.com/being_kevin/) <br> [Hackerrank](https://www.hackerrank.com/ckevinvarghese11) <br> [Kaggle](https://www.kaggle.com/kevinchittilapilly)   |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

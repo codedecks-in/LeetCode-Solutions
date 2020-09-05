@@ -125,6 +125,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Java](./Java/add-two-numbers.java) | _O(n)_ | _O(n)_ | Medium     | Math |      |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Java](./Java/linked-list-cycle.java) | _O(n)_ | _O(1)_ | Easy     | Slow-Fast Pointers |      |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [C++](./C++/LRU-Cache.cpp) | _O(1)_ | _O(k)_ | Medium     | Hash Map |      |
+| 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./Java/middle-of-the-linked-list.java) | _O(n)_ | _O(1)_ | Easy     | Two pointers |      |
 
 <br/>
 <div align="right">

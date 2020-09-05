@@ -1,5 +1,14 @@
 # [LeetCode-Solutions](https://www.youtube.com/c/codedecks/)
 
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/stargazers"><img src="https://img.shields.io/github/stars/codedecks-in/LeetCode-Solutions" alt="Stars Badge"/></a>
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/network/members"><img src="https://img.shields.io/github/forks/codedecks-in/LeetCode-Solutions" alt="Forks Badge"/></a>
+<a href="https://github.com/codedecks-in/LeetCode-Solutions/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codedecks-in/LeetCode-Solutions?color=2b9348"></a>
+[![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Apr+is%3Aclosed)
+<!--[![GitHub issues by-label](https://img.shields.io/github/issues-pr/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Aopen+is%3Apr)-->
+
+---
+
+
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS%20%2F%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
@@ -11,14 +20,6 @@
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/pulls"><img src="https://img.shields.io/github/issues-pr/codedecks-in/LeetCode-Solutions" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/issues"><img src="https://img.shields.io/github/issues/codedecks-in/LeetCode-Solutions" alt="Issues Badge"/></a>
 -->
-
----
-
-<a href="https://github.com/codedecks-in/LeetCode-Solutions/stargazers"><img src="https://img.shields.io/github/stars/codedecks-in/LeetCode-Solutions" alt="Stars Badge"/></a>
-<a href="https://github.com/codedecks-in/LeetCode-Solutions/network/members"><img src="https://img.shields.io/github/forks/codedecks-in/LeetCode-Solutions" alt="Forks Badge"/></a>
-<a href="https://github.com/codedecks-in/LeetCode-Solutions/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codedecks-in/LeetCode-Solutions?color=2b9348"></a>
-[![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Apr+is%3Aclosed)
-[![GitHub issues by-label](https://img.shields.io/github/issues-pr/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Aopen+is%3Apr)
 
 ### Got stuck in a LeetCode question? This repository will help you by providing approach of solving the problems from LeetCode platform.
 

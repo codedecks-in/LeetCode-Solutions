@@ -107,6 +107,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                                 | Solution                                      | Time   | Space  | Difficulty | Tag | Note            |
 | --- | ------------------------------------------------------------------------------------- | --------------------------------------------- | ------ | ------ | ---------- | --- | --------------- |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/)                             | [Java](./Java/ransom-note.java)               | _O(1)_ | _O(n)_ | Easy       |     | Character Count |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)                             | [Java](./Java/first-unique-character-in-a-string.java)               | _O(n)_ | _O(1)_ | Easy       |     | Character Count |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Java](./Java/reverse-words-in-a-string.java) | _O(1)_ | _O(n)_ | Medium     |     |                 |
 | 520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/) | [Java](./Java/detect-capital-use.java)                                    | _O(n)_ | _O(1)_ | Easy     |     |           |
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Python](./Python/split-a-string-in-balanced-strings.py)| _O(n)_ | _O(1)_ | Easy     |     |           |

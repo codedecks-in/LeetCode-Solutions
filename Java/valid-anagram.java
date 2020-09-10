@@ -72,7 +72,7 @@ class Solution {
     // Time: O(n) | Space: O(1) [because the table's size stays constant no matter how large n is]
     public boolean isAnagram(String s, String t) {
         
-        int [] charCount = new int[128]; // take 256 in case of unicode characters.
+        int [] charCount = new int[128];
         
         for (int i=0; i<s.length(); i++){
             charCount[s.charAt(i)]++;

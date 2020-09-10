@@ -119,12 +119,14 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Linked List
 
-| #   | Title                                                                                 | Solution                                      | Time   | Space  | Difficulty | Tag                | Note |
-| --- | ------------------------------------------------------------------------------------- | --------------------------------------------- | ------ | ------ | ---------- | ------------------ | ---- |
-| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                     | [Java](./Java/add-two-numbers.java)           | _O(n)_ | _O(n)_ | Medium     | Math               |      |
-| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                 | [Java](./Java/linked-list-cycle.java)         | _O(n)_ | _O(1)_ | Easy       | Slow-Fast Pointers |      |
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                 | [C++](./C++/LRU-Cache.cpp)                    | _O(1)_ | _O(k)_ | Medium     | Hash Map           |      |
-| 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Java](./Java/middle-of-the-linked-list.java) | _O(n)_ | _O(1)_ | Easy       | Two pointers       |      |
+| #   | Title                                                                                                                 | Solution                                                      | Time   | Space  | Difficulty | Tag                | Note |
+| --- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------ | ------ | ---------- | ------------------ | ---- |
+| 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                     | [Java](./Java/add-two-numbers.java)                           | _O(n)_ | _O(n)_ | Medium     | Math               |      |
+| 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                   | [Java](./Java/remove-nth-node-from-end-of-list.java)          | _O(n)_ | _O(1)_ | Medium     | Two pointers       |      |
+| 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](./Java/convert-sorted-list-to-binary-search-tree.java) | _O(n)_ | _O(n)_ | Medium     | LinkedList         |      |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                 | [Java](./Java/linked-list-cycle.java)                         | _O(n)_ | _O(1)_ | Easy       | Slow-Fast Pointers |      |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                 | [C++](./C++/LRU-Cache.cpp)                                    | _O(1)_ | _O(k)_ | Medium     | Hash Map           |      |
+| 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                 | _O(n)_ | _O(1)_ | Easy       | Two pointers       |      |
 
 <br/>
 <div align="right">

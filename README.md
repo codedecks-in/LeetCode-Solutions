@@ -94,6 +94,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1480  | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [Java](./Java/running-sum-of-1d-array.java)        | _O(N)_ | _O(N)_ | Easy     | Simple sum |      |
 | 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)       | [Python](./Python/trapping_rain.py)        | _O(N^2)_ | _O(N)_ | Hard     | Array |      |
 | 11  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)       | [Python](./Python/container_with_most_water.py)        | _O(N)_ | _O(N)_ | Medium     | Array Two Pointers|      |
+| 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)       | [Python](./Python/count-good-triplets.py)        | _O(N^3)_ | _O(1)_ | Easy     | |      |
 
 
 <br/>

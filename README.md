@@ -96,7 +96,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 11  | [Container with Most Water](https://leetcode.com/problems/container-with-most-water/)       | [Python](./Python/container_with_most_water.py)        | _O(N)_ | _O(N)_ | Medium     | Array Two Pointers|      |
 | 1134 🔒 | [Armstrong Number](https://leetcode.com/problems/armstrong-number/)       | [Java](./Java/armstrong-number.java)        | _O(N)_ | _O(1)_ | Easy     | |      |
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)       | [Python](./Python/count-good-triplets.py)        | _O(N^3)_ | _O(1)_ | Easy     | |      |
-| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)       | [Java](./Java/matrix-diagonal-sum)        | _O(N)_ | _O(1)_ | Easy     | |      |
+| 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)       | [Java](./Java/matrix-diagonal-sum.java)        | _O(N)_ | _O(1)_ | Easy     | |      |
 
 
 <br/>

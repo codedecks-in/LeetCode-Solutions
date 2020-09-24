@@ -98,8 +98,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)       | [Python](./Python/count-good-triplets.py)        | _O(N^3)_ | _O(1)_ | Easy     | |      |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)       | [Java](./Java/matrix-diagonal-sum.java)        | _O(N)_ | _O(1)_ | Easy     | |      |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)       | [Javascript](./JavaScript/Subdomain-Visit-Count.js)        | _O(N*M)_ | _O(N*M + N)_ | Easy     | |      |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)        |  [C++](./C++/maximum-subarray.cpp)  | _O(N)_ | _O(1)_ |
- Easy | Array | |      |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)        |  [C++](./C++/maximum-subarray.cpp)  | _O(N)_ | _O(1)_ |Easy | Array |     |
 
 <br/>
 <div align="right">

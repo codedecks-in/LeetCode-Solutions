@@ -98,7 +98,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1534 | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)       | [Python](./Python/count-good-triplets.py)        | _O(N^3)_ | _O(1)_ | Easy     | |      |
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)       | [Java](./Java/matrix-diagonal-sum.java)        | _O(N)_ | _O(1)_ | Easy     | |      |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)       | [Javascript](./JavaScript/Subdomain-Visit-Count.js)        | _O(N*M)_ | _O(N*M + N)_ | Easy     | |      |
-
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)        |  [C++](./C++/maximum-subarray.cpp)  | _O(N)_ | _O(1)_ |
+ Easy | Array | |      |
 
 <br/>
 <div align="right">
@@ -348,7 +349,8 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Sachin Singh Negi](https://github.com/sachinnegi) <br> <img src="https://github.com/sachinnegi.png" width="100" height="100">                   | India   | Python               | [Twitter](https://twitter.com/SachinSinghNe17)<br>[Leetcode](https://leetcode.com/negisachin688/)<br>[Hackerrrak](https://www.hackerrank.com/negisachin688)           |
 | [Girish Thatte](https://github.com/girishgr8/) <br> <img src="https://github.com/girishgr8.png" width="100" height="100">                        | India   | Java                 | [Leetcode](https://leetcode.com/girish13/) <br> [Hackerrank](https://www.hackerrank.com/procoder_13) <br> [Codechef](https://www.codechef.com/procoder_13)            |
 | [Kevin Chittilapilly](https://github.com/KevinChittilapilly) <br> <img src="https://github.com/KevinChittilapilly.png" width="100" height="100"> | India   | Java                 | [Leetcode](https://leetcode.com/being_kevin/) <br> [Hackerrank](https://www.hackerrank.com/ckevinvarghese11) <br> [Kaggle](https://www.kaggle.com/kevinchittilapilly) |
-| [Nour Grati](https://github.com/Nour-Grati) <br> <img src="https://github.com/Nour-Grati.png" width="100" height="100">                          | Tunisia | Python               | [Leetcode](https://leetcode.com/nourgrati/) <br> [Hackerrank](https://www.hackerrank.com/noor_grati) <br> [Twitter](https://twitter.com/GratiNour1)                   |
+| [Nour Grati](https://github.com/Nour-Grati) <br> <img src="https://github.com/Nour-Grati.png" width="100" height="100">                          | Tunisia | Python               | [Leetcode](https://leetcode.com/nourgrati/) <br> [Hackerrank](https://www.hackerrank.com/noor_grati) <br> [Twitter](https://twitter.com/GratiNour1)  
+|[Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100"> |India | C++    |   [Leetcode](https://leetcode.com/avi_002/) |
 
 <br/>
 <div align="right">

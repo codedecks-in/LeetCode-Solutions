@@ -70,7 +70,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Tag | Note      |
 | ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++] (./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
 | 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                    | _O(n)_ | _O(1)_ | Medium     |     |           |
 | 0520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)   | [Python](./Python/detect-capital.py)                                       | _O(n)_ | _O(1)_ | Easy       |     |           |
 
@@ -89,7 +89,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | [Java](./Java/Degree-of-an-Array.java)              | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1089 | [Duplicate Zeroes](https://leetcode.com/problems/duplicate-zeros/)     | [JavaScript](./JavaScript/Duplicate-Zeroes.js) | _O(n)_     | _O(n)_ | Easy       | Array     |      |
 | 1502 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)     | [Java](./Java/can-make-arithmetic-progression-from-sequence.java) | _O(n)_     | _O(1)_ | Easy       | Array     |      |
-| 122  | [Best Time to buy and sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)       | [Python](./Python/best-time-to-buy-and-sell-stock-ii.py)        | _O(N)_ | _O(1)_ | Medium     | Stocks |      |
+| 122  | [Best Time to buy and sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii)       | [Python](./Python/best-time-to-buy-and-sell-stock-ii.py)   <br> [C++] (./C++/Best-Time-to-Buy-and-Sell-Stock-II.cpp)     | _O(N)_ | _O(1)_ | Medium     | Stocks |      |
 | 119  | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii)       | [Python](./Python/pascals-triangle-ii.py)        | _O(N^2)_ | _O(K)_ | Easy     |  |      |
 | 1480  | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)       | [Java](./Java/running-sum-of-1d-array.java)        | _O(N)_ | _O(N)_ | Easy     | Simple sum |      |
 | 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)       | [Python](./Python/trapping_rain.py)        | _O(N^2)_ | _O(N)_ | Hard     | Array |      |
@@ -130,7 +130,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                   | [Java](./Java/remove-nth-node-from-end-of-list.java)          | _O(n)_ | _O(1)_ | Medium     | Two pointers       |      |
 | 109 | [Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) | [Java](./Java/convert-sorted-list-to-binary-search-tree.java) | _O(n)_ | _O(n)_ | Medium     | LinkedList         |      |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                 | [Java](./Java/linked-list-cycle.java)                         | _O(n)_ | _O(1)_ | Easy       | Slow-Fast Pointers |      |
-| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                 | [Java](./Java/linked-list-cycle-ii.java)                         | _O(n)_ | _O(1)_ | Medium       | Slow-Fast Pointers |      |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                                 | [Java](./Java/linked-list-cycle-ii.java)  <br> [C++] (./C++/Linked-List-Cycle-II.cpp)    |             | _O(n)_ | _O(1)_ | Medium       | Slow-Fast Pointers |      |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                 | [C++](./C++/LRU-Cache.cpp)                                    | _O(1)_ | _O(k)_ | Medium     | Hash Map           |      |
 | 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                 | _O(n)_ | _O(1)_ | Easy       | Two pointers       |      |
 

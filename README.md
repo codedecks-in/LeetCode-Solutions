@@ -193,7 +193,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)             | [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py) | _O(N)_ | _O(N)_ | Easy       |     | [Tutorial](https://youtu.be/47xMuvwP7zQ)                |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java)                               | _O(n)_ | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)                                   |        |        | Medium     |     |                                                         |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |                                                         |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)
+                                                        |             | [C++](./C++/brick-walls.cpp)                                    | _O(n)_ | _O(n)_ | Medium     |     |
 
 <br/>
 <div align="right">
@@ -353,6 +355,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Kevin Chittilapilly](https://github.com/KevinChittilapilly) <br> <img src="https://github.com/KevinChittilapilly.png" width="100" height="100"> | India   | Java                 | [Leetcode](https://leetcode.com/being_kevin/) <br> [Hackerrank](https://www.hackerrank.com/ckevinvarghese11) <br> [Kaggle](https://www.kaggle.com/kevinchittilapilly) |
 | [Nour Grati](https://github.com/Nour-Grati) <br> <img src="https://github.com/Nour-Grati.png" width="100" height="100">                          | Tunisia | Python               | [Leetcode](https://leetcode.com/nourgrati/) <br> [Hackerrank](https://www.hackerrank.com/noor_grati) <br> [Twitter](https://twitter.com/GratiNour1)  
 |[Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100"> |India | C++    |   [Leetcode](https://leetcode.com/avi_002/) |
+|[Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishikagoel5628/) |
 
 <br/>
 <div align="right">

@@ -99,6 +99,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)       | [Java](./Java/matrix-diagonal-sum.java)        | _O(N)_ | _O(1)_ | Easy     | |      |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)       | [Javascript](./JavaScript/Subdomain-Visit-Count.js)        | _O(N*M)_ | _O(N*M + N)_ | Easy     | |      |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)        |  [C++](./C++/maximum-subarray.cpp)  | _O(N)_ | _O(1)_ |Easy | Array |     |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)        |  [C++](./C++/two-sum.cpp)  | _O(N^2)_ | _O(1)_ |Easy | Array |     |
 
 <br/>
 <div align="right">
@@ -356,6 +357,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Nour Grati](https://github.com/Nour-Grati) <br> <img src="https://github.com/Nour-Grati.png" width="100" height="100">                          | Tunisia | Python               | [Leetcode](https://leetcode.com/nourgrati/) <br> [Hackerrank](https://www.hackerrank.com/noor_grati) <br> [Twitter](https://twitter.com/GratiNour1)  
 |[Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100"> |India | C++    |   [Leetcode](https://leetcode.com/avi_002/) |
 |[Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishikagoel5628/) |
+|[Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/prashansaaa/) |
 
 <br/>
 <div align="right">

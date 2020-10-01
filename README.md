@@ -194,8 +194,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java)                               | _O(n)_ | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)                                   |        |        | Medium     |     |                                                         |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |
-| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)
-| [C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) |
+[C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
 
 <br/>
 <div align="right">

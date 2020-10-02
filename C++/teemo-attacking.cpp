@@ -1,3 +1,10 @@
+//https://leetcode.com/problems/teemo-attacking/
+//Difficulty Level: Medium 
+//Tags: Arrays
+//Time complexity: O(n)
+//Space complexity: O(1)
+//similar to overlapping subintervals problems
+
 class Solution {
 public:
     int findPoisonedDuration(vector<int>& timeSeries, int duration) {
@@ -11,9 +18,9 @@ public:
         for(int i=0; i<n-1; i++)
         {
             ans += duration;
-            if(timeSeries[i+1] < timeSeries[i] + duration)  //overlapping
+            if(timeSeries[i+1] < timeSeries[i] + duration)  //overlapping condition
             {
-                ans -= (timeSeries[i] + duration - timeSeries[i+1]);
+                ans -= (timeSeries[i] + duration - timeSeries[i+1]);   //the overlapped time subtracted
             }
         }
         

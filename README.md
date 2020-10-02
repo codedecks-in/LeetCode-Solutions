@@ -226,7 +226,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [C++](./C++/Excel-Sheet-Column-Title.cpp)                                 | _O(n)_            | _O(n)_ | Easy       | String |      |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                   | [Java](./Java/reverse-integer.java) <br> [C++](./C++/Reverse-Integer.cpp) | _O(n)_            | _O(n)_ | Easy       | Math   |      |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number)                         | [Java](./Java/Happy-Number.java)                                          | _O(n^2)_          | _O(n)_ | Easy       | Math   |      |
-| 202 | [Power of Three](https://leetcode.com/problems/power-of-three)                         | [Java](./Java/Power-of-Three.java)                                         | _O(logn)_          | _O(n)_ | Easy       | Math   |      |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three)                         | [Java](./Java/Power-of-Three.java)                                         | _O(logn)_          | _O(n)_ | Easy       | Math   |      |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

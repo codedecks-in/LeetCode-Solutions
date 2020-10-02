@@ -100,6 +100,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)       | [Javascript](./JavaScript/Subdomain-Visit-Count.js)        | _O(N*M)_ | _O(N*M + N)_ | Easy     | |      |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)        |  [C++](./C++/maximum-subarray.cpp)  | _O(N)_ | _O(1)_ |Easy | Array |     |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/)        |  [C++](./C++/two-sum.cpp)  | _O(N^2)_ | _O(1)_ |Easy | Array |     |
+| 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking)       | [C++](./C++/teemo-attacking.cpp)    | _O(n)_     | _O(1)_ | Medium| Array |    |
 
 <br/>
 <div align="right">
@@ -361,6 +362,10 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">                   | India   | C++                  | [Leetcode](https://leetcode.com/ishikagoel5628/) |
 | [Fenil Dobariya](https://github.com/ifenil)  <br>  <img src="https://rb.gy/iascx3" width="100" height="100">                                     | India   | Java                 | [Github](https://github.com/ifenil) |                                
 | [Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">        | India   | C++                  | [Leetcode](https://leetcode.com/prashansaaa/) | 
+|[Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100"> |India | C++    |   [Leetcode](https://leetcode.com/avi_002/) |
+|[Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishikagoel5628/) |
+|[Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/prashansaaa/) |
+|[Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
 
 
 <br/>

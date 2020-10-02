@@ -223,6 +223,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes)                         | [C++](./C++/Count-Primes.cpp)                                             | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math   |      |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [C++](./C++/Excel-Sheet-Column-Title.cpp)                                 | _O(n)_            | _O(n)_ | Easy       | String |      |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                   | [Java](./Java/reverse-integer.java) <br> [C++](./C++/Reverse-Integer.cpp) | _O(n)_            | _O(n)_ | Easy       | Math   |      |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number)                   | [Java](./Java/Happy-Number.java)                                             | _O(n^2)_ | _O(n)_ | Easy       | Math   |      |
 
 <br/>
 <div align="right">
@@ -356,6 +357,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Nour Grati](https://github.com/Nour-Grati) <br> <img src="https://github.com/Nour-Grati.png" width="100" height="100">                          | Tunisia | Python               | [Leetcode](https://leetcode.com/nourgrati/) <br> [Hackerrank](https://www.hackerrank.com/noor_grati) <br> [Twitter](https://twitter.com/GratiNour1)  
 |[Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100"> |India | C++    |   [Leetcode](https://leetcode.com/avi_002/) |
 |[Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishikagoel5628/) |
+|[Fenil Dobariya](https://github.com/ifenil)  <br>  <img src="https://rb.gy/iascx3" width="100" height="100">   | India | Java |[Github](https://github.com/ifenil)    |
 
 <br/>
 <div align="right">

@@ -282,6 +282,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                 | [Python](./Python/edit-distance.py)            | _O(N\*M)_ | _O(n^2)_ | Medium     | Levenshtein Distance |      |
 | 91   | [Decode ways](https://leetcode.com/problems/decode-ways/)                                     | [Python](./Python/decode-ways.py)              | _O(N)_    | _O(N)_   | Easy       | DP                   |      |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                   | [Python](./Python/divisor-game.py)             | _O(N^2)_  | _O(N)_   | Easy       | DP                   |      |
+| 70   | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                   | [C++](./C++/climbing-stairs.cpp)             | _O(N)_  | _O(1)_   | Easy       | DP                   |      |
 
 <br/>
 <div align="right">
@@ -359,6 +360,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 |[Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100"> |India | C++    |   [Leetcode](https://leetcode.com/avi_002/) |
 |[Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishikagoel5628/) |
 |[Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/prashansaaa/) |
+|[Tanmay](https://github.com/tanmay-j)  <br>  <img src="https://github.com/tanmay-j.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/darkishrainbow/) |
 
 <br/>
 <div align="right">

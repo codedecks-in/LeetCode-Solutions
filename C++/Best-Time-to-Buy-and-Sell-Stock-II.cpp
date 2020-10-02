@@ -8,6 +8,7 @@ class Solution
 		int maxProfit(vector<int> &prices)
 		{
 			int sum = 0;
+			int count =sum;
 			//If the number of element in the array are zero or one just return zero.
 			if (prices.size() == 1 or prices.size() == 0)
 			{

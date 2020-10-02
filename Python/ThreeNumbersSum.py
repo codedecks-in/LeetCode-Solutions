@@ -1,7 +1,35 @@
-#   Three number sum program
-#   We will be using the sliding window algorithm here as well which will give us the complexity of O(nlogn)
+"""
+15. 3Sum
+Medium
 
-def sum_of_three(arr, target) : 
+8121
+
+881
+
+Add to List
+
+Share
+Given an array nums of n integers, are there elements a, b, c in nums such that a + b + c = 0? Find all unique triplets in the array which gives the sum of zero.
+
+Notice that the solution set must not contain duplicate triplets.
+
+ 
+
+Example 1:
+
+Input: nums = [-1,0,1,2,-1,-4]
+Output: [[-1,-1,2],[-1,0,1]]
+Example 2:
+
+Input: nums = []
+Output: []
+Example 3:
+
+Input: nums = [0]
+Output: []
+"""
+
+def sum_of_three(arr, target=0) : 
     result = list()
     arr.sort()
     
@@ -23,4 +51,4 @@ def sum_of_three(arr, target) :
     return result
 
 if __name__ == '__main__' : 
-    print(sum_of_three([3,5,-4,8,11,1,-1,6], 10))
+    print(sum_of_three([3,5,-4,8,11,1,-1,6]))

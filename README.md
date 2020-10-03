@@ -231,7 +231,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes)                         | [C++](./C++/Count-Primes.cpp)                                             | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math   |      |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [C++](./C++/Excel-Sheet-Column-Title.cpp)                                 | _O(n)_            | _O(n)_ | Easy       | String |      |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                   | [Java](./Java/reverse-integer.java) <br> [C++](./C++/Reverse-Integer.cpp) | _O(n)_            | _O(n)_ | Easy       | Math   |      |
-
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number)                         | [Java](./Java/Happy-Number.java)                                          | _O(n^2)_          | _O(n)_ | Easy       | Math   |      |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three)                         | [Java](./Java/Power-of-Three.java)                                         | _O(logn)_          | _O(n)_ | Easy       | Math   |      |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -363,10 +364,12 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Girish Thatte](https://github.com/girishgr8/) <br> <img src="https://github.com/girishgr8.png" width="100" height="100">                        | India   | Java                 | [Leetcode](https://leetcode.com/girish13/) <br> [Hackerrank](https://www.hackerrank.com/procoder_13) <br> [Codechef](https://www.codechef.com/procoder_13)            |
 | [Kevin Chittilapilly](https://github.com/KevinChittilapilly) <br> <img src="https://github.com/KevinChittilapilly.png" width="100" height="100"> | India   | Java                 | [Leetcode](https://leetcode.com/being_kevin/) <br> [Hackerrank](https://www.hackerrank.com/ckevinvarghese11) <br> [Kaggle](https://www.kaggle.com/kevinchittilapilly) |
 | [Nour Grati](https://github.com/Nour-Grati) <br> <img src="https://github.com/Nour-Grati.png" width="100" height="100">                          | Tunisia | Python               | [Leetcode](https://leetcode.com/nourgrati/) <br> [Hackerrank](https://www.hackerrank.com/noor_grati) <br> [Twitter](https://twitter.com/GratiNour1)  
-|[Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100"> |India | C++    |   [Leetcode](https://leetcode.com/avi_002/) |
-|[Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishikagoel5628/) |
-|[Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/prashansaaa/) |
-|[Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
+| [Avinash Trivedi](https://github.com/trivediavinash)  <br>   <img src="https://github.com/trivediavinash.png" width="100" height="100">          | India   | C++                  | [Leetcode](https://leetcode.com/avi_002/) |
+| [Ishika Goel](https://github.com/ishikagoel5628)  <br>  <img src="https://github.com/Nour-Grati.png" width="100" height="100">                   | India   | C++                  | [Leetcode](https://leetcode.com/ishikagoel5628/) |
+| [Fenil Dobariya](https://github.com/ifenil)  <br>  <img src="https://rb.gy/iascx3" width="100" height="100">                                     | India   | Java                 | [Github](https://github.com/ifenil) |                                
+| [Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">        | India   | C++                  | [Leetcode](https://leetcode.com/prashansaaa/) | 
+| [Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
+
 
 <br/>
 <div align="right">

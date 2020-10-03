@@ -369,7 +369,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Fenil Dobariya](https://github.com/ifenil)  <br>  <img src="https://rb.gy/iascx3" width="100" height="100">                                     | India   | Java                 | [Github](https://github.com/ifenil) |                                
 | [Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">        | India   | C++                  | [Leetcode](https://leetcode.com/prashansaaa/) | 
 | [Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
-| [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img sr="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100">            | India   | Java                 | [Leetcod](https://leetcode.com/goal_cracker/) |
+| [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100"> | India   | Java          | [Leetcode](https://leetcode.com/goal_cracker/) |
 
 <br/>
 <div align="right">

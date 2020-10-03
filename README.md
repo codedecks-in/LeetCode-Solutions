@@ -226,6 +226,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                                              | Solution                                                                  | Time              | Space  | Difficulty | Tag    | Note |
 | --- | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------------- | ------ | ---------- | ------ | ---- |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                 | [Java](./Java/Pow(x,n).java)                                            | _O(n)_            | _O(1)_ | Medium     | Math   |      |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                 | [Python](./Python/50.Powxn.py)                                            | _O(n)_            | _O(1)_ | Medium     | Math   |      |
 | 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                 | [JavaScript](./JavaScript/50.Powxn.js)                                            | _O(n)_            | _O(1)_ | Medium     | Math   |      |
 | 204 | [Count Primes](https://leetcode.com/problems/count-primes)                         | [C++](./C++/Count-Primes.cpp)                                             | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math   |      |

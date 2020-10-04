@@ -12,7 +12,6 @@ Constraints:
 Difficulty: Medium
 Time Complexity: Log(n)
 Space Complexity: Log(n)
-
 */ 
 class Solution {
     // To caluculate x^n

@@ -216,7 +216,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                                         | Solution                                            | Time     | Space  | Difficulty | Tag | Note             |
 | --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ------ | ---------- | --- | ---------------- |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) | _O(N^2)_ | _O(N)_ | Medium     |     | Expand the Wings |
-
+| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [Java](./Java/median-of-two-sorted-arrays.java)    | _O(log(min(m,n)))_ | _O(1)_ | Hard |  |  |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -371,7 +371,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Fenil Dobariya](https://github.com/ifenil)  <br>  <img src="https://rb.gy/iascx3" width="100" height="100">                                     | India   | Java                 | [Github](https://github.com/ifenil) |                                
 | [Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">        | India   | C++                  | [Leetcode](https://leetcode.com/prashansaaa/) | 
 | [Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
-
+| [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100"> | India   | Java          | [Leetcode](https://leetcode.com/goal_cracker/) |
 
 <br/>
 <div align="right">

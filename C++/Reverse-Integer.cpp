@@ -1,16 +1,16 @@
-class Solution {
-public:
-    int reverse(int x) {
-        int rev = 0;
-        while (x!=0) {
-            int pop = x % 10;
-            x /= 10;
-            // to check that it may not overflow integer range
-            if (rev > INT_MAX/10 || (rev == INT_MAX / 10 && pop > 7)) return 0;
-            if (rev < INT_MIN/10 || (rev == INT_MIN / 10 && pop < -8)) return 0;
-            rev = rev * 10 + pop;
-        }
-        return rev;
+# include<iostream.h>
+void main()
+{
+    int x,digit;
+    cout<<"Enter your integer:-";
+    cin>>x;                      //Input
+    int rev = 0;
+    while (x>0) 
+    {
+        digit = x % 10;              //extrracting a digit
+        rev = rev * 10 + digit;      //making the reverse
+        x/=10;                       // removal of extracted digits
     }
-};
+    cout<<"The reverse of the number is "<<rev;  //Output or display of the reversed number
+}
 

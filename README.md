@@ -204,6 +204,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) |
 [C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) |
+[Javascript](./JavaScript/146.LRU-Cache.js)| _O(log(n))_ | _O(n)_ | Medium     |     |
 
 <br/>
 <div align="right">

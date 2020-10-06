@@ -108,7 +108,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./C++/k-diff-pairs-in-an-array.cpp) | O(n) | O(n) | Medium | Array | 
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Javascript](./JavaScript/152.Maximum-Product-Subarray.js) | O(n) | O(n) | Medium | Array | 
 
->>>>>>> upstream/master
 
 <br/>
 <div align="right">
@@ -295,11 +294,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                 | [Python](./Python/edit-distance.py)            | _O(N\*M)_ | _O(n^2)_ | Medium     | Levenshtein Distance |      |
 | 91   | [Decode ways](https://leetcode.com/problems/decode-ways/)                                     | [Python](./Python/decode-ways.py)              | _O(N)_    | _O(N)_   | Easy       | DP                   |      |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                   | [Python](./Python/divisor-game.py)             | _O(N^2)_  | _O(N)_   | Easy       | DP                   |      |
-<<<<<<< HEAD
 | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                   | [C++](./C++/dungeon-game.pp)             | _O(M*N)_  | _O(M*N)_   | Hard       | Dynamic Programming                  |Video Explanation: https://www.youtube.com/watch?v=4uUGxZXoR5o      |
-=======
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                   | [Java](./Java/climbing-stairs.java)             | _O(N)_  | _O(1)_  | Easy       | DP                   |      |
->>>>>>> upstream/master
+
 
 <br/>
 <div align="right">

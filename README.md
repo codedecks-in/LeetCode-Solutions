@@ -187,6 +187,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)     | [Java](./Java/complete-binary-tree-inserter.java)          | _O(n)_    | _O(n)_    | Medium     | Tree 
 | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)   | [C++](./C++/binary-tree-preorder-traversal.java)         | _O(n)_    | _O(n)_ | Medium     | Binary Tree, Stack  
 | 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)     | [C++](./C++/Binary-Tree-Cameras.cpp)          | _O(n)_    | _O(logn)_    | Hard     | Binary Tree, Dynamic Programming  
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)     | [Javascript](./JavaScript/98.Validate-Binary-Search-Tree.js)          | _O(log(n))_    | _O(log(n))_    | Medium     | Binary Tree  
+
 
 <br/>
 <div align="right">

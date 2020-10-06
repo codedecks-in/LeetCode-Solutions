@@ -104,6 +104,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [Python](./Python/ThreeNumbersSum.py) | O( nLog(n) ) | O(1) | Medium | Array |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](./python/SmallestDifference.py) | O(n) | O(1) | Easy | Array | 
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./C++/k-diff-pairs-in-an-array.cpp) | O(n) | O(n) | Medium | Array | 
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Javascript](./JavaScript/152.Maximum-Product-Subarray.js) | O(n) | O(n) | Medium | Array | 
 
 
 <br/>

@@ -99,7 +99,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1572 | [Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/)       | [Java](./Java/matrix-diagonal-sum.java)        | _O(N)_ | _O(1)_ | Easy     | |      |
 | 811 | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)       | [Javascript](./JavaScript/Subdomain-Visit-Count.js)        | _O(N*M)_ | _O(N*M + N)_ | Easy     | |      |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)        |  [C++](./C++/maximum-subarray.cpp)  | _O(N)_ | _O(1)_ |Easy | Array |     |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/)        |  [C++](./C++/two-sum.cpp)  | _O(N^2)_ | _O(1)_ |Easy | Array |     |
 | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking)       | [C++](./C++/teemo-attacking.cpp)    | _O(n)_     | _O(1)_ | Medium| Array |    |
 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [Python](./Python/ThreeNumbersSum.py) | O( nLog(n) ) | O(1) | Medium | Array |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](./python/SmallestDifference.py) | O(n) | O(1) | Easy | Array | 
@@ -201,7 +200,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                         | Solution                                                        | Time   | Space  | Difficulty | Tag | Video Explanation                                       |
 | --- | ------------------------------------------------------------- | --------------------------------------------------------------- | ------ | ------ | ---------- | --- | ------------------------------------------------------- |
-| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)             | [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py) | _O(N)_ | _O(N)_ | Easy       |     | [Tutorial](https://youtu.be/47xMuvwP7zQ)                |
+| 001 | [Two Sum](https://leetcode.com/problems/two-sum/)             | [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py) <br> [C++](./C++/two-sum.cpp) | _O(N)_ | _O(N)_ | Easy       |     | [Tutorial](https://youtu.be/47xMuvwP7zQ)                |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java)                               | _O(n)_ | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)                                   |        |        | Medium     |     |                                                         |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |

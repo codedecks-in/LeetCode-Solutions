@@ -104,6 +104,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 15 | [3 Sum](https://leetcode.com/problems/3sum/) | [Python](./Python/ThreeNumbersSum.py) | O( nLog(n) ) | O(1) | Medium | Array |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](./python/SmallestDifference.py) | O(n) | O(1) | Easy | Array | 
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./C++/k-diff-pairs-in-an-array.cpp) | O(n) | O(n) | Medium | Array | 
+| 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Javascript](./JavaScript/152.Maximum-Product-Subarray.js) | O(n) | O(n) | Medium | Array | 
+| 073 | [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](./Java/set-matrix-zeroes.java) | O(MN) | O(1) | Medium | Array | 
 
 
 <br/>
@@ -159,6 +161,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Queue
+
+| #    | Title                                                                                                           | Solution                                                                      | Time      | Space     | Difficulty | Tag                                            | Note |
+| ---- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | --------- | --------- | ---------- | ---------------------------------------------- | ---- |
+| 933  | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/)                      | [C++](./C++/Number-of-Recent-Calls.cpp )          | _O(1)_    | _O(1)_ | Easy     | Queue, Sliding Window 
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 # Tree
 
 | #    | Title                                                                                                           | Solution                                                                      | Time      | Space     | Difficulty | Tag                                            | Note |
@@ -168,27 +182,14 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 101  | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                                 | [Java](./Java/symmetric-tree.java)<br>[Python](./Python/101.SymmetricTree.py) | _O(n)_    | _O(n)_    | Easy       | Tree, Breadth-first Search, Depth-first Search |      |
 | 144  | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)                 | [Java](./Java/binary-tree-preorder-traversal.java)                            | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Stack                             |      |
 | 145  | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)               | [Java](./Java/binary-tree-postorder-traversal.java)                           | _O(n)_    | _O(logn)_ | Hard       | Binary Tree, Stack                             |      |
-| 103  | [ZigZag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                   | [JavaScript](./JavaScript/Binary-Tree-ZigZag-Traversal.js)                    | _O(n)_    | _O(n)_    | Medium     | Binary Tree                                    |      |
+| 103  | [ZigZag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)                   | [JavaScript](./JavaScript/Binary-Tree-ZigZag-Traversal.js)   <br> [C++](./C++/binary-tree-preorder-traversal.java)      | _O(n)_    | _O(n)_    | Medium     | Binary Tree                                    |      |
 | 129  | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)                             | [Java](./Java/sum-root-to-leaf-numbers.java)                                  | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Depth First Search                |      |
 | 307  | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)                             | [Java](./Java/Range-Sum-Query-Mutable.java)                                   | _O(logn)_ | _O(n)_    | Medium     | Segment Tree                                   |      |
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)                   | [Java](./Java/complete-binary-tree-inserter.java)                             | _O(n)_    | _O(n)_    | Medium     | Tree                                           |      |
 | 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                     | [C++](./C++/Binary-Tree-Maximum-Path-Sum.cpp)                                 | _O(n)_    | _O(n)_    | Hard       | Tree                                           |      |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [C++](./C++/Recover-a-Tree-From-Preorder-Traversal.cpp)                       | _O(n)_    | _O(n)_    | Hard       | Tree                                           |      |
-
-| #   | Title                                                                                             | Solution                                                   | Time      | Space     | Difficulty | Tag                                            | Note |
-| --- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- | --------- | --------- | ---------- | ---------------------------------------------- | ---- |
-| 094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)     | [Java](./Java/binary-tree-inorder-traversal.java)          | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Stack, HashTable                  |      |
-| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)                                   | [Java](./Java/symmetric-tree.java)                         | _O(n)_    | _O(n)_    | Easy       | Tree, Breadth-first Search, Depth-first Search |      |
-| 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)   | [Java](./Java/binary-tree-preorder-traversal.java)         | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Stack                             |      |
-| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | [Java](./Java/binary-tree-postorder-traversal.java)        | _O(n)_    | _O(logn)_ | Hard       | Binary Tree, Stack                             |      |
-| 103 | [ZigZag Level Order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)     | [JavaScript](./JavaScript/Binary-Tree-ZigZag-Traversal.js) | _O(n)_    | _O(n)_    | Medium     | Binary Tree                                    |      |
-| 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)               | [Java](./Java/sum-root-to-leaf-numbers.java)               | _O(n)_    | _O(logn)_ | Medium     | Binary Tree, Depth First Search                |      |
-| 307 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/)               | [Java](./Java/Range-Sum-Query-Mutable.java)                | _O(logn)_ | _O(n)_    | Medium     | Segment Tree                                   |      |
-| 919 | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)     | [Java](./Java/complete-binary-tree-inserter.java)          | _O(n)_    | _O(n)_    | Medium     | Tree 
-| 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)   | [C++](./C++/binary-tree-preorder-traversal.java)         | _O(n)_    | _O(n)_ | Medium     | Binary Tree, Stack  
 | 968 | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)     | [C++](./C++/Binary-Tree-Cameras.cpp)          | _O(n)_    | _O(logn)_    | Hard     | Binary Tree, Dynamic Programming  
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)     | [Javascript](./JavaScript/98.Validate-Binary-Search-Tree.js)          | _O(log(n))_    | _O(log(n))_    | Medium     | Binary Tree  
-
 
 <br/>
 <div align="right">
@@ -204,8 +205,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java)                               | _O(n)_ | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)                                   |        |        | Medium     |     |                                                         |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |
-| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) |
-[C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
 
 <br/>
 <div align="right">
@@ -235,7 +235,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [C++](./C++/Excel-Sheet-Column-Title.cpp)                                 | _O(n)_            | _O(n)_ | Easy       | String |      |
 | 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                   | [Java](./Java/reverse-integer.java) <br> [C++](./C++/Reverse-Integer.cpp) | _O(n)_            | _O(n)_ | Easy       | Math   |      |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number)                         | [Java](./Java/Happy-Number.java)                                          | _O(n^2)_          | _O(n)_ | Easy       | Math   |      |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three)                         | [Java](./Java/Power-of-Three.java)                                         | _O(logn)_          | _O(n)_ | Easy       | Math   |      |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three)                     | [Java](./Java/Power-of-Three.java)                                         | _O(logn)_          | _O(n)_ | Easy       | Math   |      |
+| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman)                 | [Java](./Java/integer-to-roman.java)                                      | _O(n)_          | _O(1)_ | Medium       | Math   |      |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                 | [Java](./Java/roman-to-integer.java)                                      | _O(n)_          | _O(1)_ | Easy       | Math   |      |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -293,6 +295,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                 | [Python](./Python/edit-distance.py)            | _O(N\*M)_ | _O(n^2)_ | Medium     | Levenshtein Distance |      |
 | 91   | [Decode ways](https://leetcode.com/problems/decode-ways/)                                     | [Python](./Python/decode-ways.py)              | _O(N)_    | _O(N)_   | Easy       | DP                   |      |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                   | [Python](./Python/divisor-game.py)             | _O(N^2)_  | _O(N)_   | Easy       | DP                   |      |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                   | [C++](./C++/dungeon-game.pp)             | _O(M*N)_  | _O(M*N)_   | Hard       | Dynamic Programming                  |    |
+| 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                   | [Java](./Java/climbing-stairs.java)             | _O(N)_  | _O(1)_  | Easy       | DP                   |      |
+
 
 <br/>
 <div align="right">
@@ -374,6 +379,8 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Prashansa Tanwar](https://github.com/prashansatanwar)  <br>  <img src="https://github.com/prashansatanwar.png" width="100" height="100">        | India   | C++                  | [Leetcode](https://leetcode.com/prashansaaa/) | 
 | [Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
 | [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100"> | India   | Java          | [Leetcode](https://leetcode.com/goal_cracker/) |
+| [Tarun Singh](https://github.com/TarunSingh56) <br> <img src="https://avatars3.githubusercontent.com/u/25122604?s=400&u=d01f190e9a8c3790d408c38387c68b6bc9db2ea6&v=4" width="100" height="100"> | India   | C++         | [Leetcode](https://leetcode.com/_tarun/) |
+
 
 <br/>
 <div align="right">

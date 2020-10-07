@@ -216,8 +216,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java)                               | _O(n)_ | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)                                   |        |        | Medium     |     |                                                         |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |
-| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) |
-[C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
 
 <br/>
 <div align="right">
@@ -305,7 +304,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                 | [Python](./Python/edit-distance.py)            | _O(N\*M)_ | _O(n^2)_ | Medium     | Levenshtein Distance |      |
 | 91   | [Decode ways](https://leetcode.com/problems/decode-ways/)                                     | [Python](./Python/decode-ways.py)              | _O(N)_    | _O(N)_   | Easy       | DP                   |      |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                   | [Python](./Python/divisor-game.py)             | _O(N^2)_  | _O(N)_   | Easy       | DP                   |      |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                   | [C++](./C++/dungeon-game.pp)             | _O(M*N)_  | _O(M*N)_   | Hard       | Dynamic Programming                  |    |
 | 070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                   | [Java](./Java/climbing-stairs.java)             | _O(N)_  | _O(1)_  | Easy       | DP                   |      |
+
 
 <br/>
 <div align="right">

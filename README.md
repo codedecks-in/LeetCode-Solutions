@@ -105,6 +105,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [Python](./python/SmallestDifference.py) | O(n) | O(1) | Easy | Array | 
 | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [C++](./C++/k-diff-pairs-in-an-array.cpp) | O(n) | O(n) | Medium | Array | 
 | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Javascript](./JavaScript/152.Maximum-Product-Subarray.js) | O(n) | O(n) | Medium | Array | 
+| 073 | [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Java](./Java/set-matrix-zeroes.java) | O(MN) | O(1) | Medium | Array | 
 
 
 <br/>

@@ -218,9 +218,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                                                         | Solution                                            | Time     | Space  | Difficulty | Tag | Note             |
 | --- | --------------------------------------------------------------------------------------------- | --------------------------------------------------- | -------- | ------ | ---------- | --- | ---------------- |
-| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) | _O(N^2)_ | _O(N)_ | Medium     |     | Expand the Wings |
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) <br> [JavaScript](./JavaScript/5.Longest-Palindromic-Substring.js) | _O(N^2)_ <br> _O(N^2)_ | _O(N)_ <br> _O(1)_ | Medium     |     | Expand the Wings |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [Java](./Java/median-of-two-sorted-arrays.java)    | _O(log(min(m,n)))_ | _O(1)_ | Hard |  |  |
-| 005   | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)     | [JavaScript](./JavaScript/5.Longest-Palindromic-Substring.js)    | _O(N^2)_ | _O(1)_ | Medium |  |  |
 
 <br/>
 <div align="right">

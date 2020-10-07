@@ -57,8 +57,4 @@ public class IntegerToRoman{
         }
         return roman;
     }
-
-    public static void main(String[] args){
-        System.out.println(numberToRoman(123));//123 will return CXXIII
-    }
 }

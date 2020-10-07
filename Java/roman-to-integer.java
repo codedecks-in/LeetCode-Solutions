@@ -51,8 +51,4 @@ public class RomanToInteger{
         }
         return results;//returns the result
     }
-    
-    public static void main(String[] args) {
-        System.out.println(romanToNumber("VI"));//VI will return 6
-    }
 }

@@ -388,7 +388,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
 | [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100"> | India   | Java          | [Leetcode](https://leetcode.com/goal_cracker/) |
 | [Tarun Singh](https://github.com/TarunSingh56) <br> <img src="https://avatars3.githubusercontent.com/u/25122604?s=400&u=d01f190e9a8c3790d408c38387c68b6bc9db2ea6&v=4" width="100" height="100"> | India   | C++         | [Leetcode](https://leetcode.com/_tarun/) |
-| [Jaseem ck](https://github.com/Jaseemck)  <br>  <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100">        | India   | Python                  | [Github](https://github.com/Jaseemck) | 
+| [Jaseem ck](https://github.com/Jaseemck)  <br>  <img src="https://github.com/Optider.png" width="100" height="100">        | India   | Python                  | [Github](https://github.com/Jaseemck) | 
 
 <br/>
 <div align="right">

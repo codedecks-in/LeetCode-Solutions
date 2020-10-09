@@ -140,6 +140,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                           | [Java](./Java/linked-list-cycle-ii.java)  <br> [C++](./C++/Linked-List-Cycle-II.cpp)         | _O(n)_ | _O(1)_ | Medium  | Slow-Fast Pointers |      |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                 | [C++](./C++/LRU-Cache.cpp)                                    | _O(1)_ | _O(k)_ | Medium     | Hash Map           |      |
 | 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                 | _O(n)_ | _O(1)_ | Easy       | Two pointers       |      |
+| 23  | [Merge K sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)                                           | [C++](./C++/merge-k-sorted-lists.cpp)                         | _O(nlogn)_ | _O(n)_ | Hard       | sorting and append |      |
 
 <br/>
 <div align="right">
@@ -382,6 +383,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Ishu Raj](https://github.com/ir2010)  <br>  <img src="https://github.com/ir2010.png" width="100" height="100">   | India | C++ | [Leetcode](https://leetcode.com/ishuraj2010/) |
 | [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100"> | India   | Java          | [Leetcode](https://leetcode.com/goal_cracker/) |
 | [Tarun Singh](https://github.com/TarunSingh56) <br> <img src="https://avatars3.githubusercontent.com/u/25122604?s=400&u=d01f190e9a8c3790d408c38387c68b6bc9db2ea6&v=4" width="100" height="100"> | India   | C++         | [Leetcode](https://leetcode.com/_tarun/) |
+| [Hardik Gupta](https://github.com/harrdy272) <br> <img src="https://avatars3.githubusercontent.com/u/42604986?s=460&u=609a0839312a620d3d658ef19e8eac1e226a6eb4&v=4" width="100" height="100">                   | India   | C++                  | [codeforces](https://codeforces.com/profile/harrdy272) <br>[codechef](https://www.codechef.com/users/hardikg272) <br> [Hackerrank](https://www.hackerrank.com/hardikg272) <br> [LeetCode](https://leetcode.com/hardikg272/) |
 | [Jaseem ck](https://github.com/Jaseemck)  <br>  <img src="https://github.com/Optider.png" width="100" height="100">        | India   | Python                  | [Github](https://github.com/Jaseemck) | 
 
 <br/>

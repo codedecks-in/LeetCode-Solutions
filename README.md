@@ -205,6 +205,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Java](./Java/valid-anagram.java)                               | _O(n)_ | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Java](./Java/LRU-Cache.java)                                   |        |        | Medium     |     |                                                         |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)         | [Python](./Python/contains-duplicate.py)      | _O(n)_ | _O(n)_ |            |     |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/) | [C++](./C++/brick-walls.cpp)| _O(n)_ | _O(n)_ | Medium     |     |
+| 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Python](./Python/group_anagram.py)| _O(nlogn)_ | _O(1)_ | Easy     |     |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)         | [C++](./C++/brick-walls.cpp)      | _O(n)_ | _O(n)_ |      Medium      |     |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)         | [Javascript](../JavaScript/146.LRU-Cache.js)      | _O(log(n))_ | _O(n)_ |    Medium        |     |
 
@@ -382,6 +384,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Rakesh Bhadhavath](https://github.com/Revenge-Rakesh) <br> <img src="https://avatars2.githubusercontent.com/u/36032275?v=4" width="100" height="100"> | India   | Java          | [Leetcode](https://leetcode.com/goal_cracker/) |
 | [Tarun Singh](https://github.com/TarunSingh56) <br> <img src="https://avatars3.githubusercontent.com/u/25122604?s=400&u=d01f190e9a8c3790d408c38387c68b6bc9db2ea6&v=4" width="100" height="100"> | India   | C++         | [Leetcode](https://leetcode.com/_tarun/) |
 | [Hardik Gupta](https://github.com/harrdy272) <br> <img src="https://avatars3.githubusercontent.com/u/42604986?s=460&u=609a0839312a620d3d658ef19e8eac1e226a6eb4&v=4" width="100" height="100">                   | India   | C++                  | [codeforces](https://codeforces.com/profile/harrdy272) <br>[codechef](https://www.codechef.com/users/hardikg272) <br> [Hackerrank](https://www.hackerrank.com/hardikg272) <br> [LeetCode](https://leetcode.com/hardikg272/) |
+| [Jaseem ck](https://github.com/Jaseemck)  <br>  <img src="https://github.com/Optider.png" width="100" height="100">        | India   | Python                  | [Github](https://github.com/Jaseemck) | 
 
 <br/>
 <div align="right">

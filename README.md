@@ -253,6 +253,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------- | ----------------- | ---------- | --- | ---- |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [C++](./C++/Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix.cpp) | _O(m * n * 2 ^ (m \* n))_ | _O(2 ^ (m \* n))_ | Hard       | BFS |      |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                             | [Java](./Java/NumberOfIslands.java)                                              | O(R \* C)                 | O(R \* C)         | Medium     | BFS |
+| 200  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                             | [Java](./Java/word-ladder.java)                                              | O(N^2 \* M)                 | O(N \* M)         | Medium     | BFS |
 
 <br/>
 <div align="right">

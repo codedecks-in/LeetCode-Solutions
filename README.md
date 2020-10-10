@@ -68,11 +68,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Bit Manipulation
 
-| #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Tag | Note      |
+| #    | Title                                                                 | Solution                                                                   | Time   | Space  | Difficulty | Tag | Tutorial      |
 | ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
-| 0260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                    | _O(n)_ | _O(1)_ | Medium     |     |           |
-| 0520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)   | [Python](./Python/detect-capital.py)                                       | _O(n)_ | _O(1)_ | Easy       |     |           |
+| 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                    | _O(n)_ | _O(1)_ | Medium     |     |           |
+| 476 | [Number Complement](https://leetcode.com/problems/number-complement/)   | [Java](./Java/number-complement.java)                                       | _O(1)_ | _O(1)_ | Easy       |     |           |
+| 520 | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)   | [Python](./Python/detect-capital.py)                                       | _O(n)_ | _O(1)_ | Easy       |     |           |
 
 <br/>
 <div align="right">
@@ -358,7 +359,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 
 ## Authors
 
--   [Gourav Rusiya](https://github.com/GouravRusiya30/)
+-   | [Gourav Rusiya](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">
 
 <br>
 

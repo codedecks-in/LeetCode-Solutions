@@ -68,12 +68,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Bit Manipulation
 
-| #    | Title                                                                 | Solution                                                                                                       | Time   | Space  | Difficulty | Tag | Tutorial  |
-| ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------- |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR |
-| 260  | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                                                        | _O(n)_ | _O(1)_ | Medium     |     |           |
-| 476  | [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./Java/number-complement.java)                                                                          | _O(1)_ | _O(1)_ | Easy       |     |     [Tutorial](https://youtu.be/6bp5V-O3zts)      |
-| 520  | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)   | [Python](./Python/detect-capital.py)                                                                           | _O(n)_ | _O(1)_ | Easy       |     |           |
+| #    | Title                                                                 | Solution                                                                                                       | Time   | Space  | Difficulty | Tag | Tutorial                                 |
+| ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | ---------------------------------------- |
+| 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
+| 260  | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                                                        | _O(n)_ | _O(1)_ | Medium     |     |                                          |
+| 476  | [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./Java/number-complement.java)                                                                          | _O(1)_ | _O(1)_ | Easy       |     | [Tutorial](https://youtu.be/6bp5V-O3zts) |
+| 520  | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)   | [Python](./Python/detect-capital.py)                                                                           | _O(n)_ | _O(1)_ | Easy       |     |                                          |
 
 <br/>
 <div align="right">
@@ -254,7 +254,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------- | ----------------- | ---------- | --- | ---- |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [C++](./C++/Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix.cpp) | _O(m * n * 2 ^ (m \* n))_ | _O(2 ^ (m \* n))_ | Hard       | BFS |      |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                             | [Java](./Java/NumberOfIslands.java)                                              | O(R \* C)                 | O(R \* C)         | Medium     | BFS |
-| 200  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                             | [Java](./Java/word-ladder.java)                                              | O(N^2 \* M)                 | O(N \* M)         | Medium     | BFS |
+| 200  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                         | [Java](./Java/word-ladder.java)                                                  | O(N^2 \* M)               | O(N \* M)         | Medium     | BFS |
 
 <br/>
 <div align="right">
@@ -327,9 +327,10 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Graph
 
-| #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note           |
-| ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | -------------- |
-| 1042 | [Flower Planting with No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Python](./Python/1042_FlowerPlantingwithNoAdjacent.py) | _O(V+E)_ | _O(2V+E)_ | Medium     | Graph | Graph Coloring |
+| #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note                              |
+| ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | --------------------------------- |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                   | [C++](./C++/Course Schedule.cpp)                        | _O(V+E)_ | _O(V+E)_  | Medium     | Graph | Cycle Detection in Directed Graph |
+| 1042 | [Flower Planting with No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Python](./Python/1042_FlowerPlantingwithNoAdjacent.py) | _O(V+E)_ | _O(2V+E)_ | Medium     | Graph | Graph Coloring                    |
 
 <br/>
 <div align="right">

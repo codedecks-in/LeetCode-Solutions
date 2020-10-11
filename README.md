@@ -329,7 +329,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #    | Title                                                                                               | Solution                                                | Time     | Space     | Difficulty | Tag   | Note                              |
 | ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | --------------------------------- |
-| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                   | [C++](./C++/Course Schedule.cpp)                        | _O(V+E)_ | _O(V+E)_  | Medium     | Graph | Cycle Detection in Directed Graph |
+| 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                   | [C++](./C++/Course-Schedule.cpp)                        | _O(V+E)_ | _O(V+E)_  | Medium     | Graph | Cycle Detection in Directed Graph |
 | 1042 | [Flower Planting with No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Python](./Python/1042_FlowerPlantingwithNoAdjacent.py) | _O(V+E)_ | _O(2V+E)_ | Medium     | Graph | Graph Coloring                    |
 
 <br/>

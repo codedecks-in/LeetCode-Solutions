@@ -302,6 +302,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                   | [Python](./Python/divisor-game.py)             | _O(N^2)_  | _O(N)_    | Easy       | DP                   |      |
 | 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                   | [C++](./C++/dungeon-game.pp)                   | _O(M\*N)_ | _O(M\*N)_ | Hard       | Dynamic Programming  |      |
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                             | [Java](./Java/climbing-stairs.java)            | _O(N)_    | _O(1)_    | Easy       | DP                   |      |
+| 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)                             | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp)            | _O(N*N)_    | _O(N*N)_    | Hard       | DP                   |      |
 
 <br/>
 <div align="right">
@@ -388,6 +389,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Tarun Singh](https://github.com/TarunSingh56) <br> <img src="https://avatars3.githubusercontent.com/u/25122604?s=400&u=d01f190e9a8c3790d408c38387c68b6bc9db2ea6&v=4" width="100" height="100"> | India   | C++                  | [Leetcode](https://leetcode.com/_tarun/)                                                                                                                                                                                    |
 | [Hardik Gupta](https://github.com/harrdy272) <br> <img src="https://avatars3.githubusercontent.com/u/42604986?s=460&u=609a0839312a620d3d658ef19e8eac1e226a6eb4&v=4" width="100" height="100">   | India   | C++                  | [codeforces](https://codeforces.com/profile/harrdy272) <br>[codechef](https://www.codechef.com/users/hardikg272) <br> [Hackerrank](https://www.hackerrank.com/hardikg272) <br> [LeetCode](https://leetcode.com/hardikg272/) |
 | [Jaseem ck](https://github.com/Jaseemck) <br> <img src="https://github.com/Optider.png" width="100" height="100">                                                                               | India   | Python               | [Github](https://github.com/Jaseemck)                                                                                                                                                                                       |
+| [Ilias Khan](https://github.com/IliasKhan) <br> <img src="https://avatars3.githubusercontent.com/u/26863936?s=460&u=4501ffba5efd1a7b978416e8e434dff599c85384&v=4" width="100" height="100"> | India   | C++                  | [codechef](https://www.codechef.com/users/iliaskhan) <br> [Hackerrank](ckerrank.com/iliaskhan57) <br> [LeetCode](https://leetcode.com/ilias_khan/) <br> [codeforces](http://codeforces.com/profile/iliaskhan) |
 
 <br/>
 <div align="right">

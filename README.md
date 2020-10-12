@@ -333,6 +333,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | --------------------------------- |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                   | [C++](./C++/Course-Schedule.cpp)                        | _O(V+E)_ | _O(V+E)_  | Medium     | Graph | Cycle Detection in Directed Graph |
 | 1042 | [Flower Planting with No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Python](./Python/1042_FlowerPlantingwithNoAdjacent.py) | _O(V+E)_ | _O(2V+E)_ | Medium     | Graph | Graph Coloring                    |
+| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Java](./Java/All_Paths_From_Source_to_Target.java) | _O(N^2)_ | _O(N)_ | Medium     | Graph | DFS                    |
 
 <br/>
 <div align="right">

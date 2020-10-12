@@ -216,13 +216,13 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Two Pointer
+# Two Pointers
 
 | #   | Title                                                                                         | Solution                                                                                                               | Time                   | Space              | Difficulty | Tag | Note             |
 | --- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------ | ---------- | --- | ---------------- |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) <br> [JavaScript](./JavaScript/5.Longest-Palindromic-Substring.js) | _O(N^2)_ <br> _O(N^2)_ | _O(N)_ <br> _O(1)_ | Medium     |     | Expand the Wings |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [Java](./Java/median-of-two-sorted-arrays.java)                                                                        | _O(log(min(m,n)))_     | _O(1)_             | Hard       |     |                  |
-
+| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [C++](./C++/Longest-Mountain-in-Array.cpp) | _O(N)_ | _O(1)_ | Medium | Two Pointer | 
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

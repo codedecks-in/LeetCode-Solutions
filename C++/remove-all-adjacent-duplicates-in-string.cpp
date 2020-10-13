@@ -1,5 +1,3 @@
-
-
 class Solution {
 public:
     string removeDuplicates(string str) {

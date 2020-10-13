@@ -397,7 +397,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Hardik Gupta](https://github.com/harrdy272) <br> <img src="https://avatars3.githubusercontent.com/u/42604986?s=460&u=609a0839312a620d3d658ef19e8eac1e226a6eb4&v=4" width="100" height="100">   | India   | C++                  | [codeforces](https://codeforces.com/profile/harrdy272) <br>[codechef](https://www.codechef.com/users/hardikg272) <br> [Hackerrank](https://www.hackerrank.com/hardikg272) <br> [LeetCode](https://leetcode.com/hardikg272/) |
 | [Jaseem ck](https://github.com/Jaseemck) <br> <img src="https://github.com/Optider.png" width="100" height="100">                                                                               | India   | Python               | [Github](https://github.com/Jaseemck)                                                                                                                                                                                       |
 | [Ilias Khan](https://github.com/IliasKhan) <br> <img src="https://avatars3.githubusercontent.com/u/26863936?s=460&u=4501ffba5efd1a7b978416e8e434dff599c85384&v=4" width="100" height="100"> | India   | C++                  | [codechef](https://www.codechef.com/users/iliaskhan) <br> [Hackerrank](ckerrank.com/iliaskhan57) <br> [LeetCode](https://leetcode.com/ilias_khan/) <br> [codeforces](http://codeforces.com/profile/iliaskhan) |
-
+              |
 | [Shamoyeeta Saha](https://github.com/Shamoyeeta) <br> <img src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" width="100" height="100"> | India   | C++                  |[Hackerrank](https://www.hackerrank.com/sahashamoyeeta) <br> [Github](https://github.com/Shamoyeeta) |
 
 <br/>

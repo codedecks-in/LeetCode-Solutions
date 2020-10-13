@@ -344,15 +344,15 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Learning Resources
 
-1.) [Cracking the Coding Interview (Indian Edition)](https://amzn.to/3lgLYc9)
+1.) [Cracking the Coding Interview (Indian Edition)](https://amzn.to/2H0dHy6)
 
-2.) [Data Structures and Algorithms Made Easy in Java](https://amzn.to/3fJXsRC)
+2.) [Data Structures and Algorithms Made Easy in Java](https://amzn.to/33YqWbT)
 
-3.) [Data Structure and Algorithmic Thinking with Python](https://amzn.to/30Ldczp)
+3.) [Data Structure and Algorithmic Thinking with Python](https://amzn.to/3lz22p4)
 
-4.) [Head First Design Patterns](https://amzn.to/3jfly90)
+4.) [Head First Design Patterns](https://amzn.to/37426Jk)
 
-5.) [Dynamic Programming for Coding Interviews](https://amzn.to/31K16po)
+5.) [Dynamic Programming for Coding Interviews](https://amzn.to/3jVSPqu)
 
 DISCLAIMER: This above mentioned resources have affiliate links, which means if you buy one of the product from my links, I’ll receive a small commission. This helps support the channel and allows us to continue to add more tutorial. Thank you for the support!
 

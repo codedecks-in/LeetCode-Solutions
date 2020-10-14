@@ -169,6 +169,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                           | Solution                                | Time   | Space  | Difficulty | Tag                   | Note |
 | --- | ------------------------------------------------------------------------------- | --------------------------------------- | ------ | ------ | ---------- | --------------------- | ---- |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./C++/Number-of-Recent-Calls.cpp) | _O(1)_ | _O(1)_ | Easy       | Queue, Sliding Window |
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Java](./Java/design-circular-deque.java/) | _O(n)_ | _O(n)_ | Medium       | Queue, Design |
 
 <br/>
 <div align="right">

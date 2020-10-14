@@ -106,7 +106,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 532     | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                                           | [C++](./C++/k-diff-pairs-in-an-array.cpp)                                                                         | O(n)         | O(n)          | Medium     | Array              |
 | 152     | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                           | [Javascript](./JavaScript/152.Maximum-Product-Subarray.js)                                                        | O(n)         | O(n)          | Medium     | Array              |
 | 073     | [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                         | [Java](./Java/set-matrix-zeroes.java)                                                                             | O(MN)        | O(1)          | Medium     | Array              |
-| 1288   | [Remove-Covered-Intervals](https://leetcode.com/problems/remove-covered-intervals)                      | [C++](./C++/Remove-Covered-Intervals.cpp)                                                      | O(N*N)        | O(1)          | Medium     | Array              |
+| 1288    | [Remove-Covered-Intervals](https://leetcode.com/problems/remove-covered-intervals)                                            | [C++](./C++/Remove-Covered-Intervals.cpp)                                                                         | O(N\*N)      | O(1)          | Medium     | Array              |
 
 <br/>
 <div align="right">
@@ -151,12 +151,11 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Stack
 
-| #   | Title                                                                                               | Solution                                                | Time   | Space  | Difficulty | Tag   | Note |
-| --- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
-| 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                               | [Python](./Python/20_ValidParentheses.py)               | _O(n)_ | _O(n)_ | Easy       | Stack |      |
-| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./Python/150.EvaluateReversePolishNotation.py) | _O(n)_ | _O(1)_ | Medium     | Stack |      |
-| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./C++/remove-all-adjacent-duplicates-in-string.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
-
+| #    | Title                                                                                                               | Solution                                                  | Time   | Space  | Difficulty | Tag   | Note |
+| ---- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
+| 020  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                               | [Python](./Python/20_ValidParentheses.py)                 | _O(n)_ | _O(n)_ | Easy       | Stack |      |
+| 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                 | [Python](./Python/150.EvaluateReversePolishNotation.py)   | _O(n)_ | _O(1)_ | Medium     | Stack |      |
+| 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./C++/remove-all-adjacent-duplicates-in-string.cpp) | _O(n)_ | _O(n)_ | Easy       | Stack |      |
 
 <br/>
 <div align="right">
@@ -221,11 +220,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Two Pointers
 
-| #   | Title                                                                                         | Solution                                                                                                               | Time                   | Space              | Difficulty | Tag | Note             |
-| --- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------ | ---------- | --- | ---------------- |
-| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) <br> [JavaScript](./JavaScript/5.Longest-Palindromic-Substring.js) | _O(N^2)_ <br> _O(N^2)_ | _O(N)_ <br> _O(1)_ | Medium     |     | Expand the Wings |
-| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [Java](./Java/median-of-two-sorted-arrays.java)                                                                        | _O(log(min(m,n)))_     | _O(1)_             | Hard       |     |                  |
-| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [C++](./C++/Longest-Mountain-in-Array.cpp) | _O(N)_ | _O(1)_ | Medium | Two Pointer | 
+| #   | Title                                                                                         | Solution                                                                                                               | Time                   | Space              | Difficulty | Tag         | Note             |
+| --- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------ | ---------- | ----------- | ---------------- |
+| 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) <br> [JavaScript](./JavaScript/5.Longest-Palindromic-Substring.js) | _O(N^2)_ <br> _O(N^2)_ | _O(N)_ <br> _O(1)_ | Medium     |             | Expand the Wings |
+| 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [Java](./Java/median-of-two-sorted-arrays.java)                                                                        | _O(log(min(m,n)))_     | _O(1)_             | Hard       |             |                  |
+| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)         | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -234,16 +234,17 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Math
 
-| #   | Title                                                                              | Solution                                                                   | Time              | Space  | Difficulty | Tag    | Note |
-| --- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ----------------- | ------ | ---------- | ------ | ---- |
-| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                 | [Python](./Python/50.Powxn.py) <br> [JavaScript](./JavaScript/50.Powxn.js) | _O(n)_            | _O(1)_ | Medium     | Math   |      |
-| 204 | [Count Primes](https://leetcode.com/problems/count-primes)                         | [C++](./C++/Count-Primes.cpp)                                              | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math   |      |
-| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [C++](./C++/Excel-Sheet-Column-Title.cpp)                                  | _O(n)_            | _O(n)_ | Easy       | String |      |
-| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                   | [Java](./Java/reverse-integer.java) <br> [C++](./C++/Reverse-Integer.cpp)  | _O(n)_            | _O(n)_ | Easy       | Math   |      |
-| 202 | [Happy Number](https://leetcode.com/problems/happy-number)                         | [Java](./Java/Happy-Number.java)                                           | _O(n^2)_          | _O(n)_ | Easy       | Math   |      |
-| 326 | [Power of Three](https://leetcode.com/problems/power-of-three)                     | [Java](./Java/Power-of-Three.java)                                         | _O(logn)_         | _O(n)_ | Easy       | Math   |      |
-| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman)                 | [Java](./Java/integer-to-roman.java)                                       | _O(n)_            | _O(1)_ | Medium     | Math   |      |
-| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                 | [Java](./Java/roman-to-integer.java)                                       | _O(n)_            | _O(1)_ | Easy       | Math   |      |
+| #   | Title                                                                                | Solution                                                                   | Time              | Space  | Difficulty | Tag    | Note |
+| --- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------- | ----------------- | ------ | ---------- | ------ | ---- |
+| 050 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)                                   | [Python](./Python/50.Powxn.py) <br> [JavaScript](./JavaScript/50.Powxn.js) | _O(n)_            | _O(1)_ | Medium     | Math   |      |
+| 204 | [Count Primes](https://leetcode.com/problems/count-primes)                           | [C++](./C++/Count-Primes.cpp)                                              | _O(n(log(logn)))_ | _O(n)_ | Easy       | Math   |      |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title)   | [C++](./C++/Excel-Sheet-Column-Title.cpp)                                  | _O(n)_            | _O(n)_ | Easy       | String |      |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [C++](./C++/Excel-Sheet-Column-Number.cpp)                                 | _O(n)_            | _O(1)_ | Easy       | Math   |      |
+| 007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer)                     | [Java](./Java/reverse-integer.java) <br> [C++](./C++/Reverse-Integer.cpp)  | _O(n)_            | _O(n)_ | Easy       | Math   |      |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number)                           | [Java](./Java/Happy-Number.java)                                           | _O(n^2)_          | _O(n)_ | Easy       | Math   |      |
+| 326 | [Power of Three](https://leetcode.com/problems/power-of-three)                       | [Java](./Java/Power-of-Three.java)                                         | _O(logn)_         | _O(n)_ | Easy       | Math   |      |
+| 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman)                   | [Java](./Java/integer-to-roman.java)                                       | _O(n)_            | _O(1)_ | Medium     | Math   |      |
+| 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                   | [Java](./Java/roman-to-integer.java)                                       | _O(n)_            | _O(1)_ | Easy       | Math   |      |
 
 <br/>
 <div align="right">
@@ -258,7 +259,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [C++](./C++/Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix.cpp) | _O(m * n * 2 ^ (m \* n))_ | _O(2 ^ (m \* n))_ | Hard       | BFS |      |
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                             | [Java](./Java/NumberOfIslands.java)                                              | O(R \* C)                 | O(R \* C)         | Medium     | BFS |
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                         | [Java](./Java/word-ladder.java)                                                  | O(N^2 \* M)               | O(N \* M)         | Medium     | BFS |
-| 994  | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                                         | [Python](./Python/994_Rotting_Oranges.py)                                                  | O(N * M)               | O(N * M)         | Medium     | BFS |
+| 994  | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                                  | [Python](./Python/994_Rotting_Oranges.py)                                        | O(N \* M)                 | O(N \* M)         | Medium     | BFS |
 
 <br/>
 <div align="right">
@@ -294,19 +295,19 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Dynamic Programming
 
-| #    | Title                                                                                         | Solution                                       | Time      | Space     | Difficulty | Tag                  | Note |
-| ---- | --------------------------------------------------------------------------------------------- | ---------------------------------------------- | --------- | --------- | ---------- | -------------------- | ---- |
-| 416  | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)      | [C++](./C++/Partition-Equal-Subset-Sum.cpp)    | _O(n^2)_  | _O(n^2)_  | Medium     | DP                   |      |
-| 056  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)                         | [Python](./Python/wildcard-matching.py)        | _O(n^2)_  | _O(n^2)_  | Hard       |                      |
-| 343  | [Integer Break](https://leetcode.com/problems/integer-break/)                                 | [C++](./C++/Integer-Break.cpp)                 | _O(n^2)_  | _O(n)_    | Medium     |                      |
-| 139  | [Word Break](https://leetcode.com/problems/word-break/)                                       | [Python](./Python/word-break-1.py)             | _O(n^3)_  | _O(n)_    | Medium     | DP                   |      |
-| 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/) | [C++](./C++/Shortest-Common-Supersequence.cpp) | _O(n^2)_  | _O(n^2)_  | Hard       | DP                   |      |
-| 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                 | [Python](./Python/edit-distance.py)            | _O(N\*M)_ | _O(n^2)_  | Medium     | Levenshtein Distance |      |
-| 91   | [Decode ways](https://leetcode.com/problems/decode-ways/)                                     | [Python](./Python/decode-ways.py)              | _O(N)_    | _O(N)_    | Easy       | DP                   |      |
-| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                   | [Python](./Python/divisor-game.py)             | _O(N^2)_  | _O(N)_    | Easy       | DP                   |      |
-| 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                   | [C++](./C++/dungeon-game.pp)                   | _O(M\*N)_ | _O(M\*N)_ | Hard       | Dynamic Programming  |      |
-| 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                             | [Java](./Java/climbing-stairs.java)            | _O(N)_    | _O(1)_    | Easy       | DP                   |      |
-| 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/)                             | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp)            | _O(N*N)_    | _O(N*N)_    | Hard       | DP                   |      |
+| #    | Title                                                                                                               | Solution                                                  | Time      | Space     | Difficulty | Tag                  | Note |
+| ---- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | --------- | ---------- | -------------------- | ---- |
+| 416  | [ Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                            | [C++](./C++/Partition-Equal-Subset-Sum.cpp)               | _O(n^2)_  | _O(n^2)_  | Medium     | DP                   |      |
+| 056  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)                                               | [Python](./Python/wildcard-matching.py)                   | _O(n^2)_  | _O(n^2)_  | Hard       |                      |
+| 343  | [Integer Break](https://leetcode.com/problems/integer-break/)                                                       | [C++](./C++/Integer-Break.cpp)                            | _O(n^2)_  | _O(n)_    | Medium     |                      |
+| 139  | [Word Break](https://leetcode.com/problems/word-break/)                                                             | [Python](./Python/word-break-1.py)                        | _O(n^3)_  | _O(n)_    | Medium     | DP                   |      |
+| 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)                       | [C++](./C++/Shortest-Common-Supersequence.cpp)            | _O(n^2)_  | _O(n^2)_  | Hard       | DP                   |      |
+| 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                       | [Python](./Python/edit-distance.py)                       | _O(N\*M)_ | _O(n^2)_  | Medium     | Levenshtein Distance |      |
+| 91   | [Decode ways](https://leetcode.com/problems/decode-ways/)                                                           | [Python](./Python/decode-ways.py)                         | _O(N)_    | _O(N)_    | Easy       | DP                   |      |
+| 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/)                                                         | [Python](./Python/divisor-game.py)                        | _O(N^2)_  | _O(N)_    | Easy       | DP                   |      |
+| 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                                         | [C++](./C++/dungeon-game.pp)                              | _O(M\*N)_ | _O(M\*N)_ | Hard       | Dynamic Programming  |      |
+| 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                   | [Java](./Java/climbing-stairs.java)                       | _O(N)_    | _O(1)_    | Easy       | DP                   |      |
+| 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp) | _O(N\*N)_ | _O(N\*N)_ | Hard       | DP                   |      |
 
 <br/>
 <div align="right">
@@ -336,7 +337,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | --------- | ---------- | ----- | --------------------------------- |
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                   | [C++](./C++/Course-Schedule.cpp)                        | _O(V+E)_ | _O(V+E)_  | Medium     | Graph | Cycle Detection in Directed Graph |
 | 1042 | [Flower Planting with No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Python](./Python/1042_FlowerPlantingwithNoAdjacent.py) | _O(V+E)_ | _O(2V+E)_ | Medium     | Graph | Graph Coloring                    |
-| 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Java](./Java/All_Paths_From_Source_to_Target.java) | _O(N^2)_ | _O(N)_ | Medium     | Graph | DFS                    |
+| 797  | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)   | [Java](./Java/All_Paths_From_Source_to_Target.java)     | _O(N^2)_ | _O(N)_    | Medium     | Graph | DFS                               |
 
 <br/>
 <div align="right">
@@ -396,10 +397,12 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Tarun Singh](https://github.com/TarunSingh56) <br> <img src="https://avatars3.githubusercontent.com/u/25122604?s=400&u=d01f190e9a8c3790d408c38387c68b6bc9db2ea6&v=4" width="100" height="100"> | India   | C++                  | [Leetcode](https://leetcode.com/_tarun/)                                                                                                                                                                                    |
 | [Hardik Gupta](https://github.com/harrdy272) <br> <img src="https://avatars3.githubusercontent.com/u/42604986?s=460&u=609a0839312a620d3d658ef19e8eac1e226a6eb4&v=4" width="100" height="100">   | India   | C++                  | [codeforces](https://codeforces.com/profile/harrdy272) <br>[codechef](https://www.codechef.com/users/hardikg272) <br> [Hackerrank](https://www.hackerrank.com/hardikg272) <br> [LeetCode](https://leetcode.com/hardikg272/) |
 | [Jaseem ck](https://github.com/Jaseemck) <br> <img src="https://github.com/Optider.png" width="100" height="100">                                                                               | India   | Python               | [Github](https://github.com/Jaseemck)                                                                                                                                                                                       |
-| [Ilias Khan](https://github.com/IliasKhan) <br> <img src="https://avatars3.githubusercontent.com/u/26863936?s=460&u=4501ffba5efd1a7b978416e8e434dff599c85384&v=4" width="100" height="100"> | India   | C++                  | [codechef](https://www.codechef.com/users/iliaskhan) <br> [Hackerrank](ckerrank.com/iliaskhan57) <br> [LeetCode](https://leetcode.com/ilias_khan/) <br> [codeforces](http://codeforces.com/profile/iliaskhan) |
-| [Shamoyeeta Saha](https://github.com/Shamoyeeta) <br> <img src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" width="100" height="100"> | India     | C++                  | [Hackerrank](https://www.hackerrank.com/sahashamoyeeta) <br> [Github](https://github.com/Shamoyeeta) |
+| [Ilias Khan](https://github.com/IliasKhan) <br> <img src="https://avatars3.githubusercontent.com/u/26863936?s=460&u=4501ffba5efd1a7b978416e8e434dff599c85384&v=4" width="100" height="100">     | India   | C++                  | [codechef](https://www.codechef.com/users/iliaskhan) <br> [Hackerrank](ckerrank.com/iliaskhan57) <br> [LeetCode](https://leetcode.com/ilias_khan/) <br> [codeforces](http://codeforces.com/profile/iliaskhan)               |
+| [Shamoyeeta Saha](https://github.com/Shamoyeeta) <br> <img src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" width="100" height="100">     | India   | C++                  | [Hackerrank](https://www.hackerrank.com/sahashamoyeeta) <br> [Github](https://github.com/Shamoyeeta)                                                                                                                        |
+
 |
 <br/>
+
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

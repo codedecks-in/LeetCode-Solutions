@@ -157,6 +157,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./Python/150.EvaluateReversePolishNotation.py) | _O(n)_ | _O(1)_ | Medium     | Stack |      |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./C++/remove-all-adjacent-duplicates-in-string.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [C++](./C++/Baseball-Game.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
+| 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](./Java/Design-a-Stack-With-Increment-Operation.java) | _O(n)_ | _O(n)_ | Medium     | Stack |      |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](./C++/Crawler-Log-Folder.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 
 <br/>
 <div align="right">

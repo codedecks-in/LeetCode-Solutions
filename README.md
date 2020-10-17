@@ -362,6 +362,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./C++/Critical-Path-Sum-II.cpp) | _O(V+E)_ | _O(V)_ | Medium     | Graph | DFS                    |
 | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                   | [C++](./C++/Is-Graph-Bipartite.cpp)                        | _O(V+E)_ | _O(V)_  | Medium     | Graph | BFS |
 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)                                   | [C++](./C++/Most-Stones-Removed-with-Same-Row-or-Column.cpp)         | _O(V)_ | _O(2V)_  | Medium     | Graph | Union Find |                                 | [C++](./C++/Most-Stones-Removed-with-Same-Row-or-Column.cpp)         | _O(V)_ | _O(2V)_  | Medium     | Graph | Union Find |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                   | [C++](./C++/Course-Schedule-II.cpp)                        | _O(V+E)_ | _O(V)_  | Medium     | Graph | BFS |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

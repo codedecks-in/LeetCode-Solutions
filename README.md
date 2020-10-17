@@ -4,7 +4,7 @@
 <a  href="https://www.facebook.com/groups/codedecks">
        <img align="left" height=85 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
    </a>
-   <a align="center" href="https://www.leetcode.com/rusiya">
+   <a align="center" href="https://www.leetcode.com/">
        <img height=85 src="https://github.com/GouravRusiya30/GouravRusiya30/blob/master/Assets/leetcode-icon_1.png">
    </a>
    <a href="https://www.youtube.com/c/codedecks?sub_confirmation=1">

@@ -82,12 +82,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #    | Title                                                                 | Solution                                                                                                       | Time   | Space  | Difficulty | Tag | Tutorial                                 |
 | ---- | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | ---------------------------------------- |
-| 0136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/)         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
 | 137  | [Single Number II](https://leetcode.com/problems/single-number-ii/)   | [Python](./Python/single-number-ii.py)                                                                           | _O(n)_ | _O(1)_ | Medium       |     |                                          |
 | 260  | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Python](./Python/single-number-iii.py)                                                                        | _O(n)_ | _O(1)_ | Medium     |     |                                          |
 | 476  | [Number Complement](https://leetcode.com/problems/number-complement/) | [Java](./Java/number-complement.java)                                                                          | _O(1)_ | _O(1)_ | Easy       |     | [Tutorial](https://youtu.be/6bp5V-O3zts) |
 | 520  | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)   | [Python](./Python/detect-capital.py)                                                                           | _O(n)_ | _O(1)_ | Easy       |     |                                          |
-
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)         | [Java](./Java/xor-op-in-array.java) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
 
 <br/>
 <div align="right">

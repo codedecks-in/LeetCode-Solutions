@@ -3,7 +3,9 @@
 # Comment to be posted to on first time issues
 newIssueWelcomeComment: >
   Thanks for helping us improve and opening your first issue here! Someone will address it right away!
-  While you're waiting, I just wanted to make sure you've had a chance to look at our [Readme](https://github.com/ows-ali/Hacktoberfest/blob/master/README.md) and [Contributing Guidelines](https://github.com/ows-ali/Hacktoberfest/blob/master/CONTRIBUTING.md).
+  
+  While you're waiting, I just wanted to make sure you've had a chance to look at our
+  [Readme](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/README.md) and [Pull Request Guidelines](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/PULL_REQUEST_PROCESS.md).
 
 # Comment to be posted to on PRs from first time contributors in your repository
 newPRWelcomeComment: >

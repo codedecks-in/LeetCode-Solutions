@@ -161,6 +161,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](./Java/Design-a-Stack-With-Increment-Operation.java) | _O(n)_ | _O(n)_ | Medium     | Stack |      |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](./C++/Crawler-Log-Folder.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -172,6 +173,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                           | Solution                                | Time   | Space  | Difficulty | Tag                   | Note |
 | --- | ------------------------------------------------------------------------------- | --------------------------------------- | ------ | ------ | ---------- | --------------------- | ---- |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./C++/Number-of-Recent-Calls.cpp) | _O(1)_ | _O(1)_ | Easy       | Queue, Sliding Window |
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Java](./Java/design-circular-deque.java/) | _O(n)_ | _O(n)_ | Medium       | Queue, Design |
 
 <br/>
 <div align="right">
@@ -402,7 +404,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Ilias Khan](https://github.com/IliasKhan) <br> <img src="https://avatars3.githubusercontent.com/u/26863936?s=460&u=4501ffba5efd1a7b978416e8e434dff599c85384&v=4" width="100" height="100"> | India   | C++                  | [codechef](https://www.codechef.com/users/iliaskhan) <br> [Hackerrank](ckerrank.com/iliaskhan57) <br> [LeetCode](https://leetcode.com/ilias_khan/) <br> [codeforces](http://codeforces.com/profile/iliaskhan) |
 | [Shamoyeeta Saha](https://github.com/Shamoyeeta) <br> <img src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" width="100" height="100"> | India     | C++                  | [Hackerrank](https://www.hackerrank.com/sahashamoyeeta) <br> [Github](https://github.com/Shamoyeeta) |
 | [James Y](https://github.com/jameszu) <br> <img src="https://avatars0.githubusercontent.com/u/41566813?s=400&u=af77d15517566ea590a316030b4a6d402b0041b6&v=4" width="100" height="100"> | New Zealand     | python                  | [Github](https://github.com/jameszu) |
-|
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

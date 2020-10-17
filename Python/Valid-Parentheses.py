@@ -4,6 +4,10 @@ link - https://leetcode.com/problems/valid-parentheses
 Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',
 determine if the input string is valid.
 
+speed - 16 ms
+memory - 13.9 MB
+
+time complexity - O(n)
 
 """
 

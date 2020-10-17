@@ -359,6 +359,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 934  | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)                                   | [C++](./C++/Shortest-Bridge.cpp)                        | _O(V)_ | _O(V)_  | Medium     | Graph | DFS + BFS |
 
 | 1192  | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)                                   | [C++](./C++/Critical-Connections-in-a-Network.cpp)                        | _O(V+E)_ | _O(4V+E)_  | Hard     | Graph | Tarjan's Algorithm |
+| 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                   | [C++](./C++/Is-Graph-Bipartite.cpp)                        | _O(V+E)_ | _O(V)_  | Medium     | Graph | BFS |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

@@ -358,6 +358,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Java](./Java/All_Paths_From_Source_to_Target.java) | _O(N^2)_ | _O(N)_ | Medium     | Graph | DFS                    |
 
 | 1192  | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)                                   | [C++](./C++/Critical-Connections-in-a-Network.cpp)                        | _O(V+E)_ | _O(4V+E)_  | Hard     | Graph | Tarjan's Algorithm |
+| 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                   | [C++](./C++/Is-Graph-Bipartite.cpp)                        | _O(V+E)_ | _O(V)_  | Medium     | Graph | BFS |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

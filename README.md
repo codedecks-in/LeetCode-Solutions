@@ -169,11 +169,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                                               | Solution                                                | Time   | Space  | Difficulty | Tag   | Note |
 | --- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | ------ | ------ | ---------- | ----- | ---- |
 | 020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                               | [Python](./Python/20_ValidParentheses.py)               | _O(n)_ | _O(n)_ | Easy       | Stack |      |
+| 084 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/Largest-Rectangle-in-Histogram.cpp) | _O(n)_ | _O(n)_ | Hard     | Stack |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Python](./Python/150.EvaluateReversePolishNotation.py) | _O(n)_ | _O(1)_ | Medium     | Stack |      |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./C++/remove-all-adjacent-duplicates-in-string.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [C++](./C++/Baseball-Game.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](./Java/Design-a-Stack-With-Increment-Operation.java) | _O(n)_ | _O(n)_ | Medium     | Stack |      |
-| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](./C++/Crawler-Log-Folder.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [C++](./C++/Largest-Rectangle-in-Histogram.cpp) | _O(n)_ | _O(n)_ | Hard     | Stack | 
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](./C++/Crawler-Log-Folder.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |
 
 <br/>
 <div align="right">

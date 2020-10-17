@@ -1,4 +1,4 @@
-# [LeetCode-Solutions](https://www.youtube.com/c/codedecks/)
+# [LeetCode-Solutions](https://www.youtube.com/playlist?list=PLlUdLC2oSxz2Y1g6V8oRCzauOvbnKl2Ee)
 
 <p align="center">
 <a  href="https://www.facebook.com/groups/codedecks">

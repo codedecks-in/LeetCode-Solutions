@@ -8,6 +8,9 @@ speed - 16 ms
 memory - 13.9 MB
 
 time complexity - O(n)
+space Complexity - O(n)
+
+difficulty - easy
 
 """
 

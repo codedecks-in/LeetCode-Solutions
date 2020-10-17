@@ -355,14 +355,12 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/)                                   | [C++](./C++/Course-Schedule.cpp)                        | _O(V+E)_ | _O(V+E)_  | Medium     | Graph | Cycle Detection in Directed Graph |
 | 1042 | [Flower Planting with No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/) | [Python](./Python/1042_FlowerPlantingwithNoAdjacent.py) | _O(V+E)_ | _O(2V+E)_ | Medium     | Graph | Graph Coloring                    |
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Java](./Java/All_Paths_From_Source_to_Target.java) | _O(N^2)_ | _O(N)_ | Medium     | Graph | DFS                    |
-| 934  | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)                                   | [C++](./C++/Shortest-Bridge.cpp)                        | _O(V)_ | _O(V)_  | Medium     | Graph | DFS + BFS |
+| 934 | [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/)                                   | [C++](./C++/Shortest-Bridge.cpp)                        | _O(V)_ | _O(V)_  | Medium     | Graph | DFS + BFS |
+| 1192 | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)                                   | [C++](./C++/Critical-Connections-in-a-Network.cpp)                        | _O(V+E)_ | _O(4V+E)_  | Hard     | Graph | Tarjan's Algorithm |
+| 113 | [Path Sum II](https://leetcode.com/problems/path-sum-ii/) | [C++](./C++/Critical-Path-Sum-II.cpp) | _O(V+E)_ | _O(V)_ | Medium     | Graph | DFS                    |
+| 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                   | [C++](./C++/Is-Graph-Bipartite.cpp)                        | _O(V+E)_ | _O(V)_  | Medium     | Graph | BFS |
+| 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)                                   | [C++](./C++/Most-Stones-Removed-with-Same-Row-or-Column.cpp)         | _O(V)_ | _O(2V)_  | Medium     | Graph | Union Find |
 
-| 1192  | [Critical Connections in a Network](https://leetcode.com/problems/critical-connections-in-a-network/)                                   | [C++](./C++/Critical-Connections-in-a-Network.cpp)                        | _O(V+E)_ | _O(4V+E)_  | Hard     | Graph | Tarjan's Algorithm |
-| 785  | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)                                   | [C++](./C++/Is-Graph-Bipartite.cpp)                        | _O(V+E)_ | _O(V)_  | Medium     | Graph | BFS |
-<<<<<<< HEAD
-=======
-| 947  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)                                   | [C++](./C++/Most-Stones-Removed-with-Same-Row-or-Column.cpp)         | _O(V)_ | _O(2V)_  | Medium     | Graph | Union Find |
->>>>>>> 2a6880d... solve leetcode problem 84 and update Readme.md
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

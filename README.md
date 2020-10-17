@@ -160,6 +160,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](./Java/Design-a-Stack-With-Increment-Operation.java) | _O(n)_ | _O(n)_ | Medium     | Stack |      |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](./C++/Crawler-Log-Folder.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

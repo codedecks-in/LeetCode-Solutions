@@ -163,6 +163,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](./Java/Design-a-Stack-With-Increment-Operation.java) | _O(n)_ | _O(n)_ | Medium     | Stack |      |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](./C++/Crawler-Log-Folder.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -174,6 +175,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                           | Solution                                | Time   | Space  | Difficulty | Tag                   | Note |
 | --- | ------------------------------------------------------------------------------- | --------------------------------------- | ------ | ------ | ---------- | --------------------- | ---- |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./C++/Number-of-Recent-Calls.cpp) | _O(1)_ | _O(1)_ | Easy       | Queue, Sliding Window |
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Java](./Java/design-circular-deque.java/) | _O(n)_ | _O(n)_ | Medium       | Queue, Design |
 
 <br/>
 <div align="right">

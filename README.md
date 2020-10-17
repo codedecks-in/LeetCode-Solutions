@@ -107,7 +107,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 152     | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                           | [Javascript](./JavaScript/152.Maximum-Product-Subarray.js)                                                        | O(n)         | O(n)          | Medium     | Array              |
 | 073     | [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                         | [Java](./Java/set-matrix-zeroes.java)                                                                             | O(MN)        | O(1)          | Medium     | Array              |
 | 1288   | [Remove-Covered-Intervals](https://leetcode.com/problems/remove-covered-intervals)                      | [C++](./C++/Remove-Covered-Intervals.cpp)                                                      | O(N*N)        | O(1)          | Medium     | Array              |
-| 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                         | [Python](./Python/rotate-array)                                                                             | O(N)        | O(1)          | Medium     | Array 
+| 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                         | [Python](./Python/rotate-array.py)                                                                             | O(N)        | O(1)          | Medium     | Array 
 
 <br/>
 <div align="right">

@@ -122,6 +122,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 073     | [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                         | [Java](./Java/set-matrix-zeroes.java)                                                                             | O(MN)        | O(1)          | Medium     | Array              |
 | 1288   | [Remove-Covered-Intervals](https://leetcode.com/problems/remove-covered-intervals)                      | [C++](./C++/Remove-Covered-Intervals.cpp)                                                      | O(N*N)        | O(1)          | Medium     | Array              |
 | 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                         | [Python](./Python/rotate-array.py)                                                                             | O(N)        | O(1)          | Medium     | Array 
+| 496    | [next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)                                                         | [Python](./Python/496_nextgreaterelement.py)                                                                             | O(N)        | O(1)          | Medium     | Array 
+
 
 <br/>
 <div align="right">

@@ -190,6 +190,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./C++/Number-of-Recent-Calls.cpp) | _O(1)_ | _O(1)_ | Easy       | Queue, Sliding Window |
 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/) | [Java](./Java/design-circular-deque.java/) | _O(n)_ | _O(n)_ | Medium       | Queue, Design |
 | 621 | [Task Scheduler ](https://leetcode.com/problems/task-scheduler/) | [Python](./Python/621-Task-Scheduler.py/)      | _O(n)_| _O(n)_| Medium  | Queue
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) | [Python](./Python/622-Design-Circular-Queue.py/) | _O(n)_ | _O(n)_ | Medium | Queue
 
 <br/>
 <div align="right">

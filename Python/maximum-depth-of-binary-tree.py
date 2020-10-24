@@ -1,7 +1,7 @@
 #Time Complexity:   O(n)
 #Space Complexity:  O(n)
-#Speed: 78.92%
-#Memory: 99.97%
+#Speed: 98.14%
+#Memory: 50.93%
 
 # Definition for a binary tree node.
 # class TreeNode:
@@ -10,8 +10,8 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def inorderTraversal(self, root: TreeNode) -> List[int]:
+    def maxDepth(self, root: TreeNode) -> int:
         if root is None:
-            return []
+            return 0
         else:
-            return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right)
+            return max(self.maxDepth(root.left)+1, self.maxDepth(root.right)+1)

@@ -180,6 +180,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | [C++](./C++/Baseball-Game.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |      |
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/) | [Java](./Java/Design-a-Stack-With-Increment-Operation.java) | _O(n)_ | _O(n)_ | Medium     | Stack |      |
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/) | [C++](./C++/Crawler-Log-Folder.cpp) | _O(n)_ | _O(n)_ | Easy     | Stack |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Python](./Python/binary-tree-inorder-traversal.py) | _O(n)_ | _O(n)_ | Medium     | Recursion, Binary Tree |
 
 <br/>
 <div align="right">
@@ -296,7 +297,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #    | Title                                                               | Solution                          | Time        | Space       | Difficulty | Tag | Note |
 | ---- | ------------------------------------------------------------------- | --------------------------------- | ----------- | ----------- | ---------- | --- | ---- |
-| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [C++](./C++/Cherry-Pickup-II.cpp) | _O(n \* m)_ | _O(n \* m)_ | Hard       | DFS |      |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [C++](./C++/Cherry-Pickup-II.cpp) | _O(n \* m)_ | _O(n \* m)_ | Hard       | DFS |      | 
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](./Python/maximum-depth-of-binary-tree.py) | _O(n)_ | _O(n)_ | Easy       | DFS |      | 
 
 <br/>
 <div align="right">
@@ -431,6 +433,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shamoyeeta Saha](https://github.com/Shamoyeeta) <br> <img src="https://i.pinimg.com/236x/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3--jedi-knight-open-source.jpg" width="100" height="100"> | India     | C++                  | [Hackerrank](https://www.hackerrank.com/sahashamoyeeta) <br> [Github](https://github.com/Shamoyeeta) |
 | [James Y](https://github.com/jameszu) <br> <img src="https://avatars0.githubusercontent.com/u/41566813?s=400&u=af77d15517566ea590a316030b4a6d402b0041b6&v=4" width="100" height="100"> | New Zealand     | python                  | [Github](https://github.com/jameszu) |
 | [Hamza B](https://github.com/9Hamza) <br> <img src="https://avatars2.githubusercontent.com/u/56516922?s=400&u=2c1adeef0194a2859361d464f28783bfba698638&v=4" width="100" height="100"> | Saudi Arabia     | Java                 | [Github](https://github.com/9Hamza) |
+| [Meli Haktas](https://github.com/MercerFrey) <br> <img src="https://avatars1.githubusercontent.com/u/29127873?s=460&u=149319db4468ec2316e49a75eb5e05b35eb05eef&v=4" width="100" height="100"> | Turkey     | python                  | [Github](https://github.com/MercerFrey) |
 
 <br/>
 <div align="right">

@@ -124,6 +124,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                                   | [Python](./Python/rotate-array.py)                                                                                | O(N)         | O(1)          | Medium     | Array              |
 | 496     | [next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)                                                | [Python](./Python/496_nextgreaterelement.py)                                                                      | O(N)         | O(1)          | Medium     | Array              |
 | 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)                                                          | [Java](./Java/shuffle-the-array.java)                                                                             | O(N)         | O(1)          | Easy       | Array              |
+| 283     | [Move-Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | [C++](./C++/Move-Zeroes.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
 
 <br/>
 <div align="right">
@@ -373,8 +374,15 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 947  | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [C++](./C++/Most-Stones-Removed-with-Same-Row-or-Column.cpp) | _O(V)_          | _O(2V)_   | Medium     | Graph | Union Find                        |  | [C++](./C++/Most-Stones-Removed-with-Same-Row-or-Column.cpp) | _O(V)_ | _O(2V)_ | Medium | Graph | Union Find |
 | 210  | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/)                                                   | [C++](./C++/Course-Schedule-II.cpp)                          | _O(V+E)_        | _O(V)_    | Medium     | Graph | BFS                               |
 | 1627 | [Graph Connectivity with Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/)                     | [Java](./Java/graph_connectivity_with_threshold.java)        | _O(V.logV + Q)_ | _O(V)_    | Hard       | Graph | Union Find + Sieve                |
-| 1631 | [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)                                   | [Java](./Java/path-with-minimum-effort.java)                        | _O(V^2)_ | _O(V)_  | Medium     | Graph | Dijkstra's Shortest Path |
-<br/>
+
+<<<<<<< HEAD
+
+=======
+| 1631 | [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [Java](./Java/path-with-minimum-effort.java) | _O(V^2)_ | _O(V)_ | Medium | Graph | Dijkstra's Shortest Path |
+
+> > > > > > > 90e854cdd496ea6cbc8ad25ad88d6a3969861aa0
+> > > > > > > <br/>
+
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
@@ -437,7 +445,13 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [James Y](https://github.com/jameszu) <br> <img src="https://avatars0.githubusercontent.com/u/41566813?s=400&u=af77d15517566ea590a316030b4a6d402b0041b6&v=4" width="100" height="100">          | New Zealand  | python               | [Github](https://github.com/jameszu)                                                                                                                                                                                        |
 | [Hamza B](https://github.com/9Hamza) <br> <img src="https://avatars2.githubusercontent.com/u/56516922?s=400&u=2c1adeef0194a2859361d464f28783bfba698638&v=4" width="100" height="100">           | Saudi Arabia | Java                 | [Github](https://github.com/9Hamza)                                                                                                                                                                                         |
 | [Meli Haktas](https://github.com/MercerFrey) <br> <img src="https://avatars1.githubusercontent.com/u/29127873?s=460&u=149319db4468ec2316e49a75eb5e05b35eb05eef&v=4" width="100" height="100">   | Turkey       | python               | [Github](https://github.com/MercerFrey)                                                                                                                                                                                     |
-| [Saurav Prateek](https://github.com/SauravP97) <br> <img src="https://avatars3.githubusercontent.com/u/26816418?s=460&u=4b5222d5b6db79389efba062714c9dfba263732f&v=4" width="100" height="100"> | India        | Java                 | [Github](https://github.com/SauravP97)  <br> [Codechef](https://www.codechef.com/users/srvptk) <br> [Codeforces](https://codeforces.com/profile/srvptk97) <br> [Leetcode](https://leetcode.com/srvptk97) |                                                                                                                                                                                    |
+
+<<<<<<< HEAD
+| [Saurav Prateek](https://github.com/SauravP97) <br> <img src="https://avatars3.githubusercontent.com/u/26816418?s=460&u=4b5222d5b6db79389efba062714c9dfba263732f&v=4" width="100" height="100"> | India | Java | [Github](https://github.com/SauravP97) |
+=======
+| [Saurav Prateek](https://github.com/SauravP97) <br> <img src="https://avatars3.githubusercontent.com/u/26816418?s=460&u=4b5222d5b6db79389efba062714c9dfba263732f&v=4" width="100" height="100"> | India | Java | [Github](https://github.com/SauravP97) <br> [Codechef](https://www.codechef.com/users/srvptk) <br> [Codeforces](https://codeforces.com/profile/srvptk97) <br> [Leetcode](https://leetcode.com/srvptk97) | |
+
+> > > > > > > 90e854cdd496ea6cbc8ad25ad88d6a3969861aa0
 
 <br/>
 <div align="right">

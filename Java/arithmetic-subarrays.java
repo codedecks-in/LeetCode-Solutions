@@ -10,11 +10,12 @@
  *  Arithmetic Sequence. 
  *  The idea is to find the maximum and minimum element of the sub array for 
  *  every query and divide the difference of maximum and minimum element into 
- *  x equal parts, where x is the size of the sub array. Now we jump to every 
- *  part and check whether the given part is present in the sub array. 
- *  For this we can use a hash set, I have used index based hashing in the array 
- *  to save some time. 
+ *  (maximum-minimum)/x equal parts, where x is the size of the sub array. 
+ *  Now we jump to every part and check whether the given part is present in the 
+ *  sub array. For this we can use a hash set, I have used index based hashing 
+ *  in the array to save some time. 
 */
+
 class Solution {
     public int getValue(int ele){
         if(ele < 0){

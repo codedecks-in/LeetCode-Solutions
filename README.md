@@ -95,6 +95,11 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Sort
+
+| #    | Title                                                                                                           | Solution                                                                                                       | Time   | Space  | Difficulty | Tag | Tutorial                                 |
+| 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                         | [C++](./C++/k-closest-points-to-origin.cpp)                                                                    | _O(n)_ | _O(1)_ | Medium     |     |                                          |
+
 # Array
 
 | #       | Title                                                                                                                         | Solution                                                                                                          | Time         | Space         | Difficulty | Note               | Video Explaination                       |

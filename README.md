@@ -124,8 +124,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                                   | [Python](./Python/rotate-array.py)                                                                                | O(N)         | O(1)          | Medium     | Array              |
 | 496     | [next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)                                                | [Python](./Python/496_nextgreaterelement.py)                                                                      | O(N)         | O(1)          | Medium     | Array              |
 | 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)                                                          | [Java](./Java/shuffle-the-array.java)                                                                             | O(N)         | O(1)          | Easy       | Array              |
+| 124  | [Permutation by Recussion](https://leetcode.com/problems/permutations/)                                                          | [Java](./Java/shuffle-the-array.java)                                                                             | O(N)         | O(N)          | Easy       | Array              |
 | 283     | [Move-Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | [C++](./C++/Move-Zeroes.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
-
+| 27     | [Remove-Element](https://leetcode.com/problems/remove-element/)                                                                     | [C++](./C++/remove-element.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -143,7 +144,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)                                         | [Python](./Python/split-a-string-in-balanced-strings.py)                   | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)                             | [Java](./Java/max-nesting-depth-parentheses.java)                          | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Java](./Java/generate-a-string-with-characters-that-have-odd-counts.java) | _O(n)_ | _O(1)_ | Easy       |     |                 |
-
+| 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Java](./Java/buddy-strings.java) | _O(n)_ | _O(1)_ | Easy       |     |                 |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -239,6 +240,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)         | [Python](./Python/group_anagram.py)                                                           | _O(nlogn)_  | _O(1)_ | Easy       |     |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)                 | [C++](./C++/brick-walls.cpp)                                                                  | _O(n)_      | _O(n)_ | Medium     |     |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                   | [Javascript](../JavaScript/146.LRU-Cache.js)                                                  | _O(log(n))_ | _O(n)_ | Medium     |     |
+| 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/)                   | [C++](../C++/Find-The-Difference.cpp)                                                  | _O(n)_ | _O(1)_ | Easy     |     |
 
 <br/>
 <div align="right">
@@ -443,6 +445,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Meli Haktas](https://github.com/MercerFrey) <br> <img src="https://avatars1.githubusercontent.com/u/29127873?s=460&u=149319db4468ec2316e49a75eb5e05b35eb05eef&v=4" width="100" height="100">      | Turkey       | python               | [Github](https://github.com/MercerFrey)                                                                                                                                                                                     |
 | [Saurav Prateek](https://github.com/SauravP97) <br> <img src="https://avatars3.githubusercontent.com/u/26816418?s=460&u=4b5222d5b6db79389efba062714c9dfba263732f&v=4" width="100" height="100">    | India        | Java                 | [Github](https://github.com/SauravP97) <br> [Codechef](https://www.codechef.com/users/srvptk) <br> [Codeforces](https://codeforces.com/profile/srvptk97) <br> [Leetcode](https://leetcode.com/srvptk97)                     |
 | [Anushka Verma](https://github.com/verma-anushka) <br> <img src="https://avatars0.githubusercontent.com/u/46157435?s=400&u=aa3db9cf25b4a9644a16607d0c8bd6c98763a62d&v=4" width="100" height="100"> | India        | C++                  | [Portfolio](https://verma-anushka.github.io/anushkaverma/) <br> [LeetCode](https://leetcode.com/anushka_verma/)                                                                                                             |
+| [James H](https://github.com/HoangJames) <br> <img src="https://avatars2.githubusercontent.com/u/15057250?s=460&v=4" width="100" height="100">              | United Kingdom | C++                 | [Github](https://github.com/HoangJames)                                                                                                                                                                                         |
 
 <br/>
 <div align="right">

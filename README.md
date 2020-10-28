@@ -420,7 +420,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 
 ## Authors
 
-- | [Gourav Rusiya](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">
+| [Gourav Rusiya](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">
 
 <br>
 

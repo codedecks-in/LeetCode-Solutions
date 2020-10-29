@@ -95,6 +95,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Sort
+
+| #    | Title                                                                                                           | Solution                                                                                                       | Time   | Space  | Difficulty | Tag | Tutorial                                 |
+| ---- | --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | ---------------------------------------- |
+| 973  | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)                         | [C++](./C++/k-closest-points-to-origin.cpp)                                                                    | _O(n)_ | _O(1)_ | Medium     |     |                                          |
+
+<br/>
+<div align="right">
+       <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 # Array
 
 | #       | Title                                                                                                                         | Solution                                                                                                          | Time         | Space         | Difficulty | Note               | Video Explaination                       |
@@ -409,7 +421,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 
 ## Authors
 
-- | [Gourav Rusiya](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">
+* | [Gourav Rusiya](https://github.com/GouravRusiya30/) <br> <img src="https://github.com/GouravRusiya30.png" width="100" height="100">
 
 <br>
 
@@ -445,7 +457,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Saurav Prateek](https://github.com/SauravP97) <br> <img src="https://avatars3.githubusercontent.com/u/26816418?s=460&u=4b5222d5b6db79389efba062714c9dfba263732f&v=4" width="100" height="100">    | India        | Java                 | [Github](https://github.com/SauravP97) <br> [Codechef](https://www.codechef.com/users/srvptk) <br> [Codeforces](https://codeforces.com/profile/srvptk97) <br> [Leetcode](https://leetcode.com/srvptk97)                     |
 | [Anushka Verma](https://github.com/verma-anushka) <br> <img src="https://avatars0.githubusercontent.com/u/46157435?s=400&u=aa3db9cf25b4a9644a16607d0c8bd6c98763a62d&v=4" width="100" height="100"> | India        | C++                  | [Portfolio](https://verma-anushka.github.io/anushkaverma/) <br> [LeetCode](https://leetcode.com/anushka_verma/)                                                                                                             |
 | [James H](https://github.com/HoangJames) <br> <img src="https://avatars2.githubusercontent.com/u/15057250?s=460&v=4" width="100" height="100">              | United Kingdom | C++                 | [Github](https://github.com/HoangJames)                                                                                                                                                                                         |
-
+| [Franchis N. Saikia](https://github.com/Francode007) <br> <img src="https://avatars0.githubusercontent.com/u/63102937?s=400&v=4" width="100" height="100">                                         | India        | C++                  | [Github](https://github.com/Francode007)                                                                                                                                                                                    |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

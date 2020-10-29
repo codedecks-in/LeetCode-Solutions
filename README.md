@@ -136,9 +136,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                                   | [Python](./Python/rotate-array.py)                                                                                | O(N)         | O(1)          | Medium     | Array              |
 | 496     | [next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)                                                | [Python](./Python/496_nextgreaterelement.py)                                                                      | O(N)         | O(1)          | Medium     | Array              |
 | 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)                                                          | [Java](./Java/shuffle-the-array.java)                                                                             | O(N)         | O(1)          | Easy       | Array              |
+| 124  | [Permutation by Recussion](https://leetcode.com/problems/permutations/)                                                          | [Java](./Java/shuffle-the-array.java)                                                                             | O(N)         | O(N)          | Easy       | Array              |
 | 283     | [Move-Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | [C++](./C++/Move-Zeroes.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
 | 27     | [Remove-Element](https://leetcode.com/problems/remove-element/)                                                                     | [C++](./C++/remove-element.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
-
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -252,6 +252,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)         | [Python](./Python/group_anagram.py)                                                           | _O(nlogn)_  | _O(1)_ | Easy       |     |
 | 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)                 | [C++](./C++/brick-walls.cpp)                                                                  | _O(n)_      | _O(n)_ | Medium     |     |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                   | [Javascript](../JavaScript/146.LRU-Cache.js)                                                  | _O(log(n))_ | _O(n)_ | Medium     |     |
+| 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/)                   | [C++](../C++/Find-The-Difference.cpp)                                                  | _O(n)_ | _O(1)_ | Easy     |     |
 
 <br/>
 <div align="right">

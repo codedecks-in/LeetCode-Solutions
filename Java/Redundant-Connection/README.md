@@ -13,6 +13,9 @@ We have been given with a list of edges. Now we need to remove one edge from the
 <p>
 The basic idea is to use a Disjoint Union Sets here. We will iterate over the list of edges and for every edge <b>(u,v)</b> we will put u and v in a single set. If during the iteration we find an edge such that both the nodes u and v is in the same set, then we can say that it is an extra edge which can be removed. We can store that as our result and return it after the iteration.
 </p>
+
+![Editorial Image](./images/image-1.png)
+
 <p>
 The basic source code for the problem looks like :
 

@@ -196,6 +196,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | [C++](./C++/Crawler-Log-Folder.cpp)                         | _O(n)_ | _O(n)_ | Easy       | Stack                  |
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                       | [Python](./Python/binary-tree-inorder-traversal.py)         | _O(n)_ | _O(n)_ | Medium     | Recursion, Binary Tree |
 | 735  | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                                             | [C++](./C++/asteroid-collision.cpp)                         | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
+| 394  | [Decode String](https://leetcode.com/problems/decode-string/)                                                       | [C++](./C++/decode-string.cpp)                              | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 
 <br/>
 <div align="right">

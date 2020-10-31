@@ -309,6 +309,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                             | [Java](./Java/NumberOfIslands.java)                                              | O(R \* C)                 | O(R \* C)         | Medium     | BFS |
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                         | [Java](./Java/word-ladder.java)                                                  | O(N^2 \* M)               | O(N \* M)         | Medium     | BFS |
 | 994  | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                                  | [Python](./Python/994_Rotting_Oranges.py)                                        | O(N \* M)                 | O(N \* M)         | Medium     | BFS |
+| 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                                                           | [C++](./C++/Network-delay-time.cpp) | _O(V+E))_ |  O(V)             | Medium     | BFS |      
+
 
 <br/>
 <div align="right">

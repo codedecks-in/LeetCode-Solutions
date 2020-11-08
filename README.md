@@ -140,6 +140,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 283     | [Move-Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | [C++](./C++/Move-Zeroes.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
 | 27     | [Remove-Element](https://leetcode.com/problems/remove-element/)                                                                     | [C++](./C++/remove-element.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
 | 36     | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                     | [Java](./Java/valid-sudoku.java)                                                                                      | O(N^2)         | O(N)          | Medium       | Array, 2D Matrix              |
+| 1512   | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                                     | [Java](./Java/Number-of-Good-Pairs.java)                                                                                      | O(N^2)         | O(1)          | Easy       | Array              |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

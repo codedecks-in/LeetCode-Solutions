@@ -159,6 +159,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)                             | [Java](./Java/max-nesting-depth-parentheses.java)                          | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Java](./Java/generate-a-string-with-characters-that-have-odd-counts.java) | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Java](./Java/buddy-strings.java) | _O(n)_ | _O(1)_ | Easy       |     |                 |
+| 9   | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Java](./Java/palindrome-number.java) | _O(n)_ | _O(1)_ | Easy       |     |                 |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

@@ -328,6 +328,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | ---- | ------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------- | ----------- | ---------- | --- | ---- |
 | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)                         | [C++](./C++/Cherry-Pickup-II.cpp)                  | _O(n \* m)_ | _O(n \* m)_ | Hard       | DFS |      |
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](./Python/maximum-depth-of-binary-tree.py) | _O(n)_      | _O(n)_      | Easy       | DFS |      |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./Java/path-sum.java) | _O(n)_ | _O(n)_ | Easy | DFS |     |
 
 <br/>
 <div align="right">

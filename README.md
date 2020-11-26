@@ -201,6 +201,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                       | [Python](./Python/binary-tree-inorder-traversal.py)         | _O(n)_ | _O(n)_ | Medium     | Recursion, Binary Tree |
 | 735  | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                                             | [C++](./C++/asteroid-collision.cpp)                         | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string/)                                                       | [C++](./C++/decode-string.cpp)                              | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
+| 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)                                             | [C++](./C++/minimum-add-to-make-parentheses-valid.cpp)                         | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 
 <br/>
 <div align="right">
@@ -472,6 +473,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Anushka Verma](https://github.com/verma-anushka) <br> <img src="https://avatars0.githubusercontent.com/u/46157435?s=400&u=aa3db9cf25b4a9644a16607d0c8bd6c98763a62d&v=4" width="100" height="100"> | India        | C++                  | [Portfolio](https://verma-anushka.github.io/anushkaverma/) <br> [LeetCode](https://leetcode.com/anushka_verma/)                                                                                                             |
 | [James H](https://github.com/HoangJames) <br> <img src="https://avatars2.githubusercontent.com/u/15057250?s=460&v=4" width="100" height="100">              | United Kingdom | C++                 | [Github](https://github.com/HoangJames)                                                                                                                                                                                         |
 | [Franchis N. Saikia](https://github.com/Francode007) <br> <img src="https://avatars0.githubusercontent.com/u/63102937?s=400&v=4" width="100" height="100">                                         | India        | C++                  | [Github](https://github.com/Francode007)                                                                                                                                                                                    |
+| [Yarncha](https://github.com/yarncha) <br> <img src="https://avatars0.githubusercontent.com/u/33623182?s=400&v=4" width="100" height="100">              | South Korea | C++                 | [LeetCode](https://leetcode.com/yamcha/)                                                                                                                                                                                         |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

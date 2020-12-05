@@ -24,7 +24,7 @@
 ![Language](https://img.shields.io/badge/language-Python%20%2F%20Java%20%2F%20JS%20%2F%20C++-orange.svg)&nbsp;
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)&nbsp;
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
-[![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/Suj9dq)
+[![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/6sHPkUTC)
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
 [![HitCount](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI.svg)](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI)
 

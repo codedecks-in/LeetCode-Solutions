@@ -202,7 +202,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 735  | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                                             | [C++](./C++/asteroid-collision.cpp)                         | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string/)                                                       | [C++](./C++/decode-string.cpp)                              | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 | 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)                                             | [C++](./C++/minimum-add-to-make-parentheses-valid.cpp)                         | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
-
+| 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                       | [Python](.Python/longest-valid-parentheses.py)	         | _O(n)_ | _O(n)_ | Hard     | Stack                  |      |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -475,6 +475,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [James H](https://github.com/HoangJames) <br> <img src="https://avatars2.githubusercontent.com/u/15057250?s=460&v=4" width="100" height="100">              | United Kingdom | C++                 | [Github](https://github.com/HoangJames)                                                                                                                                                                                         |
 | [Franchis N. Saikia](https://github.com/Francode007) <br> <img src="https://avatars0.githubusercontent.com/u/63102937?s=400&v=4" width="100" height="100">                                         | India        | C++                  | [Github](https://github.com/Francode007)                                                                                                                                                                                    |
 | [Yarncha](https://github.com/yarncha) <br> <img src="https://avatars0.githubusercontent.com/u/33623182?s=400&v=4" width="100" height="100">              | South Korea | C++                 | [LeetCode](https://leetcode.com/yamcha/)                                                                                                                                                                                         |
+| [Gamez0](https://github.com/Gamez0) <br> <img src="https://avatars3.githubusercontent.com/u/34051876?s=400&v=4" width="100" height="100">              | South Korea | Python                 | [LeetCode](https://leetcode.com/Gamez0/)                                                                                                                                                                                         |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

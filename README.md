@@ -298,6 +298,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman)                    | [Java](./Java/integer-to-roman.java)                                       | _O(n)_            | _O(1)_ | Medium     | Math   |      |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                    | [Java](./Java/roman-to-integer.java)                                       | _O(n)_            | _O(1)_ | Easy       | Math   |      |
 | 14  | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)                    | [Java](./Java/Arithmetic-Subarrays.java)                                       | _O(m*n)_            | _O(n)_ | Medium       | Math   | Pattern Count  |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [Java](./Java/Ugly-Number.java)                                            |   _O(n)_            | _O(1)_ | Easy      | Math    |      |
 
 <br/>
 <div align="right">

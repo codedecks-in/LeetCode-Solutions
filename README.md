@@ -299,6 +299,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 12  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman)                    | [Java](./Java/integer-to-roman.java)                                       | _O(n)_            | _O(1)_ | Medium     | Math   |      |
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                    | [Java](./Java/roman-to-integer.java)                                       | _O(n)_            | _O(1)_ | Easy       | Math   |      |
 | 14  | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)                    | [Java](./Java/Arithmetic-Subarrays.java)                                       | _O(m*n)_            | _O(n)_ | Medium       | Math   | Pattern Count  |
+| 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [Java](./Java/Ugly-Number.java)                                            |   _O(n)_            | _O(n)_ | Easy      | Math    |      |
+
+
 
 <br/>
 <div align="right">
@@ -476,6 +479,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Franchis N. Saikia](https://github.com/Francode007) <br> <img src="https://avatars0.githubusercontent.com/u/63102937?s=400&v=4" width="100" height="100">                                         | India        | C++                  | [Github](https://github.com/Francode007)                                                                                                                                                                                    |
 | [Yarncha](https://github.com/yarncha) <br> <img src="https://avatars0.githubusercontent.com/u/33623182?s=400&v=4" width="100" height="100">              | South Korea | C++                 | [LeetCode](https://leetcode.com/yamcha/)                                                                                                                                                                                         |
 | [Gamez0](https://github.com/Gamez0) <br> <img src="https://avatars3.githubusercontent.com/u/34051876?s=400&v=4" width="100" height="100">              | South Korea | Python                 | [LeetCode](https://leetcode.com/Gamez0/)                                                                                                                                                                                         |
+| [JeongDaHyeon](https://github.com/JeongDaHyeon) <br> <img src="https://avatars0.githubusercontent.com/u/48541114?s=460&v=4" width="100" height="100">              | South Korea | Java                 | [GitHub](https://github.com/JeongDaHyeon)                                                                                                                                                                                         |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

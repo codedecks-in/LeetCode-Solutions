@@ -169,7 +169,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Linked List
 
-| #   | Title                                                                                                                 | Solution                                                                            | Time       | Space  | Difficulty | Tag                | Note |
+| #   | Title                                                                                                                 | Solution                                                                            | Time       | Space  | Difficulty | Tag                | Tutorial |
 | --- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------- | ------ | ---------- | ------------------ | ---- |
 | 002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)                                                     | [Java](./Java/Add-Two-Numbers.java)                                                 | _O(n)_     | _O(n)_ | Medium     | Math               |      |
 | 19  | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)                   | [Java](./Java/remove-nth-node-from-end-of-list.java)                                | _O(n)_     | _O(1)_ | Medium     | Two pointers       |      |
@@ -178,7 +178,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)                                                 | [Java](./Java/linked-list-cycle.java)                                               | _O(n)_     | _O(1)_ | Easy       | Slow-Fast Pointers |      |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                           | [Java](./Java/linked-list-cycle-ii.java) <br> [C++](./C++/Linked-List-Cycle-II.cpp) | _O(n)_     | _O(1)_ | Medium     | Slow-Fast Pointers |      |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                 | [C++](./C++/LRU-Cache.cpp) <br> [Python](./Python/LRUCache.py)                      | _O(1)_     | _O(k)_ | Medium     | Hash Map           |      |
-| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  | [Java](./Java/intersection-of-two-linked-lists.java)                                               | _O(n)_ | _O(1)_ | Easy       | Two Pointers |      |
+| 160  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                  | [Java](./Java/intersection-of-two-linked-lists.java)                                               | _O(n)_ | _O(1)_ | Easy       | Two Pointers |   [Tutorial](https://youtu.be/uozGB0-gbvI)   |
 | 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                                       | _O(n)_     | _O(1)_ | Easy       | Two pointers       |      |
 
 

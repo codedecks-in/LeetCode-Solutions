@@ -15,8 +15,8 @@ import java.math.BigInteger;
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode currHead1 = l1;
-        BigInteger list1 = new BigInteger("0");
-        BigInteger x = new BigInteger("1");
+        BigInteger list1 = BigInteger.valueOf(0);
+        BigInteger x = BigInteger.valueOf(1);
         String s;
         
         while(currHead1 != null){
@@ -29,7 +29,7 @@ class Solution {
         
         x = new BigInteger("1");
         ListNode currHead2 = l2;
-        BigInteger list2 = new BigInteger("0");
+        BigInteger list2 = BigInteger.valueOf(0);
         
         while(currHead2 != null){
             s = "" + (x.multiply(BigInteger.valueOf(currHead2.val)));

@@ -11,6 +11,10 @@
  * @return {number}
  */
 
+// PROBLEM:
+// Given a binary tree, find its minimum depth.
+// The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.
+
  // test cases:
  // [3,9,20,null,null,15,7] -- output: 2
 // [2,null,3,null,4,null,5,null,6] -- output: 5
@@ -24,12 +28,15 @@ var minDepth = function(root) {
     } else { return 0 }
 };
 
+// traversal of the tree is recursive to ensure travel down
+// both the right and left children nodes 
 var traversal = (root, depth) => {
     let current = root;
     let right;
     let left;
     if(!current) {
         return null;
+    // this checks if the current node is a leaf node
     } if (!current.right && !current.left) {
         return depth;
     }

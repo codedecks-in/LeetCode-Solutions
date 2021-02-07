@@ -1,6 +1,8 @@
 class Solution {
     public boolean detectCapitalUse(String word) {
         
+
+//hello
         int upperCaseCount = 0;
         int lowerCaseCount = 0;
         

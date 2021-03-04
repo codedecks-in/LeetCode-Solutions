@@ -320,8 +320,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                         | [Java](./Java/word-ladder.java)                                                  | O(N^2 \* M)               | O(N \* M)         | Medium     | BFS |
 | 994  | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                                  | [Python](./Python/994_Rotting_Oranges.py)                                        | O(N \* M)                 | O(N \* M)         | Medium     | BFS |
 | 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                                                           | [C++](./C++/Network-delay-time.cpp) | _O(V+E))_ |  O(V)             | Medium     | BFS |      
-
-
+ 111 | [Min Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [JavaScript](./JavaScript/111-minimum-depth-of-binary-tree.js) | O(nlogn) | O(nlogn) | Easy | BFS
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -481,7 +480,8 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Franchis N. Saikia](https://github.com/Francode007) <br> <img src="https://avatars0.githubusercontent.com/u/63102937?s=400&v=4" width="100" height="100">                                         | India        | C++                  | [Github](https://github.com/Francode007)                                                                                                                                                                                    |
 | [Yarncha](https://github.com/yarncha) <br> <img src="https://avatars0.githubusercontent.com/u/33623182?s=400&v=4" width="100" height="100">              | South Korea | C++                 | [LeetCode](https://leetcode.com/yamcha/)                                                                                                                                                                                         |
 | [Gamez0](https://github.com/Gamez0) <br> <img src="https://avatars3.githubusercontent.com/u/34051876?s=400&v=4" width="100" height="100">              | South Korea | Python                 | [LeetCode](https://leetcode.com/Gamez0/)                                                                                                                                                                                         |
-| [JeongDaHyeon](https://github.com/JeongDaHyeon) <br> <img src="https://avatars0.githubusercontent.com/u/48541114?s=460&v=4" width="100" height="100">              | South Korea | Java                 | [GitHub](https://github.com/JeongDaHyeon)                                                                                                                                                                                         |
+| [JeongDaHyeon](https://github.com/JeongDaHyeon) <br> <img src="https://avatars0.githubusercontent.com/u/48541114?s=460&v=4" width="100" height="100">              | South Korea | Java                 | [GitHub](https://github.com/JeongDaHyeon)                                                                                                                                                                                         | 
+[Aysia](https://www.linkedin.com/in/aysiaelise/) ![Hi](https://avatars.githubusercontent.com/u/70167431?s=460&u=1637be8636b6db6e35343ed9c1318c23e909b463&v=4) | USA | JavaScript | [GitHub](https://github.com/aysiae)
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

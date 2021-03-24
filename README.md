@@ -26,7 +26,6 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 [![Discord](https://img.shields.io/discord/463752820026376202.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/umYVGnvvAg)
 [![first-timers-only-friendly](http://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://code.publiclab.org#r=all)
-[![HitCount](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI.svg)](http://hits.dwyl.io/GouravRusiya30/SpringBootRestAPI)
 
 <!--[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/pulls"><img src="https://img.shields.io/github/issues-pr/codedecks-in/LeetCode-Solutions" alt="Pull Requests Badge"/></a>

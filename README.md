@@ -335,8 +335,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](./Python/maximum-depth-of-binary-tree.py) | _O(n)_      | _O(n)_      | Easy       | DFS |      |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./Java/path-sum.java) | _O(n)_ | _O(n)_ | Easy | DFS |     |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./Java/Balanced-Binary-Tree.java) | _O(n)_ | _O(n)_ | Easy | DFS |     |
-
-<br/>
+| 1376 | [ Time Needed to Inform All Employees] (https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [C++] | _O(n)_ | _O(n)_ | Medium | DFS |     | 
+|<br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

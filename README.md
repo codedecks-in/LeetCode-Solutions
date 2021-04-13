@@ -279,6 +279,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [Java](./Java/median-of-two-sorted-arrays.java)                                                                        | _O(log(min(m,n)))_     | _O(1)_             | Hard       |             |                  |
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)         | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |
 | 015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                  | [C++](./C++/3sum.cpp)                                                                                                  | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |                  |
+| 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)               | [C++](./C++/Longest-Mountain-in-Array.cpp) | _O(N)_                 | _O(1)_             | Easy     | Two Pointer |                  |
 
 
 <br/>
@@ -335,7 +336,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [python](./Python/maximum-depth-of-binary-tree.py) | _O(n)_      | _O(n)_      | Easy       | DFS |      |
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Java](./Java/path-sum.java) | _O(n)_ | _O(n)_ | Easy | DFS |     |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Java](./Java/Balanced-Binary-Tree.java) | _O(n)_ | _O(n)_ | Easy | DFS |     |
-| 1376 | [ Time Needed to Inform All Employees] (https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [C++] | _O(n)_ | _O(n)_ | Medium | DFS |     | 
+| 1376 | [ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [C++](./C++/Cherry-Pickup-II.cpp) | _O(n)_ | _O(n)_ | Medium | DFS |     |
 |<br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -482,6 +483,11 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Gamez0](https://github.com/Gamez0) <br> <img src="https://avatars3.githubusercontent.com/u/34051876?s=400&v=4" width="100" height="100">              | South Korea | Python                 | [LeetCode](https://leetcode.com/Gamez0/)                                                                                                                                                                                         |
 | [JeongDaHyeon](https://github.com/JeongDaHyeon) <br> <img src="https://avatars0.githubusercontent.com/u/48541114?s=460&v=4" width="100" height="100">              | South Korea | Java                 | [GitHub](https://github.com/JeongDaHyeon)                                                                                                                                                                                         | 
 [Aysia](https://www.linkedin.com/in/aysiaelise/) <br> <img src="https://avatars.githubusercontent.com/u/70167431?s=460&u=1637be8636b6db6e35343ed9c1318c23e909b463&v=4" width="100" height="100"> | USA | JavaScript | [GitHub](https://github.com/aysiae)
+| [Poorvi Garg](https://github.com/POORVI111) <br> <img src="https://avatars.githubusercontent.com/u/68559217?s=400&v=4" width="100" height="100"> | India | C++ | [GitHub](https://github.com/POORVI111)
+                                                                                                                
+                                                                                 
+ 
+                                                                         
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

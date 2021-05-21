@@ -1,4 +1,4 @@
-// Time-Complexity:- O(1)
+// Time-Complexity:-  -> O(1) constant as 32 is the number of bits at most we will have to bit shift until carry is zero.
 // Space-Complexity:- O(1)
 
 

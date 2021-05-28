@@ -1,5 +1,4 @@
-// T.C:- O(n)
-//   S.C- O(n)
+
 
 class Solution {
     public int evalRPN(String[] tokens) {

@@ -88,7 +88,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./Java/Sum_of_two_integers.java) | _O(1)_ | _O(1)_ | Medium     | 
 | 476  | [Number Complement](https://leetcode.com/problems/number-complement/)                 | [Java](./Java/number-complement.java) <br/> [C++](./C++/Number-Complement.cpp)                                 | _O(1)_ | _O(1)_ | Easy       |     | [Tutorial](https://youtu.be/6bp5V-O3zts) |
 | 520  | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)                   | [Python](./Python/detect-capital.py) <br/> [C++](./C++/Detect-Capital.cpp)                                     | _O(n)_ | _O(1)_ | Easy       |     |                                          |
-| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Java](./Java/xor-op-in-array.java)                                                                            | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
+| 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Java] (./Java/xor-op-in-array.java) <br/> [C++] (./C++\xor-operation-in-an-array.cpp)                                                                         | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
 
 <br/>
 <div align="right">

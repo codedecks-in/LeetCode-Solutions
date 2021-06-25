@@ -490,7 +490,9 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Aysia](https://www.linkedin.com/in/aysiaelise/) <br> <img src="https://avatars.githubusercontent.com/u/70167431?s=460&u=1637be8636b6db6e35343ed9c1318c23e909b463&v=4" width="100" height="100">   | USA            | JavaScript           | [GitHub](https://github.com/aysiae)                                                                                                                                                                                         |
 | [Poorvi Garg](https://github.com/POORVI111) <br> <img src="https://avatars.githubusercontent.com/u/68559217?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [GitHub](https://github.com/POORVI111)                                                                                                                                                                                      |
 | [Lakshmanan Meiyappan](https://laxmena.com) <br> <img src="https://avatars.githubusercontent.com/u/12819059?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [Website - Blog](https://laxmena.com)<br/> [GitHub](https://github.com/laxmena) <br/> [LinekdIn](https://www.linkedin.com/in/lakshmanan-meiyappan/)                                                                         |
-
+| Carolin James](https://github.com/Carolin16) <br> <img src="" width="" height="">                                                   
+                    | India          | Java                 |[GitHub](https://github.com/Carolin16)                                                                       
+                                                                                                                            |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

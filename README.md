@@ -30,7 +30,8 @@
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/issues"><img src="https://img.shields.io/github/issues/codedecks-in/LeetCode-Solutions" alt="Issues Badge"/></a>
 -->
 
-### Got stuck in a LeetCode question? This repository will help you by providing approach of solving the problems from LeetCode platform.
+### Got stuck in a LeetCode question? 
+### This repository will help you by providing approach of solving the problems from LeetCode platform.
 
 ### [Contributors](#contributors) helped us in providing these Awesome solutions.
 

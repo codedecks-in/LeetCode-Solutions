@@ -1,7 +1,11 @@
 # [LeetCode-Solutions](https://www.youtube.com/playlist?list=PLlUdLC2oSxz2Y1g6V8oRCzauOvbnKl2Ee)
 
 <p align="center">
-<a  href="https://www.facebook.com/groups/codedecks">
+ <h2>Join Us on Telegram & Facebook</h2>
+ <a href="https://t.me/joinchat/K5RKXyxYoW5iYzU1">
+       <img align="left" height=100 src="https://media.giphy.com/media/wlR4kWTnwEyY8RwHKM/giphy.gif">
+ </a>
+ <a href="https://www.facebook.com/groups/codedecks">
        <img align="left" height=100 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
    </a>
    <a href="https://www.youtube.com/c/codedecks?sub_confirmation=1">
@@ -13,7 +17,7 @@
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/network/members"><img src="https://img.shields.io/github/forks/codedecks-in/LeetCode-Solutions" alt="Forks Badge"/></a>
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/codedecks-in/LeetCode-Solutions?color=2b9348"></a>
 
-[![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Apr+is%3Aclosed)
+<!--[![GitHub issues by-label](https://img.shields.io/github/issues-pr-closed-raw/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Apr+is%3Aclosed)
 
 <!--[![GitHub issues by-label](https://img.shields.io/github/issues-pr/codedecks-in/LeetCode-Solutions.svg)](https://github.com/codedecks-in/LeetCode-Solutions/pulls?q=is%3Aopen+is%3Apr)-->
 

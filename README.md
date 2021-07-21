@@ -1,4 +1,4 @@
-# [LeetCode-Solutions](https://www.youtube.com/playlist?list=PLlUdLC2oSxz2Y1g6V8oRCzauOvbnKl2Ee)
+﻿# [LeetCode-Solutions](https://www.youtube.com/playlist?list=PLlUdLC2oSxz2Y1g6V8oRCzauOvbnKl2Ee)
 
 <p align="center">
  <h2>Join Us on Telegram & Facebook</h2>
@@ -493,6 +493,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Poorvi Garg](https://github.com/POORVI111) <br> <img src="https://avatars.githubusercontent.com/u/68559217?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [GitHub](https://github.com/POORVI111)                                                                                                                                                                                      |
 | [Lakshmanan Meiyappan](https://laxmena.com) <br> <img src="https://avatars.githubusercontent.com/u/12819059?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [Website - Blog](https://laxmena.com)<br/> [GitHub](https://github.com/laxmena) <br/> [LinekdIn](https://www.linkedin.com/in/lakshmanan-meiyappan/)                                                                         |
 | [Sachin_Upadhyay](https://github.com/sachsbu) <br> <img src="https://avatars.githubusercontent.com/u/24941685?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/sachsbu)                                                                        |
+| [Priyanka Suthaar](https://github.com/Priyanka94suthaar) <br> <img src="https://avatars.githubusercontent.com/u/79053662?s=400&u=4af66ebc1a27ef97fb9e53b07aa75f4fd0f4b5dc&v=4" width="100" height="100"> | India    | Java                 | [GitHub](https://github.com/Priyanka94suthaar)                                                                                                                                                                              |    
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

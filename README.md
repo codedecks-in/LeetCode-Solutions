@@ -326,7 +326,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 994  | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                                  | [Python](./Python/994_Rotting_Oranges.py)                                        | O(N \* M)                 | O(N \* M)         | Medium     | BFS |
 | 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                                                           | [C++](./C++/Network-delay-time.cpp)                                              | _O(V+E))_                 | O(V)              | Medium     | BFS |
 | 111  | [Min Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                                           | [JavaScript](./JavaScript/111-minimum-depth-of-binary-tree.js)                   | O(nlogn)                  | O(nlogn)          | Easy       | BFS |
-
+| 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                             | [C++](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/C%2B%2B/100_Same_Tree.cpp) | O(N)       | O(N)              | Easy       | BFS | 
+                                                                                                            
+                                            
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -493,6 +495,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Poorvi Garg](https://github.com/POORVI111) <br> <img src="https://avatars.githubusercontent.com/u/68559217?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [GitHub](https://github.com/POORVI111)                                                                                                                                                                                      |
 | [Lakshmanan Meiyappan](https://laxmena.com) <br> <img src="https://avatars.githubusercontent.com/u/12819059?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [Website - Blog](https://laxmena.com)<br/> [GitHub](https://github.com/laxmena) <br/> [LinekdIn](https://www.linkedin.com/in/lakshmanan-meiyappan/)                                                                         |
 | [Sachin_Upadhyay](https://github.com/sachsbu) <br> <img src="https://avatars.githubusercontent.com/u/24941685?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/sachsbu)                                                                        |
+| [Amisha Sahu](https://github.com/Amisha328) <br> <img src = "https://avatars.githubusercontent.com/u/58816552?v=4" width="100" height="100"> | India | C++ | [CodeChef](https://www.codechef.com/users/amisha328)<br/>[LeetCode](https://leetcode.com/Mishi328/)<br/>[HackerRank](https://www.hackerrank.com/amishasahu328)
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

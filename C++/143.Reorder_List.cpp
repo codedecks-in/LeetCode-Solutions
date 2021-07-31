@@ -1,3 +1,5 @@
+/* medium difficulty */
+
 class Solution {
 public:
     void reorderList(ListNode* head) {

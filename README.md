@@ -186,7 +186,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                           | [Java](./Java/linked-list-cycle-ii.java) <br> [C++](./C++/Linked-List-Cycle-II.cpp) | _O(n)_     | _O(1)_ | Medium     | Slow-Fast Pointers |                                          |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                 | [C++](./C++/LRU-Cache.cpp) <br> [Python](./Python/LRUCache.py)                      | _O(1)_     | _O(k)_ | Medium     | Hash Map           |                                          |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                   | [Java](./Java/intersection-of-two-linked-lists.java)                                | _O(n)_     | _O(1)_ | Easy       | Two Pointers       | [Tutorial](https://youtu.be/uozGB0-gbvI) |
-| 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                                       | _O(n)_     | _O(1)_ | Easy       | Two pointers       |                                          |
+| 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                                       | _O(n)_     | _O(1)_ | Easy       | Two pointers       |  
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                   | [C++](./C++/143.Reorder_List.cpp)                                | _O(n)_     | _O(n)_ | Medium       | Iteration and Stack       |
+                                        |
 
 <br/>
 <div align="right">

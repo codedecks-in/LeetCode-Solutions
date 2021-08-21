@@ -17,7 +17,8 @@ Explanation: Your function can return either index number 1 where the peak eleme
  * @param {number[]} nums
  * @return {number}
  */
-var findPeakElement = function (nums) {
+//Changed from var to let
+let findPeakElement = function (nums) {
   let left = 0,
     right = nums.length - 1,
     mid;

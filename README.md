@@ -348,7 +348,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                | [Java](./Java/Balanced-Binary-Tree.java)           | _O(n)_      | _O(n)_      | Easy       | DFS |      |
 | 1376 | [ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [C++](./C++/Cherry-Pickup-II.cpp)                  | _O(n)_      | _O(n)_      | Medium     | DFS |      |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                       | [C++](./C++/number-of-islands.cpp)                  | _O(m * n)_ | _O(m * n)_ | Medium     | DFS |      |
-|
 
 <br/>
 <div align="right">

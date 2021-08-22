@@ -347,9 +347,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 112  | [Path Sum](https://leetcode.com/problems/path-sum/)                                                        | [Java](./Java/path-sum.java)                       | _O(n)_      | _O(n)_      | Easy       | DFS |      |
 | 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                | [Java](./Java/Balanced-Binary-Tree.java)           | _O(n)_      | _O(n)_      | Easy       | DFS |      |
 | 1376 | [ Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [C++](./C++/Cherry-Pickup-II.cpp)                  | _O(n)_      | _O(n)_      | Medium     | DFS |      |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                       | [C++](./C++/number-of-islands.cpp)                  | _O(m * n)_ | _O(m * n)_ | Medium     | DFS |      |
 
-|<br/>
-
+<br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
@@ -500,6 +500,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Sachin_Upadhyay](https://github.com/sachsbu) <br> <img src="https://avatars.githubusercontent.com/u/24941685?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/sachsbu)                                                                        |
 | [Amisha Sahu](https://github.com/Amisha328) <br> <img src = "https://avatars.githubusercontent.com/u/58816552?v=4" width="100" height="100"> | India | C++ | [CodeChef](https://www.codechef.com/users/amisha328)<br/>[LeetCode](https://leetcode.com/Mishi328/)<br/>[HackerRank](https://www.hackerrank.com/amishasahu328)
 <br/>
+| [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

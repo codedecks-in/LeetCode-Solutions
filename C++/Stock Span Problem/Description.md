@@ -78,8 +78,11 @@ int main()
 
     return 0;
 }
+# Time Complexity
 
-Test case:
+ O(n)
+
+# Test case:
 
 Input: [100,80,60,70,60,75,85]
 

@@ -190,7 +190,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                                       | _O(n)_     | _O(1)_ | Easy       | Two pointers       |  
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                   | [C++](./C++/143.Reorder_List.cpp)                                | _O(n)_     | _O(n)_ | Medium       | Iteration and Stack       |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | [C++](./C++/Swap-nodes-in-pairs.cpp)                                       | _O(n)_     | _O(1)_ | Medium       | Two pointers       |
-                                        |
   
 
 <br/>
@@ -500,9 +499,8 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Aysia](https://www.linkedin.com/in/aysiaelise/) <br> <img src="https://avatars.githubusercontent.com/u/70167431?s=460&u=1637be8636b6db6e35343ed9c1318c23e909b463&v=4" width="100" height="100">   | USA            | JavaScript           | [GitHub](https://github.com/aysiae)                                                                                                                                                                                         |
 | [Poorvi Garg](https://github.com/POORVI111) <br> <img src="https://avatars.githubusercontent.com/u/68559217?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [GitHub](https://github.com/POORVI111)                                                                                                                                                                                      |
 | [Lakshmanan Meiyappan](https://laxmena.com) <br> <img src="https://avatars.githubusercontent.com/u/12819059?s=400&v=4" width="100" height="100">                                                   | India          | C++                  | [Website - Blog](https://laxmena.com)<br/> [GitHub](https://github.com/laxmena) <br/> [LinekdIn](https://www.linkedin.com/in/lakshmanan-meiyappan/)                                                                         |
-| [Sachin_Upadhyay](https://github.com/sachsbu) <br> <img src="https://avatars.githubusercontent.com/u/24941685?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/sachsbu)                                                                        |
+| [Sachin_Upadhyay](https://github.com/sachsbu) <br> <img src="https://avatars.githubusercontent.com/u/24941685?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/sachsbu)   
 | [Amisha Sahu](https://github.com/Amisha328) <br> <img src = "https://avatars.githubusercontent.com/u/58816552?v=4" width="100" height="100"> | India | C++ | [CodeChef](https://www.codechef.com/users/amisha328)<br/>[LeetCode](https://leetcode.com/Mishi328/)<br/>[HackerRank](https://www.hackerrank.com/amishasahu328)
-<br/>
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

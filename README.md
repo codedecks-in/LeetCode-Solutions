@@ -189,7 +189,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                   | [Java](./Java/intersection-of-two-linked-lists.java)                                | _O(n)_     | _O(1)_ | Easy       | Two Pointers       | [Tutorial](https://youtu.be/uozGB0-gbvI) |
 | 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                                       | _O(n)_     | _O(1)_ | Easy       | Two pointers       |  
 | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                   | [C++](./C++/143.Reorder_List.cpp)                                | _O(n)_     | _O(n)_ | Medium       | Iteration and Stack       |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                 | [C++](./C++/Swap-nodes-in-pairs.cpp)                                       | _O(n)_     | _O(1)_ | Medium       | Two pointers       |
                                         |
+  
 
 <br/>
 <div align="right">

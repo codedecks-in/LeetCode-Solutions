@@ -54,31 +54,35 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Algorithms
 
+- [LeetCode-Solutions](#leetcode-solutions)
+    - [Got stuck in a LeetCode question?](#got-stuck-in-a-leetcode-question)
+    - [This repository will help you by providing approach of solving the problems from LeetCode platform.](#this-repository-will-help-you-by-providing-approach-of-solving-the-problems-from-leetcode-platform)
+    - [Contributors helped us in providing these Awesome solutions.](#contributors-helped-us-in-providing-these-awesome-solutions)
+    - [If you want to contribute, please create a Pull Request. If you are new to Github please check pull request procedure ---> PR process](#if-you-want-to-contribute-please-create-a-pull-request-if-you-are-new-to-github-please-check-pull-request-procedure-----pr-process)
+    - [Don't forget to give us a 🌟 to support us.](#dont-forget-to-give-us-a--to-support-us)
+  - [Check out -> Learning Resources](#check-out---learning-resources)
+- [Algorithms](#algorithms)
 - [Bit Manipulation](#bit-manipulation)
+- [Sort](#sort)
+- [Recursion](#recursion)
 - [Array](#array)
 - [String](#string)
 - [Linked List](#linked-list)
 - [Stack](#stack)
 - [Queue](#queue)
-- [Heap](#heap)
 - [Tree](#tree)
 - [Hash Table](#hash-table)
-- [Math](#math)
 - [Two Pointers](#two-pointers)
-- [Sort](#sort)
-- [Recursion](#recursion)
-- [Binary Search](#binary-search)
-- [Binary Search Tree](#binary-search-tree)
+- [Math](#math)
 - [Breadth-First Search](#breadth-first-search)
 - [Depth-First Search](#depth-first-search)
-- [Backtracking](#backtracking)
+- [BackTracking](#backtracking)
 - [Dynamic Programming](#dynamic-programming)
-- [Greedy](#greedy)
+- [Binary Search](#binary-search)
 - [Graph](#graph)
-- [Geometry](#geometry)
-- [Simulation](#simulation)
-- [Design](#design)
-- [Concurrency](#concurrency)
+- [Learning Resources](#learning-resources)
+  - [Authors](#authors)
+  - [Contributors](#contributors)
 
 # Bit Manipulation
 
@@ -103,6 +107,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                                   | Solution                                    | Time   | Space  | Difficulty | Tag | Tutorial |
 | --- | --------------------------------------------------------------------------------------- | ------------------------------------------- | ------ | ------ | ---------- | --- | -------- |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./C++/k-closest-points-to-origin.cpp) | _O(n)_ | _O(1)_ | Medium     |     |          |
+
+<br/>
+<div align="right">
+       <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
+
+# Recursion
+
+| #   | Title                                                                                   | Solution                                    | Time   | Space  | Difficulty | Tag | Tutorial |
+| --- | --------------------------------------------------------------------------------------- | ------------------------------------------- | ------ | ------ | ---------- | --- | -------- |
 
 <br/>
 <div align="right">

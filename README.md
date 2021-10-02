@@ -215,6 +215,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)       | [C++](./C++/minimum-add-to-make-parentheses-valid.cpp)      | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 | 32   | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/)                               | [Python](.Python/longest-valid-parentheses.py)              | _O(n)_ | _O(n)_ | Hard       | Stack                  |      |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [C++](./C++/minimum-remove-to-make-valid-parentheses.cpp)   | _O(n)_ | _O(n)_ | Medium     | Stack                  |      |
+| 209 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [C++](https://github.com/sinu-02/LeetCode-Solutions/blob/new/C%2B%2B/Stock%20Span%20Problem/Stock-Span-Problem.cpp)   | _O(n)_ | _O(n)_ | Medium     | Stack                  |      |
+
 
 <br/>
 <div align="right">

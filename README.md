@@ -503,7 +503,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Sachin_Upadhyay](https://github.com/sachsbu) <br> <img src="https://avatars.githubusercontent.com/u/24941685?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/sachsbu)   
 | [Amisha Sahu](https://github.com/Amisha328) <br> <img src = "https://avatars.githubusercontent.com/u/58816552?v=4" width="100" height="100"> | India | C++ | [CodeChef](https://www.codechef.com/users/amisha328)<br/>[LeetCode](https://leetcode.com/Mishi328/)<br/>[HackerRank](https://www.hackerrank.com/amishasahu328)
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
-| [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode]https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
+| [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

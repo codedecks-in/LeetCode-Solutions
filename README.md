@@ -314,6 +314,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 14  | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)           | [Java](./Java/Arithmetic-Subarrays.java)                                   | _O(m\*n)_         | _O(n)_ | Medium     | Math   | Pattern Count |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [Java](./Java/Ugly-Number.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
 
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

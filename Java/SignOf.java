@@ -1,12 +1,8 @@
-package com.mani.MathsAssignment;
+
 
 // https://leetcode.com/problems/sign-of-the-product-of-an-array/
-class SignOf {
-    public static void main(String[] args) {
-        int[] nums = {-1,1,-1,1,-1};
-        System.out.println(arraySign(nums));
-    }
-    public  static int arraySign(int[] nums) {
+
+    public  int arraySign(int[] nums) {
         int count = 0;
         for(int i : nums){
             if(i == 0){
@@ -20,4 +16,3 @@ class SignOf {
         }
         return -1;
     }
-}

@@ -387,6 +387,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                                         | [C++](./C++/dungeon-game.pp)                              | _O(M\*N)_ | _O(M\*N)_ | Hard       | Dynamic Programming  |      |
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                   | [Java](./Java/climbing-stairs.java)                       | _O(N)_    | _O(1)_    | Easy       | DP                   |      |
 | 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp) | _O(N\*N)_ | _O(N\*N)_ | Hard       | DP                   |      |
+| 42  | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [C++](./C++/trapping-rain-water.cpp) | _O(N)_ | _O(N)_ | Hard       | DP                   |      |
 
 <br/>
 <div align="right">

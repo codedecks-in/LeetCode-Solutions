@@ -35,3 +35,18 @@ var singleNumber = function(nums) {
 
     return result[0]
 };
+
+
+
+//------- Test cases -----------------
+// Input: nums = [2,2,1]
+// Output: 1
+console.log(`Example 01 = ${singleNumber([2,2,1])} expected Output 1.`)
+
+// Input: nums = [4,1,2,1,2]
+// Output: 4
+console.log(`Example 02 = ${singleNumber([4,1,2,1,2])} expected Output 4.`)
+
+// Input: nums = [1]
+// Output: 1
+console.log(`Example 03 = ${singleNumber([1])} expected Output 1.`)

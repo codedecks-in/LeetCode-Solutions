@@ -33,6 +33,10 @@ import java.util.Set;
 //0 <= nums.length <= 3000
 //-105 <= nums[i] <= 105
 
+/*Runtime: 288 ms
+Memory Usage: 44 MB
+Difficulty Medium*/
+
 class Threesum {
     public List<List<Integer>> threeSum(int[] nums) {
         Set<List<Integer>> a  = new HashSet<>();

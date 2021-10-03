@@ -25,6 +25,11 @@
 //All the elements of pushed are unique.
 //popped.length == pushed.length
 //popped is a permutation of pushed.
+
+/*Runtime: 1 ms
+Memory Usage: 38.7 MB
+Difficulty Medium*/
+
 package testing;
 
 class Solution {

@@ -17,6 +17,11 @@ Input: hand = [1,2,3,4,5], groupSize = 4
 Output: false
 Explanation: Alice's hand can not be rearranged into groups of 4.
 */
+
+/*Runtime: 51 ms
+Memory Usage: 41.4 MB
+Difficulty Medium
+*/
 import java.util.PriorityQueue;
 
 public class HandOfStraights {

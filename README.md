@@ -313,7 +313,10 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                    | [Java](./Java/roman-to-integer.java) <br> [C++](./C++/Roman_to_Integer.cpp)| _O(n)_            | _O(1)_ | Easy       | Math   |               | 
 | 14  | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)           | [Java](./Java/Arithmetic-Subarrays.java)                                   | _O(m\*n)_         | _O(n)_ | Medium     | Math   | Pattern Count |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [Java](./Java/Ugly-Number.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
-
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                             | [Java](./Java/FizzBuzz.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/)                             | [Java](./Java/WaterBottles.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
+| 1822 | [Sign Of Product](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                             | [Java](./Java/SignOf.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/)                             | [Java](./Java/BrokenCalculator.java)                                            | _O(n)_            | _O(n)_ | Medium       | Math   |               |
 
 <br/>
 <div align="right">

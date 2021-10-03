@@ -145,6 +145,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 36      | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                   | [Java](./Java/valid-sudoku.java)                                                                                  | O(N^2)       | O(N)          | Medium     | Array, 2D Matrix   |
 | 1512    | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                   | [Java](./Java/Number-of-Good-Pairs.java)                                                                          | O(N^2)       | O(1)          | Easy       | Array              |
 | 162     | [Find Peak element](https://leetcode.com/problems/find-peak-element/)                                                         | [javascript](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/JavaScript/findPeakElement.js)                                                                     | o(Logn)      | O(1)          | Medium     | Array              |
+| 1914    | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Java](./Java/CyclicallyRotatingGrid.java)| O((m+n)^3)  | O(1)     | Medium    | Array, Matrix |       
 
 <br/>
 

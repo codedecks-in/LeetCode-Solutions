@@ -8,10 +8,10 @@ n : int (integer base 10)
 k : int (base to be converted to)
 return value : int 
 """
-        summation=0
-        while n >= k :
-            
-            summation = summation + n%k
-            n=n//k
-        print(n)   
-        return (summation + n)
+    summation=0
+    while n >= k :
+        
+        summation = summation + n%k
+        n=n//k
+    print(n)   
+    return (summation + n)

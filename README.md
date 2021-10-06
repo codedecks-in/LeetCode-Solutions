@@ -321,7 +321,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/)                             | [Java](./Java/WaterBottles.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
 | 1822 | [Sign Of Product](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                             | [Java](./Java/SignOf.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
 | 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/)                             | [Java](./Java/BrokenCalculator.java)                                            | _O(n)_            | _O(n)_ | Medium       | Math   |               |
-
+| 50 | [Pow(x,n)](https://leetcode.com/problems/powx-n/)                             | [Java](./Java/Pow(x,n).java)                                            | _O(1)_            | _O(1)_ | Medium       | Math   |               |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

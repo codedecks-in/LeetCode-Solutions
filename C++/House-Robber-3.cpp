@@ -24,6 +24,9 @@ public:
     Case 2: you dont choose the current node
     
     Caching using map(unordered because its quicker than std::map & since we dont need nodes sorted in this question), to avoid TLE
+
+    Time Complexity: O(N) (because traversing over all N nodes of tree)
+    Space Complexity: O(N)  (because of map)
     */
     unordered_map<TreeNode *, int> mp; // maximum value obtained for this node, stored as pairs in map
     int helper(TreeNode *root)

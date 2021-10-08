@@ -147,7 +147,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 36      | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                   | [Java](./Java/valid-sudoku.java)                                                                                  | O(N^2)       | O(N)          | Medium     | Array, 2D Matrix   |
 | 1512    | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                   | [Java](./Java/Number-of-Good-Pairs.java)                                                                          | O(N^2)       | O(1)          | Easy       | Array              |
 | 162     | [Find Peak element](https://leetcode.com/problems/find-peak-element/)                                                         | [javascript](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/JavaScript/findPeakElement.js)                                                                     | o(Logn)      | O(1)          | Medium     | Array              |
-| 54      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                         | [C++](./C++/Spiral-matrix.cpp)                                                                     | O(M\*N)      | O(M\*N)         | Medium     | Array              |
+| 54     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                         | [C++](./C++/Spiral-matrix.cpp)                                                                     | O(M\*N)      | O(M\*N)         | Medium     | Array              |
 | 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                         | [C++](./C++/238.Product_of_array_except_self)                                                                   | O(N)      | O(N)         | Medium     | Array              |
 
 
@@ -397,8 +397,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                   | [Java](./Java/climbing-stairs.java)                       | _O(N)_    | _O(1)_    | Easy       | DP                      |      |
 | 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp) | _O(N\*N)_ | _O(N\*N)_ | Hard       | DP                      |      |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                               | [Python](./Python/jumpGame.py)                            | _O(N)_    | _O(N)_    | Medium     | DP                      |      |
-| 343  | [House Robber 3](https://leetcode.com/problems/house-robber-iii/)                                                   | [C++](./C++/House-Robber-3.cpp)                           | _O(n)_    | _O(n)_    | Medium     | DP Tree DFS Binary Tree |
-| 834  | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/)                                 | [C++](./C++/Sum-of-distances-in-tree.cpp)                 | _O(n)_    | _O(n)_    | Hard       | DP Tree DFS Graph       | [Youtube Tutorial](https://www.youtube.com/watch?v=JfBzxIBrnKA)
+| 337  | [House Robber 3](https://leetcode.com/problems/house-robber-iii/)                                                   | [C++](./C++/House-Robber-3.cpp)                           | _O(n)_    | _O(n)_    | Medium     | DP Tree DFS Binary Tree |      |
 
 <br/>
 <div align="right">

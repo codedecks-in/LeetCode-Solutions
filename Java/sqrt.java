@@ -5,7 +5,7 @@ public class Sqrt {
         int ans = mySqrt(81);
         System.out.println(ans);
     }
-    static int mySqrt(int x) {
+    public int mySqrt(int x) {
         if (x == 0) return 0;
         int start = 1, end = x;
         while (start <= end) {

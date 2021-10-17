@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+#Difficulty: Easy
+#Runtime: 80.35% 
+#Memory Usage: 6.53%(16.8 MB)
+
+#Time Complexity =  O(n)
+#Space Complexity = O(1)
+
 '''
 Given the root of a binary tree, return the length of the diameter of the tree.
 The diameter of a binary tree is the length of the longest path between any two nodes in a tree. This path may or may not pass through the root.

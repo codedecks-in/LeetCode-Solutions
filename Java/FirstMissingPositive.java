@@ -4,8 +4,6 @@ Given an unsorted integer array nums, return the smallest missing positive integ
 You must implement an algorithm that runs in O(n) time and uses constant extra space.
  */
 
-package com.vatsal;
-
 class Solution {
     public int firstMissingPositive(int[] nums) {
         int i = 0;

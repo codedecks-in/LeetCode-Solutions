@@ -84,7 +84,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #    | Title                                                                                 | Solution                                                                                                       | Time   | Space  | Difficulty | Tag | Tutorial                                 |
 | ---- | ------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | ---------------------------------------- |
-| 136  | [Single Number](https://leetcode.com/problems/single-number/)                         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
+| 136  | [Single Number](https://leetcode.com/problems/single-number/)                         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) <br> [JavaScript](./JavaScript/single-number.js) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
 | 137  | [Single Number II](https://leetcode.com/problems/single-number-ii/)                   | [Python](./Python/single-number-ii.py)<br/> [C++](./C++/Single-Number-II.cpp)                                  | _O(n)_ | _O(1)_ | Medium     |     |                                          |
 | 260  | [Single Number III](https://leetcode.com/problems/single-number-iii/)                 | [Python](./Python/single-number-iii.py) <br/> [C++](./C++/Single-Number-III.cpp) | _O(n)_ | _O(1)_ | Medium     |     |                                          |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](./Java/Sum_of_two_integers.java) | _O(1)_ | _O(1)_ | Medium     | 
@@ -114,6 +114,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #       | Title                                                                                                                         | Solution                                                                                                          | Time         | Space         | Difficulty | Note               | Video Explaination                       |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------ | ------------- | ---------- | ------------------ | ---------------------------------------- |
+| 118     | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)                                                     | [Java](./Java/PascalsTriangle118.java)                                                                         | _O(N^2)_     | _O(N)_        | Easy       |                    |                                          |
 | 56      | [Merge Intervals](https://leetcode.com/problems/merge-intervals)                                                              | [Python](./Python/56_MergeIntervals.py)                                                                           | _O(nlogn)_   | _O(n)_        | Medium     | Intervals          |                                          |
 | 268     | [Missing Number](https://leetcode.com/problems/missing-number)                                                                | [Java](./Java/missing-number.java)                                                                                | _O(n)_       | _O(1)_        | Easy       | Array              | [Tutorial](https://youtu.be/VwvGEE_OGss) |
 | 697     | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array)                                                        | [Java](./Java/Degree-of-an-Array.java)                                                                            | _O(n)_       | _O(n)_        | Easy       | Array              |                                          |
@@ -146,6 +147,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1512    | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                   | [Java](./Java/Number-of-Good-Pairs.java)                                                                          | O(N^2)       | O(1)          | Easy       | Array              |
 | 162     | [Find Peak element](https://leetcode.com/problems/find-peak-element/)                                                         | [javascript](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/JavaScript/findPeakElement.js)                                                                     | o(Logn)      | O(1)          | Medium     | Array              |
 | 1914    | [Cyclically Rotating a Grid](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Java](./Java/CyclicallyRotatingGrid.java)| O((m+n)^3)  | O(1)     | Medium    | Array, Matrix |       
+| 54     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                         | [C++](./C++/Spiral-matrix.cpp)                                                                     | O(M\*N)      | O(M\*N)         | Medium     | Array              |
+| 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                         | [C++](./C++/238.Product_of_array_except_self)                                                                   | O(N)      | O(N)         | Medium     | Array              |
+
 
 <br/>
 
@@ -315,6 +319,11 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 13  | [Roman to Integer](https://leetcode.com/problems/roman-to-integer)                    | [Java](./Java/roman-to-integer.java) <br> [C++](./C++/Roman_to_Integer.cpp)| _O(n)_            | _O(1)_ | Easy       | Math   |               | 
 | 14  | [Arithmetic Subarrays](https://leetcode.com/problems/arithmetic-subarrays/)           | [Java](./Java/Arithmetic-Subarrays.java)                                   | _O(m\*n)_         | _O(n)_ | Medium     | Math   | Pattern Count |
 | 263 | [Ugly Number](https://leetcode.com/problems/ugly-number/)                             | [Java](./Java/Ugly-Number.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)                             | [Java](./Java/FizzBuzz.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
+| 1518 | [Water Bottles](https://leetcode.com/problems/water-bottles/)                             | [Java](./Java/WaterBottles.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
+| 1822 | [Sign Of Product](https://leetcode.com/problems/sign-of-the-product-of-an-array/)                             | [Java](./Java/SignOf.java)                                            | _O(n)_            | _O(n)_ | Easy       | Math   |               |
+| 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/)                             | [Java](./Java/BrokenCalculator.java)                                            | _O(n)_            | _O(n)_ | Medium       | Math   |               |
+| 1837 | [Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/)                             | [Python](./Python/baseK.py)                                            | _O(n)_            | _O(1)_ | Easy       | Math   |               |
 
 <br/>
 <div align="right">
@@ -365,6 +374,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 037 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)       | [C++](./C++/Sudoku-Solver.cpp)    | _O(n^2)_                  | _O(1)_      | Hard       | Hash Table          |      |
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [C++](./C++/Unique-Paths-III.cpp) | _O(R * C * 2 ^ (R \* C))_ | _O(R \* C)_ | Hard       | DFS, Memoization    |      |
 | 39  | [Combination Sum](https://leetcode.com/problems/combination-sum/)   | [C++](./C++/combination-sum.cpp)  | _O(2^n)_                  | _O(n)_      | Medium     | Array, Backtracking |      |
+| 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   | [C++](./C++/letter-combinations-of-a-phone-number.cpp)  | _O(4^n)_                  | _O(n)_      | Medium     | String, Hash Table, Backtracking |      |
 
 <br/>
 <div align="right">
@@ -387,6 +397,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 174  | [Dungeon Game](https://leetcode.com/problems/dungeon-game/)                                                         | [C++](./C++/dungeon-game.pp)                              | _O(M\*N)_ | _O(M\*N)_ | Hard       | Dynamic Programming  |      |
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                   | [Java](./Java/climbing-stairs.java)                       | _O(N)_    | _O(1)_    | Easy       | DP                   |      |
 | 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp) | _O(N\*N)_ | _O(N\*N)_ | Hard       | DP                   |      |
+| 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                               | [Python](./Python/jumpGame.py)                            | _O(N)_    | _O(N)_    | Medium     | DP                   |      |
 
 <br/>
 <div align="right">
@@ -503,6 +514,8 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Sachin_Upadhyay](https://github.com/sachsbu) <br> <img src="https://avatars.githubusercontent.com/u/24941685?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/sachsbu)   
 | [Amisha Sahu](https://github.com/Amisha328) <br> <img src = "https://avatars.githubusercontent.com/u/58816552?v=4" width="100" height="100"> | India | C++ | [CodeChef](https://www.codechef.com/users/amisha328)<br/>[LeetCode](https://leetcode.com/Mishi328/)<br/>[HackerRank](https://www.hackerrank.com/amishasahu328)
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
+| [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
+| [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

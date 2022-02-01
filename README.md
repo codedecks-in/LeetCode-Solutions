@@ -341,7 +341,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                                                           | [C++](./C++/Network-delay-time.cpp)                                              | _O(V+E))_                 | O(V)              | Medium     | BFS |
 | 111  | [Min Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                                           | [JavaScript](./JavaScript/111-minimum-depth-of-binary-tree.js)                   | O(nlogn)                  | O(nlogn)          | Easy       | BFS |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                             | [C++](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/C%2B%2B/100_Same_Tree.cpp) | O(N)       | O(N)              | Easy       | BFS | 
-                                                                                                            
+| 104 | [Maximum depth of Binary tree](https://leetcode.com/problems/maximum-depth-of-binary-tree//)                                                                                                             | [C++](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/C%2B%2B/Maximum-Depth-of-Binary-Tree.cpp) | O(N)       | O(logN)              | Easy       | BFS | 
+
+
                                             
 <br/>
 <div align="right">

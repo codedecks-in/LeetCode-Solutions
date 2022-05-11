@@ -1,4 +1,11 @@
 /* https://leetcode.com/problems/maximal-rectangle/ */
+/*
+ * Difficulty: Hard
+ *
+ * Time: O(n*m)
+ * Space: O(n*m)
+ * 
+ * */
 using namespace std;
 class Solution {
 public:

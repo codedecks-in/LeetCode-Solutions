@@ -397,6 +397,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 070  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)                                                   | [Java](./Java/climbing-stairs.java)                       | _O(N)_    | _O(1)_    | Easy       | DP                   |      |
 | 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp) | _O(N\*N)_ | _O(N\*N)_ | Hard       | DP                   |      |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                               | [Python](./Python/jumpGame.py)                            | _O(N)_    | _O(N)_    | Medium     | DP                   |      |
+| 85   | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)                                                               | [C++](./C++/maximal-rectangle.cpp)                            | _O(N*M)_    | _O(N*M)_    | Hard     | DP                   |      |
 
 <br/>
 <div align="right">

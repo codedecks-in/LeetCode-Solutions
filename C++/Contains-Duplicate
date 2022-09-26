@@ -1,0 +1,14 @@
+class Solution {
+public:
+    bool containsDuplicate(vector<int>& nums) {
+        //create map. Maps cannot contain duplicate keys.
+        std::map<int,int> mapper;
+        for(int i = 0; i < nums.size(); i++)
+        {
+            mapper.insert(std::pair<int, int>(nums[i], 0));
+        }
+        if(nums.size() > mapper.size())
+            return true;
+        return false;
+    }
+};

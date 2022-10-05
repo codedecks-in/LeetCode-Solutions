@@ -374,6 +374,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [C++](./C++/Unique-Paths-III.cpp) | _O(R * C * 2 ^ (R \* C))_ | _O(R \* C)_ | Hard       | DFS, Memoization    |      |
 | 39  | [Combination Sum](https://leetcode.com/problems/combination-sum/)   | [C++](./C++/combination-sum.cpp)  | _O(2^n)_                  | _O(n)_      | Medium     | Array, Backtracking |      |
 | 17  | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)   | [C++](./C++/letter-combinations-of-a-phone-number.cpp)  | _O(4^n)_                  | _O(n)_      | Medium     | String, Hash Table, Backtracking |      |
+| 51 | [N Queens](https://leetcode.com/problems/n-queens/)   | [Python](./Python/n_queens.py)  | _O(n)_      |  _O(n)_  | Hard | Array    |    |
 
 <br/>
 <div align="right">

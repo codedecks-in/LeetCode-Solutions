@@ -2,9 +2,9 @@
 def deep(a, item):
   start = 0
   end = len(a)
-  depth = math.log(len(a) + 1, 2)
+  depth = math.log(len(a) + 1, 2) # depth of binary tree starting from 1
   i = 0
-  while i <= math.ceil(depth):
+  while i <= math.ceil(depth): # prevents stack error and reduces time
     mid = (start + end) // 2
     if start >= end:
       break
@@ -25,9 +25,9 @@ def merge(a: list, b: list):
 
 # median 
 def median(a):
-  if len(a) % 2:
+  if len(a) % 2: # if odd
     return a[len(a) // 2]
-  else:
+  else: # if even
     return (a[len(a) // 2] + a[len(a) // 2 - 1]) / 2
   
 class Solution:

@@ -1,9 +1,8 @@
 /**
-* Time Complexity - O(n)
+* Time Complexity - O(nlogn+n)
 * Space Complexity - O(1)
-*
-* Please comment one of the method if you are submitting solution directly
-*/
+**/
+
 class Solution {
     
     //  Using sum of first n natural numbers formula.
@@ -36,4 +35,18 @@ class Solution {
         
         return xor;
     }
+    
+    // using quick sort 
+ public int missingNumber(int[] nums) {
+Arrays.sort(nums);//O(nlog(n))
+int a=0;
+for(int i=0;i<nums.length;i++){//O(n)
+if(nums[a]!=i){
+return i;
+}
+a++;
+}
+return nums.length;
+    }
+
 }

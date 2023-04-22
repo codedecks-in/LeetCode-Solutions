@@ -2,7 +2,7 @@
 
 <p align="center">
  <h2>Join Us on Telegram & Facebook</h2>
- <a href="https://t.me/joinchat/K5RKXyxYoW5iYzU1">
+ <a href="https://t.me/codecks">
        <img align="left" height=100 src="https://media.giphy.com/media/wlR4kWTnwEyY8RwHKM/giphy.gif">
  </a>
  <a href="https://www.facebook.com/groups/codedecks">

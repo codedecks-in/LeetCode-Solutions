@@ -413,6 +413,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | [Python](./Python/search-in-rotated-sorted-array.py)                                                                      | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Python/find-minimum-in-rotated-sorted-array.py)                                                                | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | [C++](./C++/BinarySearch.cpp)                                                                                             | _O(logn)_ | _O(1)_ | Easy       |     | Binary Search |
+| 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/)                                 | [C++](./C++/BinarySearch_valid_perfect_square.cpp)                                                                        | _O(logn)_ | _O(1)_ | Easy       |     | Binary Search |
 
 <br/>
 <div align="right">
@@ -515,6 +516,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
+| [Mohammad Hussain](https://github.com/MAX-786) <br> <img src="https://avatars.githubusercontent.com/u/99530996?s=96&v=4" width="100" height="100">                                                                   | India          | C++                  |  [Leetcode](https://leetcode.com/Max786/)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

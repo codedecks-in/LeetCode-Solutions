@@ -519,3 +519,4 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>
 <br/>
+[Prakash MOndal](https://github.com/CodeexpartPrakashGithub) <br> <img src="https://avatars.githubusercontent.com/u/97402824?v=4" width="100" height="100">                                                                   | India          | C++                  |  [Codechef](https://www.codechef.com/users/rko_0211)

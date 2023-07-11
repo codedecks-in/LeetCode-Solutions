@@ -54,31 +54,34 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Algorithms
 
+- [LeetCode-Solutions](#leetcode-solutions)
+    - [Got stuck in a LeetCode question?](#got-stuck-in-a-leetcode-question)
+    - [This repository will help you by providing approach of solving the problems from LeetCode platform.](#this-repository-will-help-you-by-providing-approach-of-solving-the-problems-from-leetcode-platform)
+    - [Contributors helped us in providing these Awesome solutions.](#contributors-helped-us-in-providing-these-awesome-solutions)
+    - [If you want to contribute, please create a Pull Request. If you are new to Github please check pull request procedure ---\> PR process](#if-you-want-to-contribute-please-create-a-pull-request-if-you-are-new-to-github-please-check-pull-request-procedure-----pr-process)
+    - [Don't forget to give us a 🌟 to support us.](#dont-forget-to-give-us-a--to-support-us)
+  - [Check out -\> Learning Resources](#check-out---learning-resources)
+- [Algorithms](#algorithms)
 - [Bit Manipulation](#bit-manipulation)
+- [Sort](#sort)
 - [Array](#array)
 - [String](#string)
 - [Linked List](#linked-list)
 - [Stack](#stack)
 - [Queue](#queue)
-- [Heap](#heap)
 - [Tree](#tree)
 - [Hash Table](#hash-table)
-- [Math](#math)
 - [Two Pointers](#two-pointers)
-- [Sort](#sort)
-- [Recursion](#recursion)
-- [Binary Search](#binary-search)
-- [Binary Search Tree](#binary-search-tree)
+- [Math](#math)
 - [Breadth-First Search](#breadth-first-search)
 - [Depth-First Search](#depth-first-search)
-- [Backtracking](#backtracking)
+- [BackTracking](#backtracking)
 - [Dynamic Programming](#dynamic-programming)
-- [Greedy](#greedy)
+- [Binary Search](#binary-search)
 - [Graph](#graph)
-- [Geometry](#geometry)
-- [Simulation](#simulation)
-- [Design](#design)
-- [Concurrency](#concurrency)
+- [Learning Resources](#learning-resources)
+  - [Authors](#authors)
+  - [Contributors](#contributors)
 
 # Bit Manipulation
 
@@ -163,6 +166,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | :--: | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | --------------- |
 | 3    | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](./Python/Longest_Substring_Without_Repeating_Characters.py) | _O(n)_ | _O(n)_ | Medium | `Hash Table`<br/>`Sliding Window` | Open for improvisation, mentioned time and space complexities unconfirmed |
 | 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                               | [Java](./Java/string-to-integer-atoi.java)                                 | _O(n)_ | _O(1)_ | Medium     |     |                 |
+| 8    | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)                                                               | [C++](./C++/string-to-integer-atoi.cpp)                                    | _O(n)_ | _O(1)_ | Medium     |     |                 |
 | 9    | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)                                                                           | [Java](./Java/palindrome-number.java)                                      | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 151  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)                                                           | [Java](./Java/reverse-words-in-a-string.java)                              | _O(1)_ | _O(n)_ | Medium     |     |                 |
 | 383  | [Ransom Note](https://leetcode.com/problems/ransom-note/)                                                                                       | [Java](./Java/ransom-note.java)                                            | _O(1)_ | _O(n)_ | Easy       |     | Character Count |

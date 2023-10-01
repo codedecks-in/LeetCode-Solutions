@@ -173,6 +173,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)                                         | [Python](./Python/split-a-string-in-balanced-strings.py)                   | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Java](./Java/generate-a-string-with-characters-that-have-odd-counts.java) | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)                             | [Java](./Java/max-nesting-depth-parentheses.java)                          | _O(n)_ | _O(1)_ | Easy       |     |                 |
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/description/)                             | [C++](./C++/reverse-words-in-a-string-iii.cpp)                          | _O(n)_ | _O(1)_ | Easy       | `Two Pointers`    |                 |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
@@ -515,6 +516,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
+| [Nishant Bansal](https://github.com/NishantBansal2003) <br> <img src="https://avatars.githubusercontent.com/u/103022832?u=5dce084c0aae735ba603f99d97f077bc2a4c5131&v=4 width="100" height="100">                                                                   | India          | C++                  |  [Codeforces](https://codeforces.com/profile/power_verse)<br/>[CodeChef](https://www.codechef.com/users/nishant_640)<br/>[Leetcode](https://leetcode.com/nishant_bansal_2003/)<br/>[LinekdIn](https://www.linkedin.com/in/nishantbansal2003/)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

@@ -260,6 +260,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                       | [Javascript](./JavaScript/98.Validate-Binary-Search-Tree.js)                                                     | _O(log(n))_ | _O(log(n))_ | Medium     | Binary Tree                                    |
 | 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                     | [Java](./Java/Redundant-Connection/redundant-connection.java)                                                    | _O(N)_      | _O(N)_      | Medium     | Tree, Union Find                               |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)   |[C++](./C++/Binary-Tree-Level-Order-Traversal.cpp)| _O(n)_      | _O(n)_      | Medium     | Binary Tree, map                                    |      |
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/description/)                                       | [C++](https://leetcode.com/problems/range-sum-of-bst/solutions/596106/c-easy-explaination-step-by-step-100/)                 | _O(n)_        | _O(n)_    | Easy     | Tree,Depth-First Search,Binary Search Tree,Binary Tree 
 
 <br/>
 <div align="right">
@@ -436,6 +437,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1627 | [Graph Connectivity with Threshold](https://leetcode.com/problems/graph-connectivity-with-threshold/)                     | [Java](./Java/graph_connectivity_with_threshold.java)        | _O(V.logV + Q)_ | _O(V)_    | Hard       | Graph | Union Find + Sieve                |
 | 1631 | [Path with Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/)                                       | [Java](./Java/path-with-minimum-effort.java)                 | _O(V^2)_        | _O(V)_    | Medium     | Graph | Dijkstra's Shortest Path          |
 
+
 <br/>
 
 <div align="right">
@@ -515,6 +517,9 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
+| [Utkarsh Tiwari](https://github.com/UtkarshTiwari1750) <br> <img src="https://avatars.githubusercontent.com/u/125150361?v=4">                                                                   | India          | C++                  |  [GitHub](https://github.com/UtkarshTiwari1750)
+
+
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

@@ -261,6 +261,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                     | [Java](./Java/Redundant-Connection/redundant-connection.java)                                                    | _O(N)_      | _O(N)_      | Medium     | Tree, Union Find                               |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)   |[C++](./C++/Binary-Tree-Level-Order-Traversal.cpp)| _O(n)_      | _O(n)_      | Medium     | Binary Tree, map                                    |      |
 
+| 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)   |[C++](./C++/RangeSumOfBST.cpp)| _O(n)_      | _O(n)_      | Easy     | Binary Search Tree                                    |      |
+
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

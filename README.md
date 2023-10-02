@@ -260,7 +260,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                       | [Javascript](./JavaScript/98.Validate-Binary-Search-Tree.js)                                                     | _O(log(n))_ | _O(log(n))_ | Medium     | Binary Tree                                    |
 | 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                     | [Java](./Java/Redundant-Connection/redundant-connection.java)                                                    | _O(N)_      | _O(N)_      | Medium     | Tree, Union Find                               |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)   |[C++](./C++/Binary-Tree-Level-Order-Traversal.cpp)| _O(n)_      | _O(n)_      | Medium     | Binary Tree, map                                    |      |
-
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)   |[C++](./C++/RangeSumOfBST.cpp)| _O(n)_      | _O(n)_      | Easy     | Binary Search Tree                                    |      |
 
 <br/>

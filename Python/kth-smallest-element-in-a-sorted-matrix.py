@@ -6,18 +6,18 @@ Space Complexity: O(1)
 class Solution:
     def kthSmallest(self, matrix, k):
         # Helper function to count how many numbers in 'matrix' are less than or equal to 'target'
-        def countLessEqual(matrix, target):
+        def matrixLessEqual(matrix, target):
             count, n = 0, len(matrix)  # Initialize count and get the size 'n' of the matrix
-            row, col = n-1, 0  # Start from the bottom-left corner of the matrix
+            row, column = n-1, 0  # Start from the bottom-left corner of the matrix
 
             # While our pointer is within the bounds of the matrix
-            while row >= 0 and col < n:
+            while row >= 0 and column < n:
                 # If current element is less than or equal to target, 
                 # add all elements in this column (from 0 to row) to the count
                 # and move one step to the right
-                if matrix[row][col] <= target:
+                if matrix[row][column] <= target:
                     count += row + 1
-                    col += 1
+                    column += 1
                 # If current element is larger than target,
                 # move one step upwards
                 else:
@@ -26,26 +26,25 @@ class Solution:
         
         n = len(matrix)  # Get the size 'n' of the matrix
         # Set initial search range for binary search to [smallest element, largest element]
-        left, right = matrix[0][0], matrix[n-1][n-1]
+        leftNumber, rightNumber = matrix[0][0], matrix[n-1][n-1]
 
         # While the search range [left, right] is valid
-        while left < right:
-            mid = left + (right - left) // 2  # Compute mid-value of current search range
+        while leftNumber < rightNumber:
+            midValue = leftNumber + (rightNumber - leftNumber) // 2  # Compute mid-value of current search range
 
             # If count of elements less than or equal to 'mid' is less than 'k',
             # it implies the k-th smallest is in the upper half of search range.
             # So, update 'left' to be 'mid' + 1
-            if countLessEqual(matrix, mid) < k:
-                left = mid + 1
+            if matrixLessEqual(matrix, midValue) < k:
+                leftNumber = midValue + 1
             # Else, the k-th smallest is in the lower half of search range.
             # So, update 'right' to be 'mid'
             else:
-                right = mid
+                rightNumber = midValue
         
         # When 'left' equals 'right', we have found the smallest value 
-        # for which at least 'k' numbers are less than or equal to it, 
-        # which is the k-th smallest
-        return left
+        return leftNumber
+
 '''
 Test Case 1:
 

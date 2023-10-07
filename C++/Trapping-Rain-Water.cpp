@@ -4,6 +4,19 @@
 /*Complexity
 Time complexity:O(n) Space complexity:O(1)
 */
+
+/*
+Context and Motivation:
+Imagine the elevation heights in the array as a landscape, and the bars as buildings. 
+Rainwater can be trapped between the buildings, and the goal is to calculate the volume of trapped water. 
+This problem has real-world applications in understanding water flow in various terrains, such as urban planning and hydrology.
+
+Approach:
+The provided code is an implementation of the two-pointer approach to solve the 
+trapping rainwater problem efficiently.
+
+*/
+
 class Solution {
 public:
     int trap(vector<int>& h) {

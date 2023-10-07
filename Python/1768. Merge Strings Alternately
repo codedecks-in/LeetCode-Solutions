@@ -1,0 +1,40 @@
+#Time Complexity:   O(n)
+#Space Complexity:  O(n)
+#Speed :  89.22%
+#Memory : 69.85%
+
+# Define a class named Solution, which typically encapsulates a solution or function.
+class Solution(object):
+
+    # Define a method called mergeAlternately within the Solution class.
+    def mergeAlternately(self, word1, word2):
+        # Initialize two index variables, i and j, to track positions in word1 and word2 respectively.
+        i = 0
+        j = 0
+        
+        # Initialize an empty list named 'st' to store characters in the merged order.
+        st = []
+
+        # Loop while both i and j are within the lengths of word1 and word2.
+        while i < len(word1) and j < len(word2):
+            # Append the current character from word1 to the 'st' list.
+            st.append(word1[i])
+            # Append the current character from word2 to the 'st' list.
+            st.append(word2[j])
+            # Increment i to move to the next character in word1.
+            i += 1
+            # Increment j to move to the next character in word2.
+
+        # If there are remaining characters in word2, append them to 'st'.
+        while j < len(word2):
+            st.append(word2[j])
+            j += 1
+
+        # If there are remaining characters in word1, append them to 'st'.
+        while i < len(word1):
+            st.append(word1[i])
+            i += 1
+        
+        # Convert the 'st' list to a single string by joining its elements, and return the result.
+        return "".join(st)
+

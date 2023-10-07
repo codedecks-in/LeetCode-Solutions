@@ -443,6 +443,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Recursion
+
+| #    | Title                                                                                                                     | Solution                                                     | Time            | Space     | Difficulty | Tag   | Note                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------- | --------- | ---------- | ----- | --------------------------------- |
+| 51  | [N-Queens](https://leetcode.com/problems/n-queens/)                                                         | [C++](./C++/51_N_Queen.cpp)                             | _O(N!)_        | _O(N!)_  | Hard     | Recursion | Recursion |
+<br/>
+
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 # Learning Resources
 
 <a target="_blank" href="https://www.amazon.in/gp/search?ie=UTF8&tag=codedecks0d-21&linkCode=ur2&linkId=ad5e11b5c15f960da1985687dfcec2e8&camp=3638&creative=24630&index=books&keywords=java, data structures, algorithms, system design">codedecks</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=codedecks0d-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>

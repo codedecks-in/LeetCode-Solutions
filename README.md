@@ -148,7 +148,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 162     | [Find Peak element](https://leetcode.com/problems/find-peak-element/)                                                         | [javascript](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/JavaScript/findPeakElement.js)                                                                     | o(Logn)      | O(1)          | Medium     | Array              |
 | 54     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                         | [C++](./C++/Spiral-matrix.cpp)                                                                     | O(M\*N)      | O(M\*N)         | Medium     | Array              |
 | 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                         | [C++](./C++/238.Product_of_array_except_self)                                                                   | O(N)      | O(N)         | Medium     | Array              |
-
+| 2873     | [Maximum Value of an Ordered Triplet I](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-i/)                                                         | [C++](./C++/maximum-value-of-an-ordered-triplet-i.cpp)                                                                   | O(N^3)      | O(1)         | Easy     |               |
+| 2874     | [Maximum Value of an Ordered Triplet II](https://leetcode.com/problems/maximum-value-of-an-ordered-triplet-ii/)                                                         | [C++](./C++/maximum-value-of-an-ordered-triplet-ii.cpp)                                                                   | O(N)      | O(N)         | Medium     |               |
 
 <br/>
 
@@ -296,6 +297,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)         | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |
 | 015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                  | [C++](./C++/3sum.cpp)                                                                                                  | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |                  |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)               | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Easy       | Two Pointer |                  |
+| 2875     | [Minimum Size Subarray in Infinite Array](https://leetcode.com/problems/minimum-size-subarray-in-infinite-array/) | [C++](./C++/minimum-size-subarray-in-infinite-array.cpp)                                                                   | O(N)      | O(1)         | Medium     |               |
 
 <br/>
 <div align="right">

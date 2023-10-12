@@ -148,7 +148,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 162     | [Find Peak element](https://leetcode.com/problems/find-peak-element/)                                                         | [javascript](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/JavaScript/findPeakElement.js)                                                                     | o(Logn)      | O(1)          | Medium     | Array              |
 | 54     | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                         | [C++](./C++/Spiral-matrix.cpp)                                                                     | O(M\*N)      | O(M\*N)         | Medium     | Array              |
 | 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                         | [C++](./C++/238.Product_of_array_except_self)                                                                   | O(N)      | O(N)         | Medium     | Array              |
-
+| 1534    | [Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)                                                 | [Python](./Python/1534.Count-Good-Triplets.py)                                                                          | O(N^3)       | O(1)          | Easy       | Array              |
 
 <br/>
 
@@ -515,6 +515,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
+| [S.Sakethram Reddy](https://github.com/Sri5275) <br> <img src="[https://avatars.githubusercontent.com/u/107761612?s=400&u=f1d870f4be20bd7ed80667f5b0b43f369f5d7a62&v=4]" width="100" height="100">                                                  | India          | Python                  |  [GitHub](https://github.com/Sri5275)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

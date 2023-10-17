@@ -1,14 +1,18 @@
 #include <bits/stdc++.h>
+
 using namespace std;
 
 int numIdenticalPairs(vector<int>& nums) {
     unordered_map<int, int> count;
 
+    // Count the occurrences of each number
     for (int num : nums) {
         count[num]++;
     }
 
     int goodPairs = 0;
+
+    // Calculate the number of good pairs for each number
     for (const auto& pair : count) {
         int occurrences = pair.second;
         if (occurrences >= 2) {

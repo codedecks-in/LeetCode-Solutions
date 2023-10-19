@@ -18,9 +18,9 @@ public:
             if(nums[mid] == target) {
                 return mid;
             } else if(nums[mid] < target) { // target on right side of middle element
-                si += 1;
+                si=mid+1; // si += 1;
             } else { // target on left side of middle element
-                ei -= 1;
+                si=mid-1; // ei -= 1;
             }
         }
 

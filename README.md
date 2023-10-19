@@ -413,6 +413,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | [Python](./Python/search-in-rotated-sorted-array.py)                                                                      | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Python/find-minimum-in-rotated-sorted-array.py)                                                                | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | [C++](./C++/BinarySearch.cpp)                                                                                             | _O(logn)_ | _O(1)_ | Easy       |     | Binary Search |
+| 034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Java](./Java/First_Last_Position_of_Element_in_Sorted_Array.java)                   | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 
 <br/>
 <div align="right">
@@ -515,6 +516,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
+| [Aditya Garde](https://github.com/adityagarde) <br> <img src="https://avatars.githubusercontent.com/u/14886766?v=4" width="100" height="100">                                                                   | India          | Java                  |  [GitHub](https://github.com/adityagarde) <br> [LinkedIn](https://www.linkedin.com/in/adityagarde/) <br> [Twitter](https://twitter.com/TheAdityaGarde)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

@@ -103,6 +103,8 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                                   | Solution                                    | Time   | Space  | Difficulty | Tag | Tutorial |
 | --- | --------------------------------------------------------------------------------------- | ------------------------------------------- | ------ | ------ | ---------- | --- | -------- |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./C++/k-closest-points-to-origin.cpp) | _O(n)_ | _O(1)_ | Medium     |     |          |
+| 493 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs) | [C++](./C++/reverse_pair.cpp)
+| _O(n log n)_ | _O(n)_ | Hard    |     |          |
 
 <br/>
 <div align="right">

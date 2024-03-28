@@ -103,6 +103,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | #   | Title                                                                                   | Solution                                    | Time   | Space  | Difficulty | Tag | Tutorial |
 | --- | --------------------------------------------------------------------------------------- | ------------------------------------------- | ------ | ------ | ---------- | --- | -------- |
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./C++/k-closest-points-to-origin.cpp) | _O(n)_ | _O(1)_ | Medium     |     |          |
+| 3075 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children/description/) | [Java](./Java/Maximize-Happiness-of-Selected-Children.java) | _O(nlogn)_ | _O(1)_ | Medium     | Arrays, Greedy, Sorting    |          |
 
 <br/>
 <div align="right">

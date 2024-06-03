@@ -413,6 +413,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)             | [Python](./Python/search-in-rotated-sorted-array.py)                                                                      | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](./Python/find-minimum-in-rotated-sorted-array.py)                                                                | _O(logn)_ | _O(1)_ | Medium     |     | Binary Search |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/)                                               | [C++](./C++/BinarySearch.cpp)                                                                                             | _O(logn)_ | _O(1)_ | Easy       |     | Binary Search |
+| 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/)                               | [C++](./C++/SearchA2DMatrixII.cpp)                                                                                        | _O(m + n)_| _O(1)_ | Medium     |     | Binary Search |
 
 <br/>
 <div align="right">

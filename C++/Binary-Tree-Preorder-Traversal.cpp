@@ -9,19 +9,34 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//This solution is an interative solution for problem #144 using stack
+//Preorder Traversal is root, left, right
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> node;
-        preorder(root, node); 
-        return node;  
-    }
-    private:
-    void preorder(TreeNode* root, vector<int>& nodes){
-        if(root == NULL) return;
+        vector<int> result;
 
-        nodes.push_back(root->val);
-        preorder(root->left, nodes);
-        preorder(root->right, nodes);
+        //if root == nullptr, return empty vector
+        if (root == NULL) {
+            return result;
+        }
+        
+        stack<TreeNode*> node_stack;
+        node_stack.push(root);
+        
+        while (!node_stack.empty()) {
+            TreeNode* node = node_stack.top(); 
+            node_stack.pop(); //pop the top node from the stack
+            result.push_back(node->val); //add the value to the result vector
+            
+            if (node->right) {
+                node_stack.push(node->right); //push right child to the stack if it exists
+            }
+            if (node->left) {
+                node_stack.push(node->left); //push left child to the stack if it exists
+            }
+        }
+        
+        return result;
     }
 };

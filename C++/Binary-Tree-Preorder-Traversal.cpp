@@ -11,6 +11,7 @@
  */
 //This solution is an interative solution for problem #144 using stack
 //Preorder Traversal is root, left, right
+//The Space and Time Complexity is O(n)
 class Solution {
 public:
     vector<int> preorderTraversal(TreeNode* root) {

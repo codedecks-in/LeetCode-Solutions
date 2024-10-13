@@ -3,13 +3,13 @@
 <p align="center">
  <h2>Join Us on Telegram & Facebook</h2>
  <a href="https://t.me/codecks">
-       <img align="left" height=100 src="https://media.giphy.com/media/wlR4kWTnwEyY8RwHKM/giphy.gif">
+       <img align="left" height=100 src="https://media.giphy.com/media/wlR4kWTnwEyY8RwHKM/giphy.gif" alt="Animated Telegram logo">
  </a>
  <a href="https://www.facebook.com/groups/codedecks">
-       <img align="left" height=100 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png">
+       <img align="left" height=100 src="https://static1.squarespace.com/static/5994a0f17131a5643f407c37/t/5bf9070c0ebbe88c3392b17c/1543047009836/facebook_button.png" alt="Facebook Join Group Button">
    </a>
    <a href="https://www.youtube.com/c/codedecks?sub_confirmation=1">
-       <img align="right" height=400 src="https://media.giphy.com/media/XeXtOVyYF961jhiPbt/giphy.gif">
+       <img align="right" height=400 src="https://media.giphy.com/media/XeXtOVyYF961jhiPbt/giphy.gif" alt="AnimatedYouTube Subscribe Button">
    </a>
  <p/>
 

@@ -34,7 +34,7 @@
 <a href="https://github.com/codedecks-in/LeetCode-Solutions/issues"><img src="https://img.shields.io/github/issues/codedecks-in/LeetCode-Solutions" alt="Issues Badge"/></a>
 -->
 
-### Got stuck in a LeetCode question?
+## Got stuck in a LeetCode question?
 
 ### This repository will help you by providing approach of solving the problems from LeetCode platform
 
@@ -53,7 +53,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 ## Check out -> [Learning Resources](#learning-resources)
 
-# Algorithms
+## Algorithms
 
 - [Bit Manipulation](#bit-manipulation)
 - [Sort](#sort)
@@ -73,14 +73,14 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 - [Binary Search](#binary-search)
 - [Graph](#graph)
 
-# Bit Manipulation
+## Bit Manipulation
 
 | #    | Title                                                                                 | Solution                                                                                                                                                        | Time   | Space  | Difficulty | Tag | Tutorial                                 |
 | ---- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | --- | ---------------------------------------- |
 | 136  | [Single Number](https://leetcode.com/problems/single-number/)                         | [Java](./Java/single-number.java) <br> [Python](./Python/single-number.py) <br> [C++](./C++/Single-Number.cpp) <br> [JavaScript](./JavaScript/single-number.js) | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
 | 137  | [Single Number II](https://leetcode.com/problems/single-number-ii/)                   | [Python](./Python/single-number-ii.py)<br/> [C++](./C++/Single-Number-II.cpp)                                                                                   | _O(n)_ | _O(1)_ | Medium     |     |                                          |
 | 260  | [Single Number III](https://leetcode.com/problems/single-number-iii/)                 | [Python](./Python/single-number-iii.py) <br/> [C++](./C++/Single-Number-III.cpp)                                                                                | _O(n)_ | _O(1)_ | Medium     |     |                                          |
-| 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)             | [Java](./Java/Sum_of_two_integers.java)                                                                                                                         | _O(1)_ | _O(1)_ | Medium     |
+| 371  | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/)             | [Java](./Java/Sum_of_two_integers.java)                                                                                                                         | _O(1)_ | _O(1)_ | Medium     |     |                                          |
 | 476  | [Number Complement](https://leetcode.com/problems/number-complement/)                 | [Java](./Java/number-complement.java) <br/> [C++](./C++/Number-Complement.cpp)                                                                                  | _O(1)_ | _O(1)_ | Easy       |     | [Tutorial](https://youtu.be/6bp5V-O3zts) |
 | 520  | [Detect Capital Use](https://leetcode.com/problems/detect-capital/)                   | [Python](./Python/detect-capital.py) <br/> [C++](./C++/Detect-Capital.cpp)                                                                                      | _O(n)_ | _O(1)_ | Easy       |     |                                          |
 | 1486 | [XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/) | [Java](./Java/xor-op-in-array.java) <br/> [C++](./C++/xor-operation-in-an-array.cpp)                                                                            | _O(n)_ | _O(1)_ | Easy       |     | Using XOR                                |
@@ -91,7 +91,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Sort
+## Sort
 
 | #   | Title                                                                                   | Solution                                    | Time   | Space  | Difficulty | Tag | Tutorial |
 | --- | --------------------------------------------------------------------------------------- | ------------------------------------------- | ------ | ------ | ---------- | --- | -------- |
@@ -103,7 +103,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Array
+## Array
 
 | #       | Title                                                                                                                         | Solution                                                                                                          | Time         | Space         | Difficulty | Note               | Video Explaination                       |
 | ------- | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------ | ------------- | ---------- | ------------------ | ---------------------------------------- |
@@ -124,23 +124,23 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 811     | [Subdomain Visit Count](https://leetcode.com/problems/subdomain-visit-count/)                                                 | [JavaScript](./JavaScript/Subdomain-Visit-Count.js)                                                               | _O(N\*M)_    | _O(N\*M + N)_ | Easy       |                    |                                          |
 | 53      | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)                                                           | [C++](./C++/maximum-subarray.cpp)                                                                                 | _O(N)_       | _O(1)_        | Easy       | Array              |                                          |
 | 495     | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking)                                                              | [C++](./C++/teemo-attacking.cpp)                                                                                  | _O(n)_       | _O(1)_        | Medium     | Array              |                                          |
-| 15      | [3 Sum](https://leetcode.com/problems/3sum/)                                                                                  | [Python](./Python/ThreeNumbersSum.py)                                                                             | O( nLog(n) ) | O(1)          | Medium     | Array              |
-| 1200    | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                     | [Python](./Python/SmallestDifference.py)                                                                          | O(n)         | O(1)          | Easy       | Array              |
-| 532     | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                                           | [C++](./C++/k-diff-pairs-in-an-array.cpp)                                                                         | O(n)         | O(n)          | Medium     | Array              |
-| 152     | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                           | [JavaScript](./JavaScript/152.Maximum-Product-Subarray.js)                                                        | O(n)         | O(n)          | Medium     | Array              |
-| 073     | [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                         | [Java](./Java/set-matrix-zeroes.java)                                                                             | O(MN)        | O(1)          | Medium     | Array              |
-| 1288    | [Remove-Covered-Intervals](https://leetcode.com/problems/remove-covered-intervals)                                            | [C++](./C++/Remove-Covered-Intervals.cpp)                                                                         | O(N\*N)      | O(1)          | Medium     | Array              |
-| 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                                   | [Python](./Python/rotate-array.py)                                                                                | O(N)         | O(1)          | Medium     | Array              |
-| 496     | [next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)                                                | [Python](./Python/496_nextgreaterelement.py)                                                                      | O(N)         | O(1)          | Medium     | Array              |
-| 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)                                                          | [Java](./Java/shuffle-the-array.java)                                                                             | O(N)         | O(1)          | Easy       | Array              |
-| 124     | [Permutation by Recussion](https://leetcode.com/problems/permutations/)                                                       | [Java](./Java/shuffle-the-array.java)                                                                             | O(N)         | O(N)          | Easy       | Array              |
-| 283     | [Move-Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | [C++](./C++/Move-Zeroes.cpp)                                                                                      | O(N)         | O(1)          | Easy       | Array              |
-| 27      | [Remove-Element](https://leetcode.com/problems/remove-element/)                                                               | [C++](./C++/remove-element.cpp)                                                                                   | O(N)         | O(1)          | Easy       | Array              |
-| 36      | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                   | [Java](./Java/valid-sudoku.java)                                                                                  | O(N^2)       | O(N)          | Medium     | Array, 2D Matrix   |
-| 1512    | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                   | [Java](./Java/Number-of-Good-Pairs.java)                                                                          | O(N^2)       | O(1)          | Easy       | Array              |
-| 162     | [Find Peak element](https://leetcode.com/problems/find-peak-element/)                                                         | [JavaScript](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/JavaScript/findPeakElement.js)        | o(Logn)      | O(1)          | Medium     | Array              |
-| 54      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                 | [C++](./C++/Spiral-matrix.cpp)                                                                                    | O(M\*N)      | O(M\*N)       | Medium     | Array              |
-| 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                   | [C++](./C++/238.Product_of_array_except_self)                                                                     | O(N)         | O(N)          | Medium     | Array              |
+| 15      | [3 Sum](https://leetcode.com/problems/3sum/)                                                                                  | [Python](./Python/ThreeNumbersSum.py)                                                                             | _O( nLog(n) ) | _O(1)_        | Medium     | Array             |                                          |
+| 1200    | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)                                     | [Python](./Python/SmallestDifference.py)                                                                          | _O(n)_       | _O(1)_        | Easy       | Array              |                                          |
+| 532     | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/)                                           | [C++](./C++/k-diff-pairs-in-an-array.cpp)                                                                         | _O(n)_       | _O(n)_        | Medium     | Array              |                                          |
+| 152     | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)                                           | [JavaScript](./JavaScript/152.Maximum-Product-Subarray.js)                                                        | _O(n)_       | _O(n)_        | Medium     | Array              |                                          |
+| 073     | [Set-Matrix-Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)                                                         | [Java](./Java/set-matrix-zeroes.java)                                                                             | O(MN)        | O(1)          | Medium     | Array              |                                          |
+| 1288    | [Remove-Covered-Intervals](https://leetcode.com/problems/remove-covered-intervals)                                            | [C++](./C++/Remove-Covered-Intervals.cpp)                                                                         | _O(N\*N)_    | _O(1)_        | Medium     | Array              |                                          |
+| 189     | [Rotate-Array](https://leetcode.com/problems/rotate-array/)                                                                   | [Python](./Python/rotate-array.py)                                                                                | _O(N)_       | _O(1)_        | Medium     | Array              |                                          |
+| 496     | [next-greater-element-i](https://leetcode.com/problems/next-greater-element-i)                                                | [Python](./Python/496_nextgreaterelement.py)                                                                      | _O(N)_       | _O(1)_        | Medium     | Array              |                                          |
+| 1470    | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array)                                                          | [Java](./Java/shuffle-the-array.java)                                                                             | _O(N)_       | _O(1)_        | Easy       | Array              |                                          |
+| 124     | [Permutation by Recussion](https://leetcode.com/problems/permutations/)                                                       | [Java](./Java/shuffle-the-array.java)                                                                             | _O(N)_       | _O(N)_        | Easy       | Array              |                                          |
+| 283     | [Move-Zeroes](https://leetcode.com/problems/move-zeroes/)                                                                     | [C++](./C++/Move-Zeroes.cpp)                                                                                      | _O(N)_       | _O(1)_        | Easy       | Array              |                                          |
+| 27      | [Remove-Element](https://leetcode.com/problems/remove-element/)                                                               | [C++](./C++/remove-element.cpp)                                                                                   | _O(N)_       | _O(1)_        | Easy       | Array              |                                          |
+| 36      | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                                                   | [Java](./Java/valid-sudoku.java)                                                                                  | O(N^2)       | O(N)          | Medium     | Array, 2D Matrix   |                                          |
+| 1512    | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)                                                   | [Java](./Java/Number-of-Good-Pairs.java)                                                                          | O(N^2)       | O(1)          | Easy       | Array              |                                          |
+| 162     | [Find Peak element](https://leetcode.com/problems/find-peak-element/)                                                         | [JavaScript](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/JavaScript/findPeakElement.js)        | o(Logn)      | O(1)          | Medium     | Array              |                                          |
+| 54      | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)                                                                 | [C++](./C++/Spiral-matrix.cpp)                                                                                    | O(M\*N)      | O(M\*N)       | Medium     | Array              |                                          |
+| 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                   | [C++](./C++/238.Product_of_array_except_self)                                                                     | O(N)         | O(N)          | Medium     | Array              |                                          |
 
 <br/>
 
@@ -149,7 +149,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# String
+## String
 
 |  #   | Title                                                                                                                                           | Solution                                                                   | Time   | Space  | Difficulty | Tag                               | Note                                                                      |
 | :--: | ----------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- | ------ | ------ | ---------- | --------------------------------- | ------------------------------------------------------------------------- |
@@ -172,7 +172,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Linked List
+## Linked List
 
 | #   | Title                                                                                                                 | Solution                                                                            | Time       | Space  | Difficulty | Tag                 | Tutorial                                 |
 | --- | --------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------- | ------ | ---------- | ------------------- | ---------------------------------------- |
@@ -184,9 +184,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/)                                           | [Java](./Java/linked-list-cycle-ii.java) <br> [C++](./C++/Linked-List-Cycle-II.cpp) | _O(n)_     | _O(1)_ | Medium     | Slow-Fast Pointers  |                                          |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                                                                 | [C++](./C++/LRU-Cache.cpp) <br> [Python](./Python/LRUCache.py)                      | _O(1)_     | _O(k)_ | Medium     | Hash Map            |                                          |
 | 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)                   | [Java](./Java/intersection-of-two-linked-lists.java)                                | _O(n)_     | _O(1)_ | Easy       | Two Pointers        | [Tutorial](https://youtu.be/uozGB0-gbvI) |
-| 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                                       | _O(n)_     | _O(1)_ | Easy       | Two pointers        |
-| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                           | [C++](./C++/143.Reorder_List.cpp)                                                   | _O(n)_     | _O(n)_ | Medium     | Iteration and Stack |
-| 24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                             | [C++](./C++/Swap-nodes-in-pairs.cpp)                                                | _O(n)_     | _O(1)_ | Medium     | Two pointers        |
+| 186 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)                                 | [Java](./Java/middle-of-the-linked-list.java)                                       | _O(n)_     | _O(1)_ | Easy       | Two pointers        |                                          |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/)                                                           | [C++](./C++/143.Reorder_List.cpp)                                                   | _O(n)_     | _O(n)_ | Medium     | Iteration and Stack |                                          |
+| 24  | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)                                             | [C++](./C++/Swap-nodes-in-pairs.cpp)                                                | _O(n)_     | _O(1)_ | Medium     | Two pointers        |                                          |
 
 <br/>
 <div align="right">
@@ -194,18 +194,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Stack
+## Stack
 
 | #    | Title                                                                                                               | Solution                                                                                                              | Time   | Space  | Difficulty | Tag                    | Note |
 | ---- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | ------ | ------ | ---------- | ---------------------- | ---- |
 | 020  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)                                               | [Python](./Python/20_ValidParentheses.py) [C++](./C++/Vlalid_Parentheses.cpp) [Java](./Java/20.ValidParentheses.java) | _O(n)_ | _O(n)_ | Easy       | Stack                  |      |
-| 084  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                     | [C++](./C++/Largest-Rectangle-in-Histogram.cpp)                                                                       | _O(n)_ | _O(n)_ | Hard       | Stack                  |
+| 084  | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)                     | [C++](./C++/Largest-Rectangle-in-Histogram.cpp)                                                                       | _O(n)_ | _O(n)_ | Hard       | Stack                  |      |
 | 150  | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)                 | [Python](./Python/150.EvaluateReversePolishNotation.py) <br> [Java](./Java/evaluate_reverse_polish_notation.java)     | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [C++](./C++/remove-all-adjacent-duplicates-in-string.cpp)                                                             | _O(n)_ | _O(n)_ | Easy       | Stack                  |      |
 | 682  | [Baseball Game](https://leetcode.com/problems/baseball-game/)                                                       | [C++](./C++/Baseball-Game.cpp)                                                                                        | _O(n)_ | _O(n)_ | Easy       | Stack                  |      |
 | 1381 | [Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)   | [Java](./Java/Design-a-Stack-With-Increment-Operation.java)                                                           | _O(n)_ | _O(n)_ | Medium     | Stack                  |      |
-| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | [C++](./C++/Crawler-Log-Folder.cpp)                                                                                   | _O(n)_ | _O(n)_ | Easy       | Stack                  |
-| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                       | [Python](./Python/binary-tree-inorder-traversal.py)                                                                   | _O(n)_ | _O(n)_ | Medium     | Recursion, Binary Tree |
+| 1598 | [Crawler Log Folder](https://leetcode.com/problems/crawler-log-folder/)                                             | [C++](./C++/Crawler-Log-Folder.cpp)                                                                                   | _O(n)_ | _O(n)_ | Easy       | Stack                  |      |
+| 94   | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)                       | [Python](./Python/binary-tree-inorder-traversal.py)                                                                   | _O(n)_ | _O(n)_ | Medium     | Recursion, Binary Tree |      |
 | 735  | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/)                                             | [C++](./C++/asteroid-collision.cpp)                                                                                   | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 | 394  | [Decode String](https://leetcode.com/problems/decode-string/)                                                       | [C++](./C++/decode-string.cpp)                                                                                        | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
 | 921  | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)       | [C++](./C++/minimum-add-to-make-parentheses-valid.cpp)                                                                | _O(n)_ | _O(1)_ | Medium     | Stack                  |      |
@@ -218,14 +218,14 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Queue
+## Queue
 
 | #   | Title                                                                           | Solution                                         | Time   | Space  | Difficulty | Tag                   | Note |
 | --- | ------------------------------------------------------------------------------- | ------------------------------------------------ | ------ | ------ | ---------- | --------------------- | ---- |
-| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./C++/Number-of-Recent-Calls.cpp)          | _O(1)_ | _O(1)_ | Easy       | Queue, Sliding Window |
-| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)   | [Java](./Java/design-circular-deque.java/)       | _O(n)_ | _O(n)_ | Medium     | Queue, Design         |
-| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                 | [Python](./Python/621-Task-Scheduler.py/)        | _O(n)_ | _O(n)_ | Medium     | Queue                 |
-| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)   | [Python](./Python/622-Design-Circular-Queue.py/) | _O(n)_ | _O(n)_ | Medium     | Queue                 |
+| 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./C++/Number-of-Recent-Calls.cpp)          | _O(1)_ | _O(1)_ | Easy       | Queue, Sliding Window |      |
+| 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)   | [Java](./Java/design-circular-deque.java/)       | _O(n)_ | _O(n)_ | Medium     | Queue, Design         |      |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                 | [Python](./Python/621-Task-Scheduler.py/)        | _O(n)_ | _O(n)_ | Medium     | Queue                 |      |
+| 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)   | [Python](./Python/622-Design-Circular-Queue.py/) | _O(n)_ | _O(n)_ | Medium     | Queue                 |      |
 
 <br/>
 <div align="right">
@@ -233,7 +233,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Tree
+## Tree
 
 | #    | Title                                                                                                           | Solution                                                                                                         | Time        | Space       | Difficulty | Tag                                            | Note |
 | ---- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ----------- | ----------- | ---------- | ---------------------------------------------- | ---- |
@@ -248,9 +248,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 919  | [Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/)                   | [Java](./Java/complete-binary-tree-inserter.java)                                                                | _O(n)_      | _O(n)_      | Medium     | Tree                                           |      |
 | 124  | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)                     | [C++](./C++/Binary-Tree-Maximum-Path-Sum.cpp)                                                                    | _O(n)_      | _O(n)_      | Hard       | Tree                                           |      |
 | 1028 | [Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) | [C++](./C++/Recover-a-Tree-From-Preorder-Traversal.cpp)                                                          | _O(n)_      | _O(n)_      | Hard       | Tree                                           |      |
-| 968  | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)                                       | [C++](./C++/Binary-Tree-Cameras.cpp)                                                                             | _O(n)_      | _O(logn)_   | Hard       | Binary Tree, Dynamic Programming               |
-| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                       | [JavaScript](./JavaScript/98.Validate-Binary-Search-Tree.js)                                                     | _O(log(n))_ | _O(log(n))_ | Medium     | Binary Tree                                    |
-| 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                     | [Java](./Java/Redundant-Connection/redundant-connection.java)                                                    | _O(N)_      | _O(N)_      | Medium     | Tree, Union Find                               |
+| 968  | [Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/)                                       | [C++](./C++/Binary-Tree-Cameras.cpp)                                                                             | _O(n)_      | _O(logn)_   | Hard       | Binary Tree, Dynamic Programming               |      |
+| 98   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)                       | [JavaScript](./JavaScript/98.Validate-Binary-Search-Tree.js)                                                     | _O(log(n))_ | _O(log(n))_ | Medium     | Binary Tree                                    |      |
+| 684  | [Redundant Connection](https://leetcode.com/problems/redundant-connection/)                                     | [Java](./Java/Redundant-Connection/redundant-connection.java)                                                    | _O(N)_      | _O(N)_      | Medium     | Tree, Union Find                               |      |
 | 102  | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)           | [C++](./C++/Binary-Tree-Level-Order-Traversal.cpp)                                                               | _O(n)_      | _O(n)_      | Medium     | Binary Tree, map                               |      |
 
 <br/>
@@ -259,19 +259,19 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Hash Table
+## Hash Table
 
 | #   | Title                                                                     | Solution                                                                                      | Time        | Space  | Difficulty | Tag | Video Explanation                                       |
 | --- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------- | ------ | ---------- | --- | ------------------------------------------------------- |
 | 001 | [Two Sum](https://leetcode.com/problems/two-sum/)                         | [Java](./Java/two-sum.java) <br> [Python](./Python/1_TwoSum.py) <br> [C++](./C++/two-sum.cpp) | _O(N)_      | _O(N)_ | Easy       |     | [Tutorial](https://youtu.be/47xMuvwP7zQ)                |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/)             | [Java](./Java/valid-anagram.java)                                                             | _O(n)_      | _O(1)_ | Easy       |     | [Tutorial](https://www.youtube.com/watch?v=sbX1Ze9lNQE) |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                     | [Java](./Java/LRU-Cache.java)                                                                 |             |        | Medium     |     |                                                         |
-| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Python](./Python/contains-duplicate.py)                                                      | _O(n)_      | _O(n)_ |            |     |
-| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)                   | [C++](./C++/brick-walls.cpp)                                                                  | _O(n)_      | _O(n)_ | Medium     |     |
-| 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)           | [Python](./Python/group_anagram.py)                                                           | _O(nlogn)_  | _O(1)_ | Easy       |     |
-| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)                   | [C++](./C++/brick-walls.cpp)                                                                  | _O(n)_      | _O(n)_ | Medium     |     |
-| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                     | [JavaScript](../JavaScript/146.LRU-Cache.js)                                                  | _O(log(n))_ | _O(n)_ | Medium     |     |
-| 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) | [C++](../C++/Find-The-Difference.cpp)                                                         | _O(n)_      | _O(1)_ | Easy       |     |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)   | [Python](./Python/contains-duplicate.py)                                                      | _O(n)_      | _O(n)_ |            |     |                                                         |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)                   | [C++](./C++/brick-walls.cpp)                                                                  | _O(n)_      | _O(n)_ | Medium     |     |                                                         |
+| 049 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)           | [Python](./Python/group_anagram.py)                                                           | _O(nlogn)_  | _O(1)_ | Easy       |     |                                                         |
+| 554 | [Brick Wall](https://leetcode.com/problems/brick-wall/)                   | [C++](./C++/brick-walls.cpp)                                                                  | _O(n)_      | _O(n)_ | Medium     |     |                                                         |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/)                     | [JavaScript](../JavaScript/146.LRU-Cache.js)                                                  | _O(log(n))_ | _O(n)_ | Medium     |     |                                                         |
+| 389 | [Find The Difference](https://leetcode.com/problems/find-the-difference/) | [C++](../C++/Find-The-Difference.cpp)                                                         | _O(n)_      | _O(1)_ | Easy       |     |                                                         |
 
 <br/>
 <div align="right">
@@ -279,13 +279,13 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Two Pointers
+## Two Pointers
 
 | #   | Title                                                                                         | Solution                                                                                                               | Time                   | Space              | Difficulty | Tag         | Note             |
 | --- | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | ---------------------- | ------------------ | ---------- | ----------- | ---------------- |
 | 005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Python](./Python/5_LongestPalindromicSubstring.py) <br> [JavaScript](./JavaScript/5.Longest-Palindromic-Substring.js) | _O(N^2)_ <br> _O(N^2)_ | _O(N)_ <br> _O(1)_ | Medium     |             | Expand the Wings |
 | 4   | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)     | [Java](./Java/median-of-two-sorted-arrays.java)                                                                        | _O(log(min(m,n)))_     | _O(1)_             | Hard       |             |                  |
-| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)         | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |
+| 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)         | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |                  |
 | 015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                  | [C++](./C++/3sum.cpp)                                                                                                  | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |                  |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)               | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Easy       | Two Pointer |                  |
 
@@ -295,7 +295,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Math
+## Math
 
 | #    | Title                                                                                 | Solution                                                                    | Time              | Space  | Difficulty | Tag    | Note          |
 | ---- | ------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ----------------- | ------ | ---------- | ------ | ------------- |
@@ -322,17 +322,17 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Breadth-First Search
+## Breadth-First Search
 
 | #    | Title                                                                                                                                                             | Solution                                                                                        | Time                      | Space             | Difficulty | Tag | Note |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------- | ----------------- | ---------- | --- | ---- |
 | 1284 | [Minimum Number of Flips to Convert Binary Matrix to Zero Matrix](https://leetcode.com/problems/minimum-number-of-flips-to-convert-binary-matrix-to-zero-matrix/) | [C++](./C++/Minimum-Number-of-Flips-to-Convert-Binary-Matrix-to-Zero-Matrix.cpp)                | _O(m * n * 2 ^ (m \* n))_ | _O(2 ^ (m \* n))_ | Hard       | BFS |      |
-| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                             | [Java](./Java/NumberOfIslands.java)                                                             | O(R \* C)                 | O(R \* C)         | Medium     | BFS |
-| 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                         | [Java](./Java/word-ladder.java)                                                                 | O(N^2 \* M)               | O(N \* M)         | Medium     | BFS |
-| 994  | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                                  | [Python](./Python/994_Rotting_Oranges.py)                                                       | O(N \* M)                 | O(N \* M)         | Medium     | BFS |
-| 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                                                           | [C++](./C++/Network-delay-time.cpp)                                                             | _O(V+E))_                 | O(V)              | Medium     | BFS |
-| 111  | [Min Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                                           | [JavaScript](./JavaScript/111-minimum-depth-of-binary-tree.js)                                  | O(nlogn)                  | O(nlogn)          | Easy       | BFS |
-| 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                             | [C++](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/C%2B%2B/100_Same_Tree.cpp) | O(N)                      | O(N)              | Easy       | BFS |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                                                                             | [Java](./Java/NumberOfIslands.java)                                                             | O(R \* C)                 | O(R \* C)         | Medium     | BFS |      |
+| 127  | [Word Ladder](https://leetcode.com/problems/word-ladder/)                                                                                                         | [Java](./Java/word-ladder.java)                                                                 | O(N^2 \* M)               | O(N \* M)         | Medium     | BFS |      |
+| 994  | [Rotten Oranges](https://leetcode.com/problems/rotting-oranges/)                                                                                                  | [Python](./Python/994_Rotting_Oranges.py)                                                       | O(N \* M)                 | O(N \* M)         | Medium     | BFS |      |
+| 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                                                           | [C++](./C++/Network-delay-time.cpp)                                                             | _O(V+E))_                 | O(V)              | Medium     | BFS |      |
+| 111  | [Min Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                                           | [JavaScript](./JavaScript/111-minimum-depth-of-binary-tree.js)                                  | O(nlogn)                  | O(nlogn)          | Easy       | BFS |      |
+| 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                             | [C++](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/C%2B%2B/100_Same_Tree.cpp) | O(N)                      | O(N)              | Easy       | BFS |      |
 
 <br/>
 <div align="right">
@@ -340,7 +340,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Depth-First Search
+## Depth-First Search
 
 | #    | Title                                                                                                     | Solution                                           | Time        | Space       | Difficulty | Tag | Note |
 | ---- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------- | ----------- | ---------- | --- | ---- |
@@ -357,7 +357,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# BackTracking
+## BackTracking
 
 | #   | Title                                                                                                         | Solution                                               | Time                      | Space       | Difficulty | Tag                              | Note |
 | --- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------- | ----------- | ---------- | -------------------------------- | ---- |
@@ -372,13 +372,13 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Dynamic Programming
+## Dynamic Programming
 
 | #    | Title                                                                                                               | Solution                                                  | Time      | Space     | Difficulty | Tag                  | Note |
 | ---- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | --------- | ---------- | -------------------- | ---- |
 | 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                             | [C++](./C++/Partition-Equal-Subset-Sum.cpp)               | _O(n^2)_  | _O(n^2)_  | Medium     | DP                   |      |
-| 056  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)                                               | [Python](./Python/wildcard-matching.py)                   | _O(n^2)_  | _O(n^2)_  | Hard       |                      |
-| 343  | [Integer Break](https://leetcode.com/problems/integer-break/)                                                       | [C++](./C++/Integer-Break.cpp)                            | _O(n^2)_  | _O(n)_    | Medium     |                      |
+| 056  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)                                               | [Python](./Python/wildcard-matching.py)                   | _O(n^2)_  | _O(n^2)_  | Hard       |                      |      |
+| 343  | [Integer Break](https://leetcode.com/problems/integer-break/)                                                       | [C++](./C++/Integer-Break.cpp)                            | _O(n^2)_  | _O(n)_    | Medium     |                      |      |
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)                                                             | [Python](./Python/word-break-1.py)                        | _O(n^3)_  | _O(n)_    | Medium     | DP                   |      |
 | 1092 | [Shortest Common Supersequence](https://leetcode.com/problems/shortest-common-supersequence/)                       | [C++](./C++/Shortest-Common-Supersequence.cpp)            | _O(n^2)_  | _O(n^2)_  | Hard       | DP                   |      |
 | 72   | [Edit Distance](https://leetcode.com/problems/edit-distance/)                                                       | [Python](./Python/edit-distance.py)                       | _O(N\*M)_ | _O(n^2)_  | Medium     | Levenshtein Distance |      |
@@ -395,7 +395,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Binary Search
+## Binary Search
 
 | #   | Title                                                                                                       | Solution                                                                                                                  | Time      | Space  | Difficulty | Tag | Note          |
 | --- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | --------- | ------ | ---------- | --- | ------------- |
@@ -411,7 +411,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Graph
+## Graph
 
 | #    | Title                                                                                                                     | Solution                                                     | Time            | Space     | Difficulty | Tag   | Note                              |
 | ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------- | --------- | ---------- | ----- | --------------------------------- | --- | ------------------------------------------------------------ | ------ | ------- | ------ | ----- | ---------- |
@@ -434,7 +434,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
-# Learning Resources
+## Learning Resources
 
 <a target="_blank" href="https://www.amazon.in/gp/search?ie=UTF8&tag=codedecks0d-21&linkCode=ur2&linkId=ad5e11b5c15f960da1985687dfcec2e8&camp=3638&creative=24630&index=books&keywords=java, data structures, algorithms, system design">codedecks</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=codedecks0d-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>
 

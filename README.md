@@ -44,10 +44,10 @@
 
 Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
 
-- There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
-- For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.
-- Hope you enjoy the journey of learning data structures and algorithms.
-- Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
+-   There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
+-   For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.
+-   Hope you enjoy the journey of learning data structures and algorithms.
+-   Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
 ### Don't forget to give us a 🌟 to support us
 
@@ -55,14 +55,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Algorithms
 
-- [LeetCode-Solutions](#leetcode-solutions)
-    - [Got stuck in a LeetCode question?](#got-stuck-in-a-leetcode-question)
-    - [This repository will help you by providing approach of solving the problems from LeetCode platform](#this-repository-will-help-you-by-providing-approach-of-solving-the-problems-from-leetcode-platform)
-    - [Contributors helped us in providing these Awesome solutions](#contributors-helped-us-in-providing-these-awesome-solutions)
-    - [If you want to contribute, please create a Pull Request. If you are new to Github please check pull request procedure ---\> PR process](#if-you-want-to-contribute-please-create-a-pull-request-if-you-are-new-to-github-please-check-pull-request-procedure-----pr-process)
-    - [Don't forget to give us a 🌟 to support us](#dont-forget-to-give-us-a--to-support-us)
-  - [Check out -\> Learning Resources](#check-out---learning-resources)
-- [Algorithms](#algorithms)
 - [Bit Manipulation](#bit-manipulation)
 - [Sort](#sort)
 - [Array](#array)
@@ -80,9 +72,6 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 - [Dynamic Programming](#dynamic-programming)
 - [Binary Search](#binary-search)
 - [Graph](#graph)
-- [Learning Resources](#learning-resources)
-  - [Authors](#authors)
-  - [Contributors](#contributors)
 
 # Bit Manipulation
 
@@ -235,7 +224,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | --- | ------------------------------------------------------------------------------- | ------------------------------------------------ | ------ | ------ | ---------- | --------------------- | ---- |
 | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [C++](./C++/Number-of-Recent-Calls.cpp)          | _O(1)_ | _O(1)_ | Easy       | Queue, Sliding Window |
 | 641 | [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/)   | [Java](./Java/design-circular-deque.java/)       | _O(n)_ | _O(n)_ | Medium     | Queue, Design         |
-| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                | [Python](./Python/621-Task-Scheduler.py/)        | _O(n)_ | _O(n)_ | Medium     | Queue                 |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/)                 | [Python](./Python/621-Task-Scheduler.py/)        | _O(n)_ | _O(n)_ | Medium     | Queue                 |
 | 622 | [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)   | [Python](./Python/622-Design-Circular-Queue.py/) | _O(n)_ | _O(n)_ | Medium     | Queue                 |
 
 <br/>
@@ -353,14 +342,14 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 # Depth-First Search
 
-| #    | Title                                                                                                      | Solution                                           | Time        | Space       | Difficulty | Tag | Note |
-| ---- | ---------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------- | ----------- | ---------- | --- | ---- |
-| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)                                        | [C++](./C++/Cherry-Pickup-II.cpp)                  | _O(n \* m)_ | _O(n \* m)_ | Hard       | DFS |      |
-| 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)                | [Python](./Python/maximum-depth-of-binary-tree.py) | _O(n)_      | _O(n)_      | Easy       | DFS |      |
-| 112  | [Path Sum](https://leetcode.com/problems/path-sum/)                                                        | [Java](./Java/path-sum.java)                       | _O(n)_      | _O(n)_      | Easy       | DFS |      |
-| 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                                | [Java](./Java/Balanced-Binary-Tree.java)           | _O(n)_      | _O(n)_      | Easy       | DFS |      |
+| #    | Title                                                                                                     | Solution                                           | Time        | Space       | Difficulty | Tag | Note |
+| ---- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- | ----------- | ----------- | ---------- | --- | ---- |
+| 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/)                                       | [C++](./C++/Cherry-Pickup-II.cpp)                  | _O(n \* m)_ | _O(n \* m)_ | Hard       | DFS |      |
+| 104  | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)               | [Python](./Python/maximum-depth-of-binary-tree.py) | _O(n)_      | _O(n)_      | Easy       | DFS |      |
+| 112  | [Path Sum](https://leetcode.com/problems/path-sum/)                                                       | [Java](./Java/path-sum.java)                       | _O(n)_      | _O(n)_      | Easy       | DFS |      |
+| 110  | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)                               | [Java](./Java/Balanced-Binary-Tree.java)           | _O(n)_      | _O(n)_      | Easy       | DFS |      |
 | 1376 | [Time Needed to Inform All Employees](https://leetcode.com/problems/time-needed-to-inform-all-employees/) | [C++](./C++/Cherry-Pickup-II.cpp)                  | _O(n)_      | _O(n)_      | Medium     | DFS |      |
-| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                      | [C++](./C++/number-of-islands.cpp)                 | _O(m \* n)_ | _O(m \* n)_ | Medium     | DFS |      |
+| 200  | [Number of Islands](https://leetcode.com/problems/number-of-islands/)                                     | [C++](./C++/number-of-islands.cpp)                 | _O(m \* n)_ | _O(m \* n)_ | Medium     | DFS |      |
 
 <br/>
 <div align="right">
@@ -387,7 +376,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #    | Title                                                                                                               | Solution                                                  | Time      | Space     | Difficulty | Tag                  | Note |
 | ---- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------- | --------- | ---------- | -------------------- | ---- |
-| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                            | [C++](./C++/Partition-Equal-Subset-Sum.cpp)               | _O(n^2)_  | _O(n^2)_  | Medium     | DP                   |      |
+| 416  | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)                             | [C++](./C++/Partition-Equal-Subset-Sum.cpp)               | _O(n^2)_  | _O(n^2)_  | Medium     | DP                   |      |
 | 056  | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching/)                                               | [Python](./Python/wildcard-matching.py)                   | _O(n^2)_  | _O(n^2)_  | Hard       |                      |
 | 343  | [Integer Break](https://leetcode.com/problems/integer-break/)                                                       | [C++](./C++/Integer-Break.cpp)                            | _O(n^2)_  | _O(n)_    | Medium     |                      |
 | 139  | [Word Break](https://leetcode.com/problems/word-break/)                                                             | [Python](./Python/word-break-1.py)                        | _O(n^3)_  | _O(n)_    | Medium     | DP                   |      |

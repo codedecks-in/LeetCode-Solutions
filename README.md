@@ -44,10 +44,10 @@
 
 Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pull/3)
 
--   There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
--   For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.
--   Hope you enjoy the journey of learning data structures and algorithms.
--   Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
+- There are new LeetCode questions every week. I'll keep updating for full summary and better solutions.
+- For more challenging problem solutions, you can also see our [HackerRank-Solutions](https://github.com/codedecks-in/HackerRank-Solutions), [ProjectEuler](https://github.com/codedecks-in/ProjectEuler-Solutions) repositories.
+- Hope you enjoy the journey of learning data structures and algorithms.
+- Notes: "🔒" means your subscription of [LeetCode premium membership](https://leetcode.com/subscribe/) is required for reading the question.
 
 ### Don't forget to give us a 🌟 to support us
 

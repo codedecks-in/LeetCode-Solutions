@@ -341,7 +341,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 743  | [Network Delay Time](https://leetcode.com/problems/network-delay-time/)                                                                                           | [C++](./C++/Network-delay-time.cpp)                                              | _O(V+E))_                 | O(V)              | Medium     | BFS |
 | 111  | [Min Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)                                                                           | [JavaScript](./JavaScript/111-minimum-depth-of-binary-tree.js)                   | O(nlogn)                  | O(nlogn)          | Easy       | BFS |
 | 100  | [Same Tree](https://leetcode.com/problems/same-tree/)                                                                                                             | [C++](https://github.com/codedecks-in/LeetCode-Solutions/blob/master/C%2B%2B/100_Same_Tree.cpp) | O(N)       | O(N)              | Easy       | BFS | 
-                                                                                                            
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)                                       | [C++](./C++/kth-smallest-element-in-a-bst.cpp)                  | _O(m*n)_ | _O(m*n)_ | Medium     | DFS |      |                                                                                                            
                                             
 <br/>
 <div align="right">
@@ -515,6 +515,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
+| [Nick H](https://github.com/n1i9c9k9) <br> <img src="https://github.com/n1i9c9k9.png" width="100" height="100">                                                                   | Germany          | C++                  |  [GitHub](https://github.com/n1i9c9k9)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

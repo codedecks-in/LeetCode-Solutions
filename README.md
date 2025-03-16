@@ -296,8 +296,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)         | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |
 | 015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                  | [C++](./C++/3sum.cpp)                                                                                                  | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |                  |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)               | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Easy       | Two Pointer |                  |
-| 011 | [Container With Most water](https://leetcode.com/problems/container-with-most-water/)         | [C++](./C++/container-with-most-water.cpp)                                                                                                       |
-_O(n)              | Medium     | Two Pointer, Greedy|             |
+| 011 | [Container With Most water](https://leetcode.com/problems/container-with-most-water/)         | [C++](./C++/container-with-most-water.cpp)  | _O(n)         | Medium         | Two Pointer, Greedy|               |
 
 <br/>
 <div align="right">
@@ -517,8 +516,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shrimadh V Rao](https://github.com/Shrimadh) <br> <img src="https://avatars.githubusercontent.com/u/64469917?v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/Shrimadh)
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
-|  [Amrit Kumar](https://github.com/amrit-GH23) <br> <img src="https://avatars.githubusercontent.com/u/146119347?s=400&u=599ba9f51c94e08861dc01580db03fadde609ad8&v=4" width="100"  height="100">      | India          | C++                 |  [CodeChef] (https://www.codechef.com/users/amrit_kumar08) <br> [Linkedin](https://www.linkedin.com/in/amrit-kumar-28053b253/)
-
+|  [Amrit Kumar](https://github.com/amrit-GH23) <br> <img src="https://avatars.githubusercontent.com/u/146119347?s=400&u=599ba9f51c94e08861dc01580db03fadde609ad8&v=4" width="100"  height="100">      | India          | C++                 | [CodeChef](https://www.codechef.com/users/amrit_kumar08)<br/>[Linkedin](https://www.linkedin.com/in/amrit-kumar-28053b253/)
 
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

@@ -296,7 +296,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/)         | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |
 | 015 | [3 Sum](https://leetcode.com/problems/3sum/)                                                  | [C++](./C++/3sum.cpp)                                                                                                  | _O(N)_                 | _O(1)_             | Medium     | Two Pointer |                  |
 | 021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)               | [C++](./C++/Longest-Mountain-in-Array.cpp)                                                                             | _O(N)_                 | _O(1)_             | Easy       | Two Pointer |                  |
-| 011 | [Container With Most water](https://leetcode.com/problems/container-with-most-water/)         | [C++](./C++/container-with-most-water.cpp)  | _O(n)         | Medium         | Two Pointer, Greedy|               |
+| 011 | [Container With Most water](https://leetcode.com/problems/container-with-most-water/)         | [C++](./C++/container-with-most-water.cpp)  | _O(N)_        |      _O(1)_           |       Medium         | Two Pointer, Greedy|               |
 
 <br/>
 <div align="right">

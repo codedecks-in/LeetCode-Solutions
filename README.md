@@ -150,7 +150,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                         | [C++](./C++/238.Product_of_array_except_self)                                                                   | O(N)      | O(N)         | Medium     | Array              |
 
 
-| 229   | [Majority Element  II](https://leetcode.com/problems/majority-element-ii/)                                                         | [C++](./C++/Majority-element-ii.cpp)                                                                   | O(NlogN)      | O(1)         | Medium     | Array, Sorting, Counting              |
+| 229     | [Majority Element  II](https://leetcode.com/problems/majority-element-ii/)    | [C++](./C++/Majority-element-ii.cpp)                                          | O(NlogN)      | O(1)         | Medium     | Array, Sorting, Counting              |             |
 
 
 <br/>

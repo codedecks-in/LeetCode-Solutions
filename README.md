@@ -150,6 +150,9 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 238     | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)                                                         | [C++](./C++/238.Product_of_array_except_self)                                                                   | O(N)      | O(N)         | Medium     | Array              |
 
 
+| 229   | [Majority Element  II](https://leetcode.com/problems/majority-element-ii/)                                                         | [C++](./C++/Majority-element-ii.cpp)                                                                   | O(NlogN)      | O(1)         | Medium     | Array, Sorting, Counting              |
+
+
 <br/>
 
 <div align="right">
@@ -518,6 +521,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
 |  [Amrit Kumar](https://github.com/amrit-GH23) <br> <img src="https://avatars.githubusercontent.com/u/146119347?s=400&u=599ba9f51c94e08861dc01580db03fadde609ad8&v=4" width="100"  height="100">      | India          | C++                 | [CodeChef](https://www.codechef.com/users/amrit_kumar08)<br/>[Linkedin](https://www.linkedin.com/in/amrit-kumar-28053b253/)
 
+|  [Adarsh Kumar Singh](https://github.com/Account1Adarsh) <br> <img src="https://avatars.githubusercontent.com/u/142895773?s=400&v=4" width="100"  height="100">      | India          | C++                 | [CodeChef](https://www.codechef.com/users/rjit22cs05)<br/>[Leet code](https://leetcode.com/u/the_explorer_adarsh/)
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
 </div>

@@ -444,6 +444,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Map
+| #    | Title                                                                                                                     | Solution                                                     | Time            | Space     | Difficulty | Tag   | Note                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------- | --------- | ---------- | ----- | --------------------------------- |
+| 207  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                   | [C++](./C++/Contains-Duplicate.cpp)             | _O(N)_        | _O(N)_  | Easy     | Map | Map to Determine Duplicates |
+
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 # Learning Resources
 
 <a target="_blank" href="https://www.amazon.in/gp/search?ie=UTF8&tag=codedecks0d-21&linkCode=ur2&linkId=ad5e11b5c15f960da1985687dfcec2e8&camp=3638&creative=24630&index=books&keywords=java, data structures, algorithms, system design">codedecks</a><img src="//ir-in.amazon-adsystem.com/e/ir?t=codedecks0d-21&l=ur2&o=31" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"/>

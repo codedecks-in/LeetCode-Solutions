@@ -1,0 +1,38 @@
+/*
+APPROACH
+Understand the Problem: Analyze the problem statement, constraints, and requirements thoroughly. Identify the key variables involved, such as the number of pigs, the testing time for each pig, and the total time available.
+
+Formulate a Plan: Based on the problem requirements, formulate a plan that utilizes an efficient algorithm to minimize the number of pigs required while ensuring the poisoned bucket can be identified within the given time frame.
+
+Consider Dynamic Programming: Given that the provided code utilizes dynamic programming, further explore how this approach can be optimized for the problem at hand. Look for ways to break down the problem into smaller subproblems and leverage previous calculations to improve the efficiency of the solution.
+
+Algorithm Design: Design an algorithm that incorporates the dynamic programming approach and efficiently utilizes the factorial calculations to determine the number of pigs needed for the testing process. Take into account the time constraints and ensure that the algorithm optimally utilizes the available testing time for each pig.
+
+Implementation: Translate the designed algorithm into code, considering best practices and coding standards. Utilize appropriate data structures and algorithms to efficiently handle the factorial calculations and store intermediate results.
+
+Testing and Debugging: Test the implemented solution with various test cases, including edge cases and corner cases, to verify its correctness and efficiency. Debug any issues that arise during the testing process and ensure that the solution performs as expected for different inputs.
+
+Optimization: Evaluate the implemented solution for any potential optimizations, such as reducing unnecessary calculations, minimizing memory usage, or improving time complexity. Optimize the code to ensure it performs efficiently for large inputs and remains scalable.
+
+Documentation: Document the solution thoroughly, including the approach, algorithm, and any significant considerations taken during the implementation. Provide clear explanations and comments within the code to enhance readability and understanding.
+*?
+//Code:
+class Solution {
+public:
+    int poorPigs(int N, int I, int T) {
+        vector<long long> f(11, 1);
+        for(int i = 1; i <= 10; i++) f[i] = f[i - 1] * i;
+        T = T / I;
+        if(N == 1) return 0LL;
+        vector<vector<int>> dp(11, vector<int> (T + 1));
+        for(int i = 0; i <= 10; i++) dp[i][0] = 1;
+        for(int i = 0; i <= T; i++) dp[0][i] = 1;
+        for(int i = 1; i <= 10; i++){
+            for(int j = 1; j <= T; j++){
+                for(int k = 0; k <= i; k++) dp[i][j] += f[i] / (f[i - k] * f[k]) * dp[i - k][j - 1];
+            }
+            if(dp[i][T] >= N) return i;
+        }
+        return 11LL;
+    }
+};

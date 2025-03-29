@@ -1,0 +1,19 @@
+class Solution {
+public:
+    vector<int> sortArrayByParity(vector<int>& v) {
+        int l = 0,r = v.size()-1;
+        while(l<r){
+            if(v[l]%2==0)l++;
+            else{
+                swap(v[l],v[r]);
+                r--;
+            }
+            if(v[r]%2)r--;
+            else{
+                swap(v[l],v[r]);
+                l++;
+            }
+        }
+        return v;
+    }
+};

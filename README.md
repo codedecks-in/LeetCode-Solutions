@@ -399,6 +399,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 730  | [Count Different Palindromic Subsequences](https://leetcode.com/problems/count-different-palindromic-subsequences/) | [C++](./C++/Count-Different-Palindromic-Subsequences.cpp) | _O(N\*N)_ | _O(N\*N)_ | Hard       | DP                   |      |
 | 55   | [Jump Game](https://leetcode.com/problems/jump-game/)                                                               | [Python](./Python/jumpGame.py)                            | _O(N)_    | _O(N)_    | Medium     | DP                   |      |
 
+| 354  | [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/) | [C++](./C++/354.Russian_Doll_Envelope.cpp) | _O(N^2)_ | _O(N)_ |  Hard       | DP,Sorting           |      |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

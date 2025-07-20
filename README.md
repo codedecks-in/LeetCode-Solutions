@@ -517,6 +517,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 | [Shreyas Shrawage](https://github.com/shreyventure) <br> <img src = "https://avatars.githubusercontent.com/u/55741087?v=4" width="100" height="100"> | India | Python | [CodeChef](https://www.codechef.com/users/shreyventure)<br/>[LeetCode](https://leetcode.com/shreyventure/)<br/>[HackerRank](https://www.hackerrank.com/shreyas_shrawage)
 | [Surbhi Mayank](https://github.com/surbhi2408) <br> <img src="https://avatars.githubusercontent.com/u/58289829?s=400&u=68fd396819b927ec4d8820d87d6d1e311c3abd01&v=4" width="100" height="100">                                                                   | India          | C++                  |  [GitHub](https://github.com/surbhi2408)
 |  [Amrit Kumar](https://github.com/amrit-GH23) <br> <img src="https://avatars.githubusercontent.com/u/146119347?s=400&u=599ba9f51c94e08861dc01580db03fadde609ad8&v=4" width="100"  height="100">      | India          | C++                 | [CodeChef](https://www.codechef.com/users/amrit_kumar08)<br/>[Linkedin](https://www.linkedin.com/in/amrit-kumar-28053b253/)
+|  [Jayant Patel](https://github.com/jayantpatel06) <br> <img src="https://avatars.githubusercontent.com/u/189831817?s=400&u=df298f6f8a5e8366d370dcfeafde4e8bb3c025d1&v=4" width="100"  height="100">      | India          | C++                 | [CodeChef](https://www.codechef.com/users/coderjayant)<br/>[Linkedin](https://www.linkedin.com/in/jayantpatel06/)
 
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>

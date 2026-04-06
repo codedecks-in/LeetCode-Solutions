@@ -1,0 +1,34 @@
+class Solution {
+public:
+    int r,c;
+    vector<vector<int>>dir = {{1,0},{-1,0},{0,1},{0,-1}};
+    bool isvalid(int ni, int nj, vector<vector<int>>&vis , vector<vector<char>> &grid){
+        return (ni>=0 && nj>=0 && ni<r && nj<c && !vis[ni][nj] && grid[ni][nj]=='1') ;
+        
+    }
+    void DFS(int i ,int j , vector<vector<int>>&vis , vector<vector<char>> &grid){
+        vis[i][j]=1;
+        for(auto e:dir){
+            int ni=i+e[0];
+            int nj=j+e[1];
+            if(isvalid(ni,nj,vis,grid)){
+                DFS(ni,nj,vis,grid);
+            }
+        }
+    }
+    int numIslands(vector<vector<char>>& grid) {
+        r=grid.size();
+        c=grid[0].size();
+        int island=0;
+        vector<vector<int>> vis(r,vector<int>(c,0));
+        for(int i=0;i<r;i++){
+            for(int j=0;j<c;j++){
+                if(!vis[i][j] && grid[i][j]!='0'){
+                    DFS(i,j,vis,grid);
+                    island++;
+                }
+            }
+        }
+        return island;        
+    }
+};

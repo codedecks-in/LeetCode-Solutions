@@ -1,6 +1,15 @@
 #Difficulty = Easy
 #Submission Speed = 64.69% 
 '''
+LeetCode #1. Two Sum 
+Question:
+Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+
+You may assume that each input would have exactly one solution, and you may not use the same element twice.
+
+You can return the answer in any order.
+
+Naive Solutions:
 Solution-1:
 Example: nums = [3,2,1,4]       target = 6
 Step1) Create a dictionary and populate it with elements of nums as the key and their corresponding index as values.
@@ -54,3 +63,30 @@ class Solution:
             if complement in d:
                 return [d[complement],i]
             d[nums[i]]=i
+
+
+'''
+Optimal Solution:
+The two-sum problem can be solved in linear time as well. To accomplish this, we must utilize hash-tables, 
+which have constant (O(1)) lookup time.
+
+The algorithm is as follows:
+Initialize an empty hash table.
+For each element in the array:
+Calculate the complement by subtracting the current list element from the given number.
+Look up the complement in the hash table. If it exists, a pair that sums up to the given number has been found.
+Insert the current element of the array into the hash table after you perform the step above.
+
+Time Complexity =  O(1)
+'''
+
+#Hash-table
+def twoSumHashing(num_arr, pair_sum):
+    sums = []
+    hashTable = {}
+
+    for i in range(len(num_arr)):
+        complement = pair_sum - num_arr[i]
+        if complement in hashTable:
+            print("Pair with sum", pair_sum,"is: (", num_arr[i],",",complement,")")
+        hashTable[num_arr[i]] = num_arr[i]

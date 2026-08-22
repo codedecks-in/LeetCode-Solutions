@@ -102,8 +102,10 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 
 | #   | Title                                                                                   | Solution                                    | Time   | Space  | Difficulty | Tag | Tutorial |
 | --- | --------------------------------------------------------------------------------------- | ------------------------------------------- | ------ | ------ | ---------- | --- | -------- |
+
 | 973 | [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/) | [C++](./C++/k-closest-points-to-origin.cpp) | _O(n)_ | _O(1)_ | Medium     |     |          |
 
+| 1365 | [how many numbers are smoller then the current number] (https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [C++](./C++/how-many-numbers-are-smoller.cpp) | _O(n)_ | _O(1)_ | easy 
 <br/>
 <div align="right">
        <b><a href="#algorithms">⬆️ Back to Top</a></b>

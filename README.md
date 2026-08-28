@@ -445,6 +445,18 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 </div>
 <br/>
 
+# Map
+| #    | Title                                                                                                                     | Solution                                                     | Time            | Space     | Difficulty | Tag   | Note                              |
+| ---- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------- | --------- | ---------- | ----- | --------------------------------- |
+| 207  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)                                                   | [C++](./C++/Contains-Duplicate.cpp)             | _O(N)_        | _O(N)_  | Easy     | Map | Map to Determine Duplicates |
+
+
+<br/>
+<div align="right">
+    <b><a href="#algorithms">⬆️ Back to Top</a></b>
+</div>
+<br/>
+
 # Learning Resources
 
 1.) [Cracking the Coding Interview (Indian Edition)](https://amzn.to/2H0dHy6)
